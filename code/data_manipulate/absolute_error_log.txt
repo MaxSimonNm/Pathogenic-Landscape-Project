@@ -1,0 +1,29 @@
+Error Log for File Processing
+==================================================
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WBCF-F-D-CE-S89_FENG.xlsx caused an error
+Error: bad operand type for unary ~: 'float'
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\VESA-F-ce-S131-L003-modified_FENG.xlsx caused an error
+Error: 'VESA-F-ce-S131-L003-modified:DP'
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WDDB-F1-D-CE-S47_FENG.xlsx caused an error
+Error: 'WDDB-F1-D-CE-S47:DP'
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WBJI-F-D-CE-S3_FENG.xlsx caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WBJB-F-D-L1L2-CE-S2_FENG.xlsx caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WCTE-F-D-CE-STD-S66_FENG.xlsx caused an error
+Error: 'WCTE-F-D-CE-STD-S66:DP'
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WCBD-F-D-CE-S65_FENG.xlsx caused an error
+Error: 'WCBD-F-D-CE-S65:DP'
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WBJA-F-D-CE-S1_FENG.xlsx caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\16th_Oct_24_Data_Sharing\FENG\WBIB-F-D-CE-S4_FENG.xlsx caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------

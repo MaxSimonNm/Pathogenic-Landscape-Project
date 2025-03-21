@@ -1,0 +1,59 @@
+Error Log for File Processing
+==================================================
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\IN-423-UEUA-F-SSE_merged_output.csv caused an error
+Error: [Errno 22] Invalid argument
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\IN-423-UGSB-F-Merged5_merged_output.csv caused an error
+Error: [Errno 22] Invalid argument
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\IN-423-UGIE-F-SE8-S11_merged_output.csv caused an error
+Error: [Errno 22] Invalid argument
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\VG2B-F-SE8-S44_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\UJ3F-F2-SE8-S21_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\VBGD-F-R1R2-SE8-S13-L002_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\UJZO-Z-SE8-S14_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\UKZA-F-SE8-S1_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\UJRF-F-SE8-S2_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\UJRD-F-SE8-S1_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\VE5H-F-SE8-S154-L004_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\VAKJ-F2-SE8-RSQ_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\ULMA-F2F1-SE8-S29_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\VAXI-F2-R0R1-SE8-RSQ_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\UJNB-F-SE8-S2_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\IN-423-TKYA-F-IE-RE_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\IN-423-TLNC-F-IE-RE_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\IN-423-UC3B-F-SSE_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
+File: H:\Shared drives\VCF & Multianno Backup\MAMs\MAM_17May24\TK4A-RE_merged_output.csv caused an error
+Error: Index(['IGV_link'], dtype='object')
+--------------------------------------------------
