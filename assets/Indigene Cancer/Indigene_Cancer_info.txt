@@ -1,0 +1,2505 @@
+Sample_Name	Cancer
+063T-OTP-CE-S32-Merged	Unknown primary
+IN-423-VFTM-F-ce-S35-L003	Lung
+IN-423-VFUC-F-ce-S21-L003	Lung
+IN-423-VFUD-F-ce-S22-L003	Oral
+IN-423-VFUE-F-ce-S23-L003	Breast
+IN-423-VFUF-F-ce-S24-L003	Lung
+IN-423-VFUH-F-ce-S19-L003	Large Intestine
+IN-423-VFXN-F-ce-S20-L003	Pancreas
+IN-423-VFXS-F-ce-S25-L003	Lung
+IN-423-XBTAN-F4F5-D-L2-CE-S1	Breast
+IN-423-XBWAJ-Z-D-CE-S1	Breast
+IN-423-XBZA4-F-D-CE-S1	Small Intestine
+IN-423-XBZA9-F1-D-CE-S1	Oral
+IN-423-XBZAC-F-D-CE-S1	Lung
+IN-423-XBZAG-F-D-CE-S1	Lung
+IN-423-XBZAH-F1-D-CE-S1	Oral
+IN-423-XBZAL-F-D-L4-CE-S1	Lung
+UGFB-F2-D-CE-S1	Esophagus
+UGZB-Z-OTP-CE-S31-Merged	N/A
+UI3A-F-CE-VAL-S37	Lung
+UIFD-F3-D-CE-S1	Unknown primary
+UJDD-F-CE-VAL-S35	Lung
+UJHA-F-OTP-CE-S33-Merged	Retroperitoneum and Peritoneum
+UJMA-F2-D-CE-S37-L003	N/A
+UL2H-F-CE-VAL-S36	Lung
+ULCD-F2-CE-S41	N/A
+VADB-F-R-CE-S31	N/A
+VAXB-F1F2-CE-S28	N/A
+VBGD-F-R1R2R3-CE-SE8-Merged	Breast
+VBGD-F1-R3-CE-RSQ-S37	Breast
+VBNK-F3-CE-S34	N/A
+VBUB-F-R0R1-CE-S16	N/A
+VBUC-F2-R1-CE-RSQ-S28	N/A
+VBUC-F2-R1-CE-S47	N/A
+VBUE-F-CE-Val-S14-L002	Lung
+VBUF-F2-R01-CE-S33	Lung
+VBVD-F2-CE-S54-L003	N/A
+VBXB-F-CE-S30	N/A
+VC2B-F-CE-S45	N/A
+VC2C-F-CE-S42	N/A
+VC2E-F-CE-S43	N/A
+VC2F-F-CE-S46	Lung
+VC2G-F-CE-S49	Unknown primary
+VC2G-F-R1R2-4h-CE-RSQ-S45	Unknown primary
+VC2H-F-CE-S44	Large Intestine
+VC4A-F-ce-S22	Small Intestine
+VC5B-F-CE-S25	Ovary
+VC5C-F-R0-CE-S36	N/A
+VC5H-F2-ce-S28	Lung
+VCBA-F-CE-S28	N/A
+VCCA-F-CE-S10	N/A
+VCCC-F-CE-S29	Head and Neck
+VCDA-F-4h-CE-VAL-S36	Lung
+VCDA-F-CE-S31	Lung
+VCGB-F-CE-S12	N/A
+VCGH-F-CE-S14	Gallbladder
+VCGI-F-CE-S32	Skin
+VCGJ-F-CE-S15	N/A
+VCGK-F-R012-ce-S30	N/A
+VCHB-F-CE-S19	N/A
+VCIA-F-CE-S35	N/A
+VCIB-F-CE-S33	N/A
+VCNA-F-CE-S22	N/A
+VCNE-F-CE-S31	N/A
+VCOC-F-CE-S27	Large Intestine
+VCUA-F2-CE-S45	N/A
+VCUB-F-R0R1-ce-S27	Lung
+VCWA-F-ce-S28	Lung
+VCXA-F2-R0R1-4h-CE-S44	Lung
+VCYB-F-R-R3R4-4h-CE-S43	Kidney
+VCYB-F-RER1-CE-RSQ-S18	Kidney
+VCYC-F-R-4h-CE-RSQ-S41	Ovary
+VCYC-F-R1-CE-S48	Ovary
+VD1G-F-R1-CE-S19	Lung
+VD2A-F-CE-S15	Uterus
+VD2C-F-RER-CE-S25	Urinary Bladder
+VD2C-F3-CE-RSQ-S30	Urinary Bladder
+VD3D-F-CE-S16	Unknown primary
+VD3E-F-CE-S17	Lung
+VDAB-F-CE-S27	Lung
+VDEB-F-ce-S24	Large Intestine
+VDFA-F-4h-CE-S33	N/A
+VDGC-F-4h-CE-S34	N/A
+VDGD-F-4h-CE-S35	N/A
+VDHC-F-4h-CE-S42	Gallbladder
+VDHC-F2-R-CE-RSQ-S36	Gallbladder
+VDHC-Z2-CE-S41-S1-L001	Gallbladder
+VDKA-F-CE-S30	Unknown primary
+VDKE-F-CE-S35	Oral
+VDLB-F-CE-S34	Lung
+VDLC-F-CE-S31	Head and Neck
+VDLD-F-CE-S36	Lung
+VDMB-F-CE-S32	N/A
+VDME-F2-RER-R0R1-CE-S28	Breast
+VDNJ-F-CE-S33	Lung
+VDRD-F-RER-CE-S33	N/A
+VDRE-F-RER-R0-CE-S34	Esophagus
+VDSA-F-CE-S18	N/A
+VDSB-F-CE-S43	Skin
+VDUE-F-CE-S30	Lung
+VDVF-F-CE-S31	N/A
+VDVI-F-R0-CE-S32	Breast
+VDZA-F-ce-S31	Lung
+VE1C-F2-ce-S50	N/A
+VE1D-F-CE-S25	Unknown primary
+VE4F-F3-ce-S46	Oral
+VE4G-F-CE-S140-L004	Ovary
+VE4I-F-CE-S142-L004	Lung
+VE4K-F2-CE-S42	Breast
+VE5B-F-CE-S146-L004	Lung
+VE5D-F-CE-S149-L004	Ovary
+VE5E-F-CE-S150-L004	Lung
+VE5F-F-CE-S152-L004	Rectum
+VE5G-F2-CE-S41	Breast
+VEDE-F-CE-S20	Ovary
+VEDE-F-R-CE-RSQ-S26	Ovary
+VEED-F-CE-S21	Breast
+VEED-F-R-CE-RSQ-S27	Breast
+VEFD-F-CE-S26	N/A
+VEFD-F3-CE-S49	N/A
+VEIG-F-CE-S27	Lung
+VEIG-F-R-CE-RSQ-S31	Lung
+VEIG-F-R-CE-RSQ-S43-L003	Lung
+VEIJ-F-CE-S23	Ovary
+VEIJ-F1F2-CE-RSQ-S25	Ovary
+VEIM-F-CE-S22	Lung
+VEIM-F-R-CE-RSQ-S28	Lung
+VEJA-F-CE-S24	Liver and intrahepatic bile ducts
+VEJA-F-R-CE-RSQ-S29	Liver and intrahepatic bile ducts
+VELA-F-CE-RSQ-S19-L003	Gallbladder
+VELA-F-CE-S30	Gallbladder
+VELB-F2-CE-S34	Kidney
+VELE-F-CE-S31	Lung
+VEMD-F-CE-S1	Ovary
+VEME-F-CE-S33	N/A
+VEMG-F-CE-S37	N/A
+VEPF-F-CE-S36	Rectum
+VEPH-F-CE-S38	Lung
+VEPM-F3-CE-S20-L003	Unknown primary
+VEPN-F-CE-S35	Ovary
+VERA-F-CE-S11	Oral
+VERB-F-CE-S12	Lung
+VERI-F-CE-S13	Pancreas
+VESA-F-ce-S131-L003	Ovary
+VESB-F-CE-S14	Large Intestine
+VESC-F-CE-S15	Oral
+VESE-F-CE-S16	Lung
+VESI-F-CE-S17	Lung
+VESI-F3-ce-S127-L003	Lung
+VETI-F-CE-S19	N/A
+VEWJ-F-CE-S14	N/A
+VEWM-F-CE-S19	Head and Neck
+VEWN-F-CE-S49-L003	N/A
+VEWO-F-CE-S26	Lung
+VEXE-F-CE-S20	Thyroid
+VEXF-F-CE-S15	Pancreas
+VEYA-F-CE-S16	Ovary
+VEYC-F-CE-S17	Cervix
+VEYD-F-CE-S18	Lung
+VEYE-F-CE-S52-L003	Unknown primary
+VEZA-F-CE-S54-L003	Prostate
+VEZH-F-CE-S24	Lung
+VF1B-F3-ce-S128-L003	Large Intestine
+VF1G-F-ce-S43	Brain
+VF1I-F-ce-S45	Small Intestine
+VF1L-F-ce-S48	Lung
+VF1M-F2-ce-S29	Lung
+VF1N-F-ce-S47	Lung
+VF3A-F2-ce-S32	Breast
+VF4D-F-ce-S35	Ovary
+VFAA-F-CE-S164-L004	Ovary
+VFAE-F-CE-S171-L004	Breast
+VFFH-F-CE-S179-L004	Rectum
+VFFK-F-CE-S35	Lung
+VFFN-F2-ce-S54	N/A
+VFFV-F2-CE-S25-L003	Ovary
+VFFW-F-CE-S36	Lung
+VFFX-F-CE-S37	Lung
+VFGB-F-CE-S34	Lung
+VFGD-F-CE-S38	Esophagus
+VFHC-F-CE-S40	Unknown primary
+VFHE-F2-CE-S26-L003	Unknown primary
+VFHG-F-CE-S39	N/A
+VFIB-F-CE-S43	Skin
+VFIC-F-CE-S44	Rectum
+VFJB-F-CE-S46	Ovary
+VFJC-F2-D-CE-S4	Lung
+VFML-F-CE-S56	Lung
+VFMM-F-CE-S57	Lung
+VFMN-F-CE-S58	Pancreas
+VFMO-F-CE-S59	Esophagus
+VFMP-F-CE-S60	Lung
+VFNB-F-CE-S36-L003	Ovary
+VFNC-F-CE-S37-L003	Rectum
+VFNG-F-CE-S38-L003	Pancreas
+VFNH-F-CE-S39-L003	Large Intestine
+VFNI-F-CE-S41-L003	Large Intestine
+VFNK-F-CE-S43-L003	Ovary
+VFNO-F-CE-S44-L003	Lung
+VFOB-F-CE-S45-L003	Rectum
+VFOC-F-CE-S46-L003	Ovary
+VFOD-F-CE-S47-L003	Lung
+VFOE-F-CE-S48-L003	Lung
+VFOG-F-CE-S49-L003	Lung
+VFOI-F-CE-S50-L003	Ovary
+VFPA-F-CE-S51-L003	Lung
+VFPC-F-CE-S52-L003	Lung
+VFPF-F-CE-S53-L003	Rectum
+VFQG-F-CE-S54-L003	Breast
+VFQI-F-CE-S55-L003	Lung
+VFQO-F-CE-S56-L003	Sarcoma
+VFTB-F3-ce-RSQ-S152-L003	Lung
+VFTB-F3-ce-S53-L004	Lung
+VFTB-F3-ce-S53-Merged-L004	Lung
+VFTJ-F-ce-S32	Head and Neck
+VFTN-F-ce-S15	Lung
+VFTO-F-CE-S57-L003	Lung
+VFTP-F-ce-S17	Lung
+VFTR-F-ce-S16	Esophagus
+VFUQ-F-ce-S18	Pancreas
+VFWA-F3-ce-S55-L004	Prostate
+VFWB-F-R01-ce-S56-L004	Rectum
+VFXI-F2-ce-S57-L004	N/A
+VFXO-F-ce-S14	Breast
+VFXR-F-ce-S55	Lung
+VG1E-F-CE-S45	Lung
+VG2C-F3-CE-rerun-S69	Breast
+VG2C-F3-CE-S69	Breast
+VGAA-F-ce-S30	Lung
+VGAC-F-ce-S36	Small Intestine
+VGAE-F-ce-S31	Breast
+VGAF-F2-ce-S129-L003	N/A
+VGDK-F2-CE-S15	Stomach
+VGDM-F-ce-S135-L003	Lung
+VGDO-F-ce-S136-L003	Lung
+VGDP-F-ce-S137-L003	Lung
+VGDP-F2-D-CE-S32	Lung
+VGEF-F-ce-S142-L003	Pancreas
+VGEG-F-R-CE-S17	Large Intestine
+VGGB-F-ce-S130-L003	Prostate
+VGGC-F2-ce-S380-L003	Large Intestine
+VGHD-F-ce-S132-L003	Lung
+VGKC-F-ce-S372-L003	Lung
+VGKJ-F-ce-S375-L003	Lung
+VGKK-F-ce-S376-L003	Lung
+VGKL-F-ce-S377-L003	Lung
+VGKM-F-ce-S378-L003	N/A
+VGKN-F-ce-S379-L003	Lung
+VGME-F-CE-S51-L003	Ovary
+VGMF-F-ce-S383-L003	Lung
+VGMG-F-ce-S384-L003	Ovary
+VGNA-F-CE-S52-L003	Large Intestine
+VGNF-F-CE-S30-L003	Prostate
+VGNG-F2-CE-S27	Large Intestine
+VGRF-F-CE-S14	Ovary
+VGSC-F-CE-S16	Prostate
+VGSD-F-CE-S28	Lung
+VGTA-F-CE-S17	Breast
+VGUD-F-CE-S9	Oral
+VGUE-F-CE-S10	N/A
+VGUP-F-CE-S12	Ovary
+VGVB-F-CE-S11	Lung
+VGVG-F-CE-S13	Head and Neck
+VGYD-F-D-CE-S51	Liver and intrahepatic bile ducts
+VGYE-F-CE-S22	Uterus
+VGZC-F-CE-S23	Lung
+VGZE-F2-CE-R1	Urinary Bladder
+VH3D-F-CE-S12	Large Intestine
+VH3E-F2-CE-S14	Gallbladder
+VH3H-F-CE-S37	N/A
+VH3J-F-CE-S33	N/A
+VH3K-F-CE-R-S36	Prostate
+VH3L-F-CE-S38	N/A
+VH3O-F2-CE-S34	Pancreas
+VH3Q-F2-CE-S73-S1-L001	Ovary
+VH3S-F-CE-S8	N/A
+VH3T-F-CE-S9	Ovary
+VH4B-F-CE-S10	Breast
+VH4D-F1-L2L3-CE-RSQ-S29	N/A
+VH4D-F2-CE-S44	N/A
+VH4D-F2-D-L2-CE-RSQ-S52	N/A
+VH4E-F2-R2-CE-S47	Skin
+VHAD-F-CE-S48	Oral
+VHAJ-F-R-CE-S3-L004	Breast
+VHAM-F-CE-S42	Lung
+VHAN-F2-CE-S4-L004	Large Intestine
+VHCA-F-CE-S39-S1-L001	Ovary
+VHCB-F2-CE-S58	Breast
+VHCH-F-CE-S40	Others
+VHCI-F-CE-S231-L004	Esophagus
+VHDC-F-CE-S232-L004	Lung
+VHDD-F1F2-D-CE-S110	Others
+VHHD-F-CE-S10-L004	Breast
+VHHE-F-CE-S11-L004	Unknown primary
+VHHF-F-CE-S12-L004	Lung
+VHID-F-CE-S14-L004	Lung
+VHIF-F-CE-S15-L004	Uterus
+VHII-Z-CE-S42	Breast
+VHIJ-F-CE-S17-L004	Breast
+VHIS-F-CE-S25-L004	Lung
+VHIT-F2-CE-S59	N/A
+VHIU-F2-CE-R-S37	Liver and intrahepatic bile ducts
+VHIW-F2-CE-R-S39	Others
+VHJB-F-CE-S28-L004	Large Intestine
+VHLA-F2-CE-S35	Ovary
+VHLB-F2-D-CE-S1	Oral
+VHLK-F-CE-S72	Oral
+VHLL-F2-CE-S35	Lung
+VHPB-F-CE-S74	Lung
+VHQB-F-CE-R-S31	Others
+VHQC-F-CE-R-S41	Lung
+VHQD-F2-CE-S35	Oral
+VHQE-F-CE-S75	Skin
+VHQF-F-CE-S70	Lung
+VHQH-F-CE-R-S34	Oral
+VHQI-F-CE-S71	Lung
+VHQJ-F-CE-S76	Head and Neck
+VHQK-F2-D-CE-S1	Oral
+VHQM-F2-CE-S28	Pancreas
+VHQR-F-CE-S67	Lung
+VHQT-F-CE-S56	Prostate
+VHQW-F-CE-S57	Lung
+VHQY-F-CE-S11	Uterus
+VHQZ-F-CE-S10	N/A
+VHRD-F-CE-S1	Large Intestine
+VHRM-F-CE-S32	Uterus
+VHRN-F-CE-R-S35	Skin
+VHRO-F2-CE-S47-S1-L001	Ovary
+VHRP-F2-CE-S51-S1-L001	Prostate
+VHRS-F-CE-S60	Pancreas
+VHRT-F2-CE-S34	Sarcoma
+VHRU-F2-D-CE-S45	Breast
+VHRV-F-CE-S61	Prostate
+VHRW-F-CE-S55	Lung
+VHRY-F-CE-S5	Ovary
+VHRZ-F2-CE-S37	Brain
+VHSC-F2-D-CE-S32	Lung
+VHVD-F2-CE-S43	Prostate
+VHVE-F-CE-S6	Large Intestine
+VHVF-F-CE-S62	Rectum
+VHWB-F-CE-S43	Ovary
+VHWD-F-CE-S63	Lung
+VHWD-F2-D-CE-S1	Lung
+VHWG-F2-CE-S15	Lung
+VHWH-F2-D-CE-S45	Oral
+VHWO-F-CE-S64	Ovary
+VHWP-F-CE-S54	Large Intestine
+VHWQ-F-CE-S65	Prostate
+VHWR-F2-CE-S48-S1-L001	Breast
+VHWS-F-CE-S42	Oral
+VHWV-F-CE-S66	Breast
+VHWW-F-CE-S44	Lung
+VHWY-F2-CE-S6	Rectum
+VHXI-F-CE-S45	Lung
+VHXK-F-CE-S46	Uterus
+VHXL-F-CE-S5	Uterus
+VHXM-F-CE-S47	Liver and intrahepatic bile ducts
+VHYK-F-CE-S48	Urinary Bladder
+VHYL-F2-R1-CE-SL-S51	Breast
+VHYM-F-CE-S49	Breast
+VHYN-F3-CE-S16	Ovary
+VHYP-F-CE-S50	Lung
+VHYQ-F-CE-S36	Lung
+VHZA-F-CE-S4	Lung
+VI1B-F-CE-R2-S51	Prostate
+VI1D-F-CE-S25	N/A
+VI1F-F-CE-S26	Esophagus
+VI1I-F-CE-S27	Breast
+VI1J-F-CE-S28	Lung
+VI2A-F-CE-S40	Lung
+VI2B-F-CE-S41	Rectum
+VI2C-F-CE-RES-S12-L003-S1-L001	Gallbladder
+VI2D-F-CE-S42	Sarcoma
+VI2E-F3-D-CE-S46	Oral
+VI2N-F-CE-S44	N/A
+VI2O-F-CE-S45	Esophagus
+VI2P-F-CE-S49	Skin
+VI3E-F-CE-S19-L002-S1-L001	Cervix
+VI3G-F-CE-S48	Large Intestine
+VI3J-F-CE-S46	Pancreas
+VI3N-F-CE-S10	Ovary
+VI3O-F-CE-S18	Lung
+VI3O-F-D2-CE-RSQ-S11	Lung
+VI3P-F-CE-S47	Brain
+VI3Q-F-CE-S11	Lung
+VI3S-F-CE-S17-L002-S1-L001	N/A
+VI3T-F-CE-S36	Stomach
+VI3U-F-CE-S38	Head and Neck
+VI4A-F-CE-S12	Lung
+VI4B-F-CE-S13	Liver and intrahepatic bile ducts
+VI4D-F-CE-S14	Lung
+VI4E-F-CE-S14-L002-S1-L001	Lung
+VI4F-F2-CE-S15	Rectum
+VI4H-F-CE-S16	Esophagus
+VI4I-F-CE-S37	Skin
+VI4J-F-CE-S17	Prostate
+VI4K-F-CE-S18-L002-S1-L001	Prostate
+VI4M-F-CE-S19	Large Intestine
+VIAE-F2-CE-S11-L003-S1-L001	Ovary
+VIAF-F-CE-S13	Sarcoma
+VIAG-F3-CE-S15	Thyroid
+VIAH-F-CE-R-S38	Ovary
+VIAI-F-CE-S14	Pancreas
+VIBB-F-CE-S18	Lung
+VIBC-F-CE-S36	Pancreas
+VIBE-F-CE-S21	Liver and intrahepatic bile ducts
+VIBG-F-CE-S19	Breast
+VIBH-F-CE-S19	Lung
+VIBI-F-CE-S55-S1-L001	Cervix
+VIBL-F2-CE-S17	Ovary
+VIBM-F2-D-CE-S33-L003	Pancreas
+VIBN-F-R-CE-S23-S1-L001	Oral
+VIEA-F-CE-S54-S1-L001	Oral
+VIEG-F-CE-S52-S1-L001	Lung
+VIEH-F-CE-S49-S1-L001	Liver and intrahepatic bile ducts
+VIEJ-F-CE-R-Merged-L003	Unknown primary
+VIEK-F-CE-S50-S1-L001	Unknown primary
+VIFA-F-CE-S57-S1-L001	Ovary
+VIFB-F-CE-S53-S1-L001	Liver and intrahepatic bile ducts
+VIFC-F-CE-S56-S1-L001	Stomach
+VIFF-F-CE-S58-S1-L001	Stomach
+VIFG-F2F3-CE-S13-L003-S1-L001	N/A
+VIFH-F-CE-S59-S1-L001	Unknown primary
+VIFI-F-CE-R-S40	Lung
+VIFL-F-CE-S38	Sarcoma
+VIFN-F-CE-S74-S1-L001	Stomach
+VIFP-F-CE-S5	Others
+VIFQ-F-CE-S6	Lung
+VIGA-F-CE-S75-S1-L001	Small Intestine
+VIGB-F-CE-S76-S1-L001	Others
+VIGC-F-CE-S77-S1-L001	Lung
+VIGD-F-CE-S78-S1-L001	Thyroid
+VIHD-F-CE-S8	Lung
+VIHF-F-CE-S9	Lung
+VIIA-F-CE-S18	Large Intestine
+VIIA-F-CE-S20	Large Intestine
+VIIB-F-CE-S12	Esophagus
+VIID-F-CE-S80-S1-L001	Sarcoma
+VIIF-F-CE-S13	Liver and intrahepatic bile ducts
+VIIG-F-CE-S45	Lung
+VIIH-F2-CE-S49	Small Intestine
+VIII-F-CE-S141-L004	Stomach
+VIIJ-F2-CE-SL-S27	Lung
+VIIK-F-CE-S46	Breast
+VIIL-F-CE-S47	Liver and intrahepatic bile ducts
+VIIM-F-CE-S16	Large Intestine
+VIIO-F-CE-R-S4	Liver and intrahepatic bile ducts
+VIIP-F-CE-S48	Lung
+VIJB-F3-D2-L1L2-CE-RSQ-S31	N/A
+VIJB-FF2F3-CE-Merged-S18-L003	N/A
+VIJG-F-CE-S31	Uterus
+VIJO-F-CE-S15	Retroperitoneum and Peritoneum
+VIJQ-F-CE-S14	Lung
+VILD-F-CE-S44	Pancreas
+VILE-F-CE-S17	Lung
+VILN-F-CE-S18	Oral
+VINB-F-CE-S19	Lung
+VINC-F-CE-S14	Prostate
+VIND-F2-CE-S16-L002-S1-L001	Breast
+VING-F-CE-S32	Lung
+VINH-F-CE-S15	Lung
+VINI-F-CE-S20	Lung
+VINK-F-CE-S16	N/A
+VINL-F-CE-S29	N/A
+VINM-F-CE-S30	Lung
+VINN-F-CE-S17	Skin
+VINY-F-CE-S140-L004	Brain
+VINZ-F-CE-S33	Ovary
+VIOB-F-CE-S25	Uterus
+VIOC-F-CE-S26	Uterus
+VIOD-F-CE-S27	Oral
+VIOF-F-CE-S28	Large Intestine
+VIOG-F-CE-S29	Esophagus
+VIOH-F-CE-S30	Prostate
+VIOL-F-CE-S13	Brain
+VIOM-F-CE-S12	Lung
+VIPA-F-CE-S47	Lung
+VIPB-F-CE-S48	Lung
+VIPC-F1F2-CE-S14	Lung
+VISA-F-CE-S7-L004	Thyroid
+VISC-F2-CE-R-S19-L003-S1-L001	Retroperitoneum and Peritoneum
+VISE-F-CE-S8-L004	Large Intestine
+VISI-F-CE-S9-L004	Sarcoma
+VISK-F-CE-S10-L004	Stomach
+VISM-F-CE-S11-L004	Lung
+VISN-F2-CE-SL-S29	Stomach
+VISO-F-CE-R1-S33	Rectum
+VISP-F-CE-R1-S34	Liver and intrahepatic bile ducts
+VITA-F-CE-S27	Prostate
+VITB-F-CE-S2	Lung
+VITD-F-F-CE-S30	Lung
+VITE-F-CE-S3	Thyroid
+VITF-F2-D-CE-S28	Breast
+VITH-F-CE-S28	Lung
+VITI-F-CE-S32	Ovary
+VITJ-F2-D-CE-S50	Oral
+VITK-F-CE-S29	Lung
+VIUD-F-CE-S31	Lung
+VIUE-F-CE-S32	Oral
+VIUF-F-CE-S33	Rectum
+VIUG-F2-CE-SL-S35	Small Intestine
+VIUH-F2-R1-CE-SL-S50	Breast
+VIUL-F-CE-S34	Lung
+VIVA-F-CE-S5	Lung
+VIVC-F-CE-S36	Gallbladder
+VIVH-F-CE-S37	Cervix
+VIWD-F-CE-RSQ-S2	Oral
+VIWD-F-CE-S11	Oral
+VIWD-F-D-L2-CE-RSQ-S33	Oral
+VIWE-F-CE-S12	Lung
+VIWI-F-CE-S40	Lung
+VIWJ-F-CE-S13	Breast
+VIWL-D-CE-S25	N/A
+VIWM-D-CE-S24	N/A
+VIWN-D-CE-S26	N/A
+VIWO-F-CE-SL-S55	N/A
+VIWP-F-CE-SL-S57	N/A
+VIWQ-F-CE-SL-S56	N/A
+VIZB-F-CE-S16	Oral
+VIZC-F-CE-S17	Skin
+VIZD-F-CE-S18	Lung
+VIZE-F-CE-S19	Lung
+VIZF-F-CE-S20	Large Intestine
+VIZG-F-CE-S15	Gallbladder
+VIZI-F-CE-S21	Stomach
+VIZK-F-CE-S22	Prostate
+VIZL-F-CE-S23	Cervix
+VJ1A-F-CE-S23	Breast
+VJ1B-F-CE-S24	Others
+VJ1D-F-CE-S7	Lung
+VJ1E-F-CE-S50	Uterus
+VJ1F-F-CE-S51	Pancreas
+VJ1G-F-CE-S52	Lung
+VJ1H-F-CE-S53	Lung
+VJ1I-F-CE-S54	Stomach
+VJ2B-F-D-CE-S20	Prostate
+VJ2C-F-D-CE-S21	Oral
+VJ5B-F-D-CE-S38	Liver and intrahepatic bile ducts
+VJ5F-F-D-CE-S24	Ovary
+VJ5G-F-CE-S56	Breast
+VJ5H-F-D-CE-S23	Pancreas
+VJ5J-F-D-CE-S40	N/A
+VJ5O-F-D-CE-S41	Large Intestine
+VJ5P-F-D-CE-S50	Breast
+VJ5Q-F-D-CE-S51	Oral
+VJ5R-F-D-CE-S52	Stomach
+VJ5S-F-D-CE-S53	Prostate
+VJ5T-F-D-CE-S54	Oral
+VJ5U-F-D-CE-S55	Others
+VJCB-F-CE-S20	Large Intestine
+VJCC-F-CE-S21	Lung
+VJCD-F-CE-S22	Head and Neck
+VJCF-F-CE-S23	Lung
+VJCG-F-CE-S24	Lung
+VJCJ-F-CE-S25	Breast
+VJCN-F-CE-S26	Lung
+VJCP-F-CE-S22-L002-S1-L001	Liver and intrahepatic bile ducts
+VJFB-F-CE-S35	Uterus
+VJFD-F-CE-S43	Large Intestine
+VJFF-F-CE-S24-L002-S1-L001	Liver and intrahepatic bile ducts
+VJFG-F-CE-S25-L002-S1-L001	Lung
+VJGA-F-CE-S29	Pancreas
+VJGC-F-CE-S28	Breast
+VJGD-F-CE-S27	Sarcoma
+VJGE-F-CE-S21-L002-S1-L001	Ovary
+VJGF-F-CE-S19	Ovary
+VJGH-F-CE-S30	Stomach
+VJGI-F-CE-S22	Sarcoma
+VJGJ-F-CE-S20	Prostate
+VJGR-F-CE-S26-L002-S1-L001	Liver and intrahepatic bile ducts
+VJGS-F-CE-S50	Lung
+VJGT-F-CE-S21	Liver and intrahepatic bile ducts
+VJJA-F-CE-S23	Oral
+VJJB-F-CE-S24	Prostate
+VJJC-F-CE-S25	Sarcoma
+VJJF-F-CE-S26	Lung
+VJJI-F-CE-S27	Breast
+VJJL-F-CE-S28	Lung
+VJJM-F-CE-S29	Lung
+VJJP-F-CE-S45	Uterus
+VJJP-F-L2-CE-S30	Uterus
+VJJQ-F-CE-S23-L002-S1-L001	Stomach
+VJJR-F-R-CE-S8	Liver and intrahepatic bile ducts
+VJKA-F-CE-S46	Head and Neck
+VJKB-F-CE-S53	Lung
+VJKC-F-CE-S52	Oral
+VJKE-F-CE-S47	Kidney
+VJKF-F-CE-S48	Lung
+VJKH-F-CE-S43	Ovary
+VJKI-F-CE-S49	Uterus
+VJKJ-F-CE-S50	Ovary
+VJKL-F-CE-S54	Sarcoma
+VJLB-F2-CE-SL-S22	Unknown primary
+VJLC-F-CE-SL-S50	Lung
+VJLD-F-CE-SL-S51	Liver and intrahepatic bile ducts
+VJLF-F-CE-SL-S52	Lung
+VJLH-F-CE-R1-XP-S53	Breast
+VJLI-F-CE-SL-S53	Skin
+VJLJ-F-CE-SL-S69	Ovary
+VJLM-F-CE-SL-S54	Thyroid
+VJMB-F-CE-SL-S59	Pancreas
+VJMC-F-CE-SL-S60	Lung
+VJMD-F-CE-SL-S61	Lung
+VJMH-F-CE-SL-S62	Breast
+VJMI-F-CE-SL-S63	Prostate
+VJMJ-F-CE-SL-S64	Lung
+VJMK-F-CE-SL-S65	Ovary
+VJNC-F-CE-SL-S66	Lung
+VJNG-F-CE-SL-S67	Ovary
+VJNH-F-CE-SL-S68	Lung
+VJQA-F-CE-SL-S20	Rectum
+VJQB-F-CE-SL-S21	Small Intestine
+VJQC-F-CE-SL-S30	Lung
+VJQL-F-CE-SL-S36	Sarcoma
+VJRA-F-CE-SL-S46	N/A
+VJRD-F-CE-SL-S23	Ovary
+VJRE-F-CE-SL-S24	Lung
+VJRF-F2-CE-S21	Ovary
+VJRG-F-CE-SL-S25	Lung
+VJRL-F-CE-SL-S28	Thyroid
+VJSA-F-R-CE-S44	Liver and intrahepatic bile ducts
+VJSB-F-CE-SL-S38	Ovary
+VJSB-F-D-L1-CE-RSQ-S55	Ovary
+VJSC-F-CE-SL-S39	Lung
+VJSD-F-CE-SL-RSQ-S70	Lung
+VJSD-F-CE-SL-S40	Lung
+VJSG-F-CE-SL-S34	N/A
+VJSH-F-CE-SL-S41	Breast
+VJSI-F-CE-SL-S42	Breast
+VJSJ-F-CE-SL-S43	Lung
+VJSK-F-CE-SL-S44	Pancreas
+VJSL-F-CE-SL-S45	Stomach
+VJTC-F-CE-S10	Lung
+VJTD-F-CE-S11	Lung
+VJTH-F-CE-S12	Lung
+VJTI-F-CE-S13	Lung
+VJTJ-F-CE-S25	N/A
+VJTK-F-CE-S14	Ovary
+VJUA-F-CE-S45	Lung
+VJUB-F-CE-S17	Oral
+VJUD-F-CE-S18	Oral
+VJUH-F-CE-S46	Prostate
+VJUJ-F-CE-S22	Esophagus
+VJUK-F-CE-S55	Pancreas
+VJZF-F-D-CE-S22	Lung
+VJZK-F-CE-S40	N/A
+VJZN-F-CE-S47	Large Intestine
+VJZR-F-CE-S48	Oral
+VJZU-F-CE-S49	Gallbladder
+VJZV-F-CE-S42	Lung
+VJZW-F-CE-S43	Lung
+VK2C-F-D-CE-S42	Oral
+VK2D-F-D-CE-S16	Lung
+VK2E-F-D-CE-S40	Oral
+VK2G-F-D-CE-S43	Lung
+VK2H-F-D-CE-S48	Retroperitoneum and Peritoneum
+VK2I-F-D-CE-S45	Lung
+VK2J-F-D-CE-S49	Lung
+VK2K-F-D-CE-S4	Large Intestine
+VK2L-F-D-CE-S50	Sarcoma
+VK2M-F-D-L2-CE-S29	Breast
+VK2N-F-D-CE-S47	N/A
+VK2O-F-D-CE-S52	Lung
+VK2P-F-D-CE-S13	Uterus
+VK2Q-F-D-CE-S14	Large Intestine
+VK2S-F-D-CE-S53	Lung
+VK2T-F-D-CE-S55	Unknown primary
+VK2V-F-D-CE-S54	Brain
+VK4A-F-D-CE-S6	Liver and intrahepatic bile ducts
+VK4D-F-D-CE-S8	Rectum
+VK4E-F-D-CE-S9	Small Intestine
+VK4H-F-D-CE-S10	Ovary
+VK4J-F-D-CE-S11	Unknown primary
+VKBE-F-D-CE-S3	Ovary
+VKBF-F-D-CE-S4	Sarcoma
+VKBG-F-D-L2-CE-S63	Oral
+VKBK-F-D-CE-S5	Lung
+VKBL-F-D-CE-S6	Lung
+VKCA-F-D-CE-S7	Stomach
+VKCD-F-D-CE-S9	Breast
+VKCG-F-D-CE-S10	Lung
+VKCH-F-D-CE-S17	Stomach
+VKCI-F-D-CE-S18	Lung
+VKCJ-F-D-CE-S1	Liver and intrahepatic bile ducts
+VKDB-F-D-CE-S19	Breast
+VKDC-F-D-CE-S30	Prostate
+VKDD-F-D-L2-CE-S66	Rectum
+VKDE-F-D-CE-S54	Liver and intrahepatic bile ducts
+VKDE-F-D-L2-CE-S58	Liver and intrahepatic bile ducts
+VKDH-F-D-CE-S31	Liver and intrahepatic bile ducts
+VKDI-F2-CE-S34	Rectum
+VKGA-F-D-CE-S47	Sarcoma
+VKGB-F-D-CE-S36	Lung
+VKGC-F-D-L1-CE-S67	Stomach
+VKGD-F-D-CE-S37	Lung
+VKGE-F-D-CE-S46	Lung
+VKGF-F-D-CE-S38	Lung
+VKGG-F-D-CE-S39	Pancreas
+VKGH-F-D-CE-S44	Lung
+VKGI-F2-D-CE-S41	Lung
+VKGJ-F-D-CE-S40	Gallbladder
+VKGL-F-D-CE-S41	Breast
+VKGM-F-D-CE-S42	Ovary
+VKGN-F-D-CE-S43	Lung
+VKHA-F1-D2-CE-S57	Retroperitoneum and Peritoneum
+VKHA-F2-D-CE-S48	Retroperitoneum and Peritoneum
+VKHA-F2-D2-CE-S59	Retroperitoneum and Peritoneum
+VKHB-F-D-CE-S52	Pancreas
+VKHC-F-D-CE-S53	Prostate
+VKKI-F-D-CE-S25	Lung
+VKKK-F-D-CE-S26	Stomach
+VKKL-F-D-CE-S27	Stomach
+VKNA-F-CE-S32	Lung
+VKNB-F-D-CE-S49	Lung
+VKND-F-CE-S33	Liver and intrahepatic bile ducts
+VKNE-F-CE-S35	Large Intestine
+VKNE-F-D-L2-CE-SL-S3-L003	Large Intestine
+VKNI-F-CE-S37	Stomach
+VKNK-F-D-L2-CE-S54	Kidney
+VKNN-F-CE-S39	Large Intestine
+VKNO-F2-D-CE-S34	Ovary
+VKPA-F-D-CE-S57	Unknown primary
+VKPC-F-D-CE-S59	Rectum
+VKPD-F-D-CE-S60	Lung
+VKPH-F-D-CE-S19	Lung
+VKPK-F-D-CE-S48	Ovary
+VKPL-F-D-CE-S23	Others
+VKPN-F-D-CE-S25	Esophagus
+VKPO-Z-D-CE-S26	Ovary
+VKQB-F-D-CE-S39	Liver and intrahepatic bile ducts
+VKQI-F-D-CE-S42	Oral
+VKQJ-F-D-CE-S43	Rectum
+VKQL-F-D-CE-S44	Ovary
+VKQM-F-D-CE-S40	Lung
+VKRI-F-D-CE-S47	Lung
+VKVA-F-D-CE-S1	Lung
+VKVB-F-D-CE-S49	Stomach
+VKVC-F-D-L3-CE-S3	Ovary
+VKVG-F-D-CE-S57	Brain
+VKVK-F-D-CE-S56	Pancreas
+VKVP-F2-D-CE-S56	Gallbladder
+VKVT-F-D-CE-S58	Uterus
+VKWB-F-D-CE-S61	Breast
+VKWC-F-D-CE-S59	Esophagus
+VKWD-F-D-CE-S67	Brain
+VKWE-F-D-CE-S66	Lung
+VKWF-F-D-CE-S1	Oral
+VKWG-F-D-CE-S65	Unknown primary
+VKWJ-F-D-CE-S2	Skin
+VKWK-F-D-CE-S3	Urinary Bladder
+VKWL-F-D-CE-S4	Unknown primary
+VKWM-F-D-CE-S5	Breast
+VKWO-F-D-CE-S6	Lung
+VKWQ-F-D-CE-S7	Breast
+VKXA-F-D-CE-S44	Esophagus
+VKXB-F-D-CE-S1	Lung
+VKXF-F-D-CE-S51	Rectum
+VKXG-F-D-L2-CE-S2	N/A
+VKXH-F2-D-CE-S24	Stomach
+VKYB-F-D-CE-S34	Lung
+VKYC-F-D-CE-S35	Stomach
+VKYD-F-D-CE-S37	Small Intestine
+VKYE-F-D-CE-S60	Large Intestine
+VKYK-F-D-CE-S39	Lung
+VKYL-F-D-CE-S36	Unknown primary
+VKYM-F-D-CE-S38	Lung
+VL1A-F-D-CE-SL-S26	Esophagus
+VL1C-F2-D-L1-CE-S12	Liver and intrahepatic bile ducts
+VL1D-F-D-CE-SL-S31	Lung
+VL1H-F1-F2-D-CE-S1	Large Intestine
+VL1L-F2-D-CE-S33	Ovary
+VL1N-F-D-CE-SL-S27	Unknown primary
+VL1O-F-D-CE-SL-S28	Liver and intrahepatic bile ducts
+VL1P-F-D-CE-SL-S33	Rectum
+VL1Q-F-D-CE-SL-S16	Stomach
+VL1R-F-D-CE-SL-S36	Brain
+VL1S-F-D-L2-CE-SL-S18	Esophagus
+VL1T-F-D-CE-SL-S19	Lung
+VL1V-F-D-CE-SL-S35	Others
+VL1W-F-D-CE-SL-S38	Lung
+VL2B-F3-D-CE-S35	Ovary
+VL2F-F-D-CE-SL-S37	Small Intestine
+VL2H-F2-D-CE-S54	Lung
+VL3D-F-D-L2-CE-S49	Esophagus
+VL3E-F2-D-CE-S64	Lung
+VL3G-F-D-CE-SL-S43	Sarcoma
+VL3J-F-D-CE-SL-S9	Lung
+VL4A-F-D-CE-SL-S46	Lung
+VL4A-F-D2-CE-S18	Lung
+VL4B-F-D-CE-SL-S19	Lung
+VL4C-F-D-CE-SL-S20	Lung
+VL4D-F-D-CE-SL-S22	Large Intestine
+VL4E-F-D-L2-CE-S34	Lung
+VL4F-F-D-CE-SL-S47	Large Intestine
+VL4H-F-D-CE-SL-S48	Lung
+VL4L-F-D-CE-SL-S21	Lung
+VLAA-F-D-CE-S15	Skin
+VLAC-F-D-CE-S18	Lung
+VLAD-F-D-CE-S17	Oral
+VLAF-F-D-CE-S20	Oral
+VLAS-F-D-CE-S19	Others
+VLBA-F-D-CE-S21	Head and Neck
+VLBB-Z-D-CE-S31	N/A
+VLBF-F-D-CE-S26	Prostate
+VLBG-F2-D-CE-S53	Rectum
+VLBI-F-D-CE-S28	Uterus
+VLEA-F-D-CE-S60	Stomach
+VLEE-F-D-L2-CE-S68	Large Intestine
+VLEF-F2-D-L2-CE-SL-S24	Uterus
+VLEK-F-D-CE-S22	Stomach
+VLEL-F-D-CE-S23	Lung
+VLFE-F-D-L2-CE-S54	Gallbladder
+VLFF-F-D-CE-S56	Brain
+VLFG-F-D-CE-S62	Oral
+VLFH-F-D-CE-S63	Stomach
+VLFI-F-D-CE-S64	Uterus
+VLFJ-F-D-CE-S65	Pancreas
+VLFK-F-D-CE-S71	Prostate
+VLFL-F-D-CE-S69	Lung
+VLFM-F-D-CE-S70	Esophagus
+VLFO-F-D-CE-S57	Large Intestine
+VLFP-F-D-CE-S58	Large Intestine
+VLFR-F-D-CE-S59	Lung
+VLGA-F-D-CE-S1	Oral
+VLGB-F-D-CE-S33	Thyroid
+VLGC-F-D-CE-S30	Lung
+VLGD-F-D-CE-S2	Lung
+VLGE-F-D-CE-S3	Uterus
+VLGH-F-D-CE-S4	Liver and intrahepatic bile ducts
+VLGJ-F-D-CE-S5	Others
+VLHA-F-D-CE-S31	Sarcoma
+VLHB-F-D-CE-S32	Esophagus
+VLHE-F-D-CE-S35	Lung
+VLHG-F-D-CE-S46	Ovary
+VLHH-F-D-CE-S36	Breast
+VLHI-F-D-CE-S43	Pancreas
+VLHJ-F-D-CE-S41	Rectum
+VLIA-F-D-CE-S39	Rectum
+VLIH-F-D-CE-S29	Lung
+VLII-F-D-CE-S37	Liver and intrahepatic bile ducts
+VLLF-F-D-CE-S4	Others
+VLLG-F-D-CE-S5	Lung
+VLLH-F-D-CE-S55	Lung
+VLLJ-F-D-CE-S52	Lung
+VLLM-F-D-CE-S20	Prostate
+VLLP-F-D-CE-S21	Ovary
+VLLQ-F-D-CE-S17	Oral
+VLMB-F-D-CE-S24	Lung
+VLMF-F-D-CE-S18	Ovary
+VLMG-F-D-CE-S27	Large Intestine
+VLMH-F-D-CE-S26	Lung
+VLNG-F-D-CE-S19	Breast
+VLNJ-F-D-CE-S31	Pancreas
+VLNK-F-D-CE-S29	Lung
+VLNL-F-D-CE-S25	Lung
+VLNM-F-D-CE-S30	Others
+VLPA-F-D-CE-S60	Lung
+VLPB-F-D-CE-S59	Lung
+VLPE-F-D-CE-SL-S36	Uterus
+VLPG-F-D-CE-S60	Gallbladder
+VLPH-F-D-CE-S62	Large Intestine
+VLPI-F-D-CE-S1	Lung
+VLSD-F-D-CE-SL-S32	Head and Neck
+VLSF-F-D-CE-S61	Lung
+VLSH-F-D-CE-SL-S37	Lung
+VLSI-F-D-CE-SL-S42	Lung
+VLSJ-F-D-CE-SL-S38	Pancreas
+VLSL-F-D-CE-SL-S44	Prostate
+VLSR-F-D-CE-SL-S46	Breast
+VLSS-F-D-CE-SL-S40	Ovary
+VLST-F-D-CE-SL-S48	Lung
+VLTA-F-D-CE-SL-S49	N/A
+VLTB-F-D-CE-SL-S45	Lung
+VLTC-F-D-CE-SL-S43	Pancreas
+VLTD-F-D-CE-SL-S51	Pancreas
+VLTE-F-D-CE-SL-S50	Gallbladder
+VLTF-F-D-CE-SL-S47	Lung
+VLUE-F-D-CE-SL-S15	Breast
+VLUF-F-D-CE-SL-S14	Large Intestine
+VLUG-F-D-CE-SL-S16	Oral
+VLUH-F-D-CE-SL-S12	Thyroid
+VLUI-F2-F3-D-CE-S1	Lung
+VLVE-F-D-CE-SL-S20	Large Intestine
+VLVF-F-D-CE-SL-S13	Lung
+VLWM-F-D-CE-SL-S15	Unknown primary
+VLWN-F-D-CE-SL-S18	Lung
+VLZB-F-D-CE-SL-S25	Esophagus
+VLZD-F-D-CE-SL-S21	Breast
+VLZF-F-D-CE-SL-S14	Ovary
+VLZJ-F-D-CE-SL-S29	Uterus
+VLZK-F-D-CE-SL-S30	Oral
+VLZL-F-D-CE-SL-S23	Gallbladder
+VLZM-F-D-CE-SL-S24	Lung
+W414-F-D-CE-S1	Cervix
+W41E-F-D-CE-S1	Lung
+W41F-F1F2-D-CE-S1	Uterus
+W42A-F1F2-D-CE-S1	Brain
+W42B-F-D-CE-S1	Stomach
+W42C-F-D-CE-S1	Gallbladder
+W42E-F-D-CE-S91	Liver and intrahepatic bile ducts
+W46G-F1F2F3-D-CE-S139	Sarcoma
+W46H-F1F2-D-CE-S140	Retroperitoneum and Peritoneum
+W46L-F1F2-D-CE-S142	Cervix
+W4J4-F-D-CE-S66	Lung
+W4JE-F1-D-CE-S67	Lung
+W4JF-F-D-CE-S68	Retroperitoneum and Peritoneum
+W4JG-F-D-CE-S69	Stomach
+W4JH-F1F2-D-L1L2-CE-S56	Brain
+W4JM-F1F2-D-CE-S70	Small Intestine
+W4K4-F-D-CE-S51	Liver and intrahepatic bile ducts
+W4KA-F-D-CE-S71	Lung
+W4KB-F1F2-D-CE-S72	Lung
+W4KC-F1F2-D-CE-S50	Others
+W4KE-F1F2-D-L2-CE-S78	Small Intestine
+W4L9-F1-D-CE-S55	Stomach
+W4LH-F-D-CE-S54	Prostate
+W4M4-F-D-CE-S68	Lung
+W4MK-F1F2-D-CE-S71	Unknown primary
+W4N9-F-D-CE-S74	Stomach
+W4NA-F1-D-CE-S72	Ovary
+W4NB-F-D-CE-S73	Breast
+W4NJ-F1-D-CE-S75	Ovary
+W4NN-F-D-CE-S77	Lung
+W4Q9-F-D-CE-S52	Sarcoma
+W4QA-F-D-CE-S50	Gallbladder
+W4QH-F1-D-CE-S51	Rectum
+W4QK-F-D-CE-S54	Lung
+W4QP-F-D-CE-S56	Pancreas
+W4QQ-F-D-CE-S57	Lung
+W4R9-F-D-L1L2-CE-S95	Urinary Bladder
+W4RF-F-D-CE-S79	Breast
+W4RG-F-D-CE-S58	N/A
+W4RH-F-D-L1L2-CE-S94	Stomach
+W4RK-F-D-CE-S59	Stomach
+W4RL-F-D-CE-S81	Lung
+W4RM-F1F2-D-CE-S82	Head and Neck
+W4RN-F-D-CE-S83	Lung
+W4RO-F-D-CE-S80	Lung
+W4S4-F1-D-CE-S91	Stomach
+W4SA-F-D-CE-S88	Rectum
+W4SC-F-D-L1L2-D-CE-S145	Lung
+W4SE-F-D-CE-S92	Ovary
+W4T4-F-D-CE-S133	Breast
+W4TA-F-D-CE-S132	Lung
+W4TF-F-D-CE-S134	Large Intestine
+W4TV-F-D-CE-S136	Rectum
+W4TY-F1F2-D-CE-S137	Prostate
+W4X4-F-D-CE-S32-L002	Lung
+W4X9-F-D-CE-S143	Lung
+W4XB-F-D-CE-S1	Lung
+W4XE-F1F2-D-CE-S33-L002	Lung
+W4XF-F-D-CE-S34-L002	Gallbladder
+W4XH-F1F2-D-CE-S35-L002	Ovary
+W4XN-F1-D-CE-S36-L002	Uterus
+W4XO-F-D-CE-S37-L002	Esophagus
+W4XP-F-D-CE-S38-L002	Others
+W4XT-F1-D-CE-S1	Pancreas
+W4XV-F-D-CE-S39-L002	Stomach
+W4XW-F-D-CE-PG-MP-W0503-S31-L002	Rectum
+W4XX-F1F2-D-CE-S1	Lung
+W4Y6-F1-D-CE-S1	Uterus
+W4Y9-F-D-CE-S1	Unknown primary
+W4YJ-F1F2-D-CE-S1	Pancreas
+W4YK-F2-D-L1L2-CE-S1	Large Intestine
+W4YL-F-D-CE-S1	Large Intestine
+W4YN-F-D-CE-S1	Stomach
+W4YO-F-D-CE-S1	Lung
+W4YP-F1F2-D-CE-S1	N/A
+W4YS-F1-D-CE-S1	Pancreas
+W4YT-F-D-CE-S1	Unknown primary
+W4YV-F1-D-CE-S1	Oral
+W4YW-F-D-CE-S1	Lung
+W4ZA-F1-D-CE-S1	Large Intestine
+W4ZC-F3-D-CE-S60	Pancreas
+W4ZE-F1-D-CE-S123	Small Intestine
+W4ZM-F-D-CE-S1	Esophagus
+W91AG-F-D-CE-S1	Sarcoma
+W92AN-F1-D-CE-S1	Gallbladder
+W92AW-F-D-CE-S1	Large Intestine
+W92AX-F1F2-D-CE-S1	Ovary
+W92AZ-F1-D-CE-S1	Large Intestine
+W93AA-F-D-CE-S1	Ovary
+W93AF-F1F2-D-CE-S1	Pancreas
+W93AG-F-D-CE-S1	Unknown primary
+W93AH-F1F2-L2-D-CE-S1	Unknown primary
+W94A6-F1F2-D-CE-S1	Uterus
+W94AE-F1F2-D-CE-S1	Stomach
+W94AH-F-D-CE-S1	Rectum
+W94AS-F-D-CE-S1	Liver and intrahepatic bile ducts
+W94AW-F1F2-D-CE-S1	Brain
+W96A4-F1-D-CE-S1	Skin
+W96A9-F-D-CE-S1	Lung
+W96AJ-F-D-CE-S1	Stomach
+W96AK-F-D-CE-S1	Rectum
+W96AL-F1F2-D-CE-S1	Ovary
+W9AAF-F-D-CE-S1	Unknown primary
+W9AAG-F-D-CE-S1	Uterus
+W9AAK-F-D-CE-S1	Stomach
+W9AAQ-F4-D-CE-S1	Lung
+W9EA6-F2-D-CE-S1	Uterus
+W9EA9-F1-D-CE-S1	Uterus
+W9EAK-F1F2-D-CE-S1	Stomach
+W9EAL-F-D-CE-S1	Lung
+W9EAM-F1-L2-D-CE-S1	Uterus
+W9EBA-F-D-CE-S1	Small Intestine
+W9EBB-F-D-CE-S1	Unknown primary
+W9EBE-F1F2F3-D-CE-S1	Ovary
+W9GA4-F-D2-CE-S1	Large Intestine
+W9GAG-F1-D-CE-S1	Lung
+W9GAH-F-D-CE-S1	Esophagus
+W9GAM-F-D-CE-S1	Breast
+W9HAJ-F-D-CE-S1	Small Intestine
+W9HAK-F1-D-CE-S1	Others
+W9KAH-F-D-CE-S1	Pancreas
+W9KAL-F1F2-D-CE-S1	Pancreas
+W9KAO-F1-D-CE-S1	Liver and intrahepatic bile ducts
+W9KAP-F1F2-D-CE-S1	Kidney
+W9LA9-F-D-CE-S1	Rectum
+W9LAF-F1F2-D-CE-S1	Breast
+W9LAJ-F-D-CE-S1	N/A
+W9LAK-F1F2-D-CE-S1	Lung
+W9LAL-F-D-CE-S1	Stomach
+W9MAC-F1F2-CE-S1	Stomach
+W9MAO-F-CE-S1	Lung
+W9MAR-F1-CE-S1	Rectum
+W9NAC-F1F2F3-CE-S1	Prostate
+W9NAF-F4-D-CE-S1	N/A
+W9NAG-F-D-CE-S1	Lung
+W9NAH-F3F4-D-CE-S1	Ovary
+W9OAE-F1-D-CE-S1	Thyroid
+W9OAR-F16F17-D-CE-S1	Cervix
+W9PAB-F-D-CE-S1	Breast
+W9PAC-F-D-CE-S1	Kidney
+W9PAL-F1-D-CE-S1	Oral
+W9PAQ-F-D-CE-S1	Lung
+W9RA4-F-D-CE-S1	Urinary Bladder
+W9RAC-F1-D-CE-S1	Urinary Bladder
+W9RAG-F-D-CE-S1	Oral
+W9TA9-F1F2-D-CE-S1	Oral
+W9TAA-F-D-CE-S1	Pancreas
+W9TAC-F-D-L2-CE-S1	Breast
+W9TAG-F-D-CE-S1	Lung
+W9TAH-F-D-CE-S1	Breast
+W9TAL-F1-D-CE-S1	Large Intestine
+W9TAM-F1F2-D-CE-S1	Pancreas
+W9VA6-F-D-CE-S13	N/A
+W9VAK-F-D-CE-S1	Retroperitoneum and Peritoneum
+W9VAL-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+W9VAR-F1-D1-CE-S1	Liver and intrahepatic bile ducts
+W9VAS-F-D-CE-S11	N/A
+W9VAT-F-D-CE-S12	N/A
+W9VAV-D-CE-S15	N/A
+W9VAW-D-CE-S14	N/A
+W9VAX-D-CE-S16	N/A
+W9YAP-F-D-CE-S1	Pancreas
+W9ZAK-F-D-CE-S1	Stomach
+W9ZAM-F2F1-D-CE-S4	Rectum
+W9ZAR-F-D-CE-S1	Breast
+W9ZAT-F1F2-D-CE-S1	Lung
+WA1F-F-D-CE-S66-L004	Pancreas
+WA1H-F-D-CE-S77	Lung
+WA1I-F-D-LL2-CE-S50-L004	Liver and intrahepatic bile ducts
+WA1J-F-D-CE-S76	Lung
+WA1L-F-D-CE-S69-L004	Cervix
+WA1M-F-D-CE-S68-L004	Gallbladder
+WA1N-F-D-CE-S67-L004	Stomach
+WA1O-F-D-CE-S74	Urinary Bladder
+WA1Q-F-D-CE-S20	Breast
+WA4A-F-D-CE-S58-L004	Ovary
+WA4B-F-D-CE-S59-L004	Lung
+WA4C-F-D-CE-S57-L004	Lung
+WA4E-F-D-CE-S85	Lung
+WA4J-F-D-CE-S16	Liver and intrahepatic bile ducts
+WA4K-F-D-CE-S54-L004	Esophagus
+WA4N-F-D-CE-S52-L004	Lung
+WA5B-F-D-CE-S14	Rectum
+WA5C-F-D-CE-S17	Lung
+WA5D-F-D-CE-S21	Lung
+WA5E-F-D-CE-S15	Rectum
+WABF-F-D-CE-S47	Lung
+WABG-Z-D-CE-S38-L004	Lung
+WABH-F-D-L2-CE-S36	Lung
+WABJ-F-D-CE-S50	Breast
+WACA-F2-D-CE-S60	Kidney
+WACA-F2-D2-CE-S84	Kidney
+WACB-F-D-CE-S44	Urinary Bladder
+WACD-F-D-CE-S25	Prostate
+WACE-F-D-CE-S45	Thyroid
+WACF-F-D-CE-S46	Lung
+WACG-F-D-L2-CE-S35	Head and Neck
+WACG-F-D2-CE-S88	Head and Neck
+WACH-F-D-CE-S32	Lung
+WACJ-F-D-CE-S24	Lung
+WACK-F-D-CE-S48	Prostate
+WADA-F-D-CE-S26	Large Intestine
+WADC-F-D-CE-S27	Large Intestine
+WADD-F-D-CE-S28	Pancreas
+WADE-F-D-CE-S29	Lung
+WADI-F-D-CE-S21	Lung
+WAEA-F-D-CE-S42	Unknown primary
+WAEB-F2-D-CE-S6	Skin
+WAEC-F-D-CE-S22	Oral
+WAED-F2-D-CE-S15	Lung
+WAEE-F2-D-CE-S51-L004	Lung
+WAEF-F-D-CE-S30	Lung
+WAEI-F2-D-CE-S16	Oral
+WAEL-F-D-CE-S31	Ovary
+WAFA-F-D-CE-S44	Breast
+WAFC-F2-D-L1L2-CE-S1	Oral
+WAI1-F-D-CE-S46	Retroperitoneum and Peritoneum
+WAI3-F-D-CE-S47	Cervix
+WAIN-F-D-CE-S44	Lung
+WAIO-F-D-CE-S45	Rectum
+WAIP-F-D-CE-S11	Lung
+WAIV-F-D-CE-S43	Others
+WAIZ-F-D-CE-S49	Lung
+WAJA-F-D-CE-S50	Lung
+WAJB-F-D-CE-S66	Lung
+WAJD-F-D-CE-S51	Esophagus
+WAJE-F-D-CE-S52	Prostate
+WAJF-F-D-CE-S65	Lung
+WAJG-F-D-CE-S53	Others
+WAJQ-F-D-L2-CE-S2	Oral
+WAJS-F-D-CE-S48	Gallbladder
+WAJT-F-D-CE-S61	Skin
+WAKE-F-D-CE-S62	Large Intestine
+WAKH-F-D-CE-S39-L003	Uterus
+WAKI-F-D-CE-S34-L003	Urinary Bladder
+WAKJ-F-D-CE-S35-L003	Oral
+WALA-F-D-CE-S36-L003	Lung
+WALD-F-D-CE-S38-L003	Ovary
+WALG-F-D-CE-S41-L003	Lung
+WALI-F-D-CE-S63	Prostate
+WALJ-Z-D-CE-S35	Breast
+WALK-F-D-CE-S42-L003	Large Intestine
+WAPA-F-D-CE-S4	Lung
+WAPC-F-D-CE-S3	Esophagus
+WAPD-F2-D-CE-S27	Thyroid
+WAPE-F-D-CE-10G-STD-S71-L004	Lung
+WAPE-F-D-CE-S13	Lung
+WAPI-F-D-CE-S6	Rectum
+WAPK-F-D-CE-S7	Ovary
+WAPL-F-D-CE-S8	Lung
+WAPO-F-D-CE-S9	Ovary
+WAPP-F-D-CE-5G-STD-S70-L004	N/A
+WAPP-F-D-CE-S2	Lung
+WAPQ-F-D-CE-S1	Lung
+WAQA-F3-D-CE-S53-L004	Uterus
+WAQC-F-D-CE-S37	Oral
+WAQI-F-D-CE-10G-STD-S74-L004	Stomach
+WAQI-F-D-CE-S51	Stomach
+WAQL-F-D-CE-S38	Large Intestine
+WAQN-F-D-CE-S40	Large Intestine
+WAQO-F-D-CE-S41	Liver and intrahepatic bile ducts
+WARA-F-D-CE-S50	Large Intestine
+WARD-F-D-CE-S43	Large Intestine
+WARF-F-D-CE-S43	Liver and intrahepatic bile ducts
+WASB-F2-D2-CE-S43	Ovary
+WASC-F-D-CE-S52-L004	Lung
+WASD-F-D-CE-S50-L004	Uterus
+WASF-F-D-CE-S54-L004	Lung
+WATE-F-D-CE-S59-L004	Lung
+WATF-F-D-CE-S55-L004	Lung
+WATG-F-D-CE-S56-L004	Lung
+WATH-F-D-CE-S62-L004	Stomach
+WAWD-F-D-CE-S10	Lung
+WAWF-F-D-CE-S5	Sarcoma
+WAWK-F-D-CE-S13	Urinary Bladder
+WAWN-F-D-CE-S7	Skin
+WAWO-F-D-CE-S8	Lung
+WAWP-F-D-CE-S3	N/A
+WAWS-F-D-CE-S14	Oral
+WAWT-F-D-CE-S9	Breast
+WAXA-F-D-CE-S45	Lung
+WAXE-F-D-CE-S64-L004	Small Intestine
+WAXF-F-D-CE-S44	Stomach
+WAXG-F-D-CE-S46	Rectum
+WAYA-F-D-CE-S65-L004	Large Intestine
+WAYH-F-D-CE-S73	Lung
+WB1A-F-D-CE-S116-L004	Small Intestine
+WB1B-F-D-CE-S120-L004	Unknown primary
+WB1F-F-D-CE-S117-L004	Gallbladder
+WB1G-F-D-CE-S118-L004	Skin
+WB1H-F-D-L2-CE-S33	Uterus
+WB1I-F-D-CE-S119-L004	Head and Neck
+WB1K-F3-D-CE-S1	Sarcoma
+WB1P-F-D-CE-S122-L004	Breast
+WB2B-F-D-CE-S1	Lung
+WB2D-F-D-CE-S2	Lung
+WB2G-F-D-CE-S3	Uterus
+WBAB-F-D-CE-S26	Unknown primary
+WBAD-F-D-CE-S56	Unknown primary
+WBAF-F-D-CE-S25	Unknown primary
+WBAH-F-D-CE-S23	Liver and intrahepatic bile ducts
+WBAI-F-D-CE-S55	Unknown primary
+WBBA-F-D-CE-S46	Ovary
+WBBB-F-D-CE-S47	Rectum
+WBBD-F-D-CE-S44	Liver and intrahepatic bile ducts
+WBBF-F-D-CE-S48	Lung
+WBBK-F-D-CE-S49	N/A
+WBBN-F-D-CE-S45	Ovary
+WBBO-F-D-CE-S50	Lung
+WBBP-F-D-CE-S51	Uterus
+WBCE-F2-D-CE-S137	Lung
+WBFH-F-D-CE-S36-L004	Lung
+WBFI-F-D-CE-S63	Stomach
+WBFJ-F-D-CE-S66	Sarcoma
+WBFL-F-D-CE-S70	Lung
+WBFN-F-D-CE-S69	Breast
+WBFQ-F-D-CE-S72	Others
+WBFR-F-D-CE-S64	Stomach
+WBFS-F-D-CE-S68	Lung
+WBFT-F-D-CE-S71	Prostate
+WBFU-F-D-CE-S65	Gallbladder
+WBGB-F-D-CE-S39-L004	Ovary
+WBGF-F-D-CE-S41-L004	Gallbladder
+WBGH-F-D-CE-S44-L004	Lung
+WBGJ-F-D-CE-S42-L004	N/A
+WBHC-F-D-CE-S50-L004	Lung
+WBHD-F-D-CE-S45-L004	Sarcoma
+WBHE-F-D-CE-S46-L004	Large Intestine
+WBHF-F-D-CE-S51-L004	Esophagus
+WBHG-F-D-CE-S47-L004	Rectum
+WBHO-F-D-CE-S53-L004	Sarcoma
+WBHP-F-D-CE-S56-L004	Head and Neck
+WBHQ-F-D-CE-S48-L004	Gallbladder
+WBIA-F-D-CE-S54-L004	Uterus
+WBIC-F-D-CE-S55-L004	Lung
+WBIH-F-D-L1L2-CE-S25	Small Intestine
+WBJJ-F-D-CE-S45	Lung
+WBMB-F-D-CE-S27	Lung
+WBMC-F-D-CE-S28	Lung
+WBME-F-D-CE-S37	Ovary
+WBMG-F-D-CE-S29	Rectum
+WBMP-F-D-CE-S30	Lung
+WBMQ-F-D-CE-S31	Lung
+WBMR-F-D-CE-S34	Large Intestine
+WBMU-F-D-L1-CE-S26	Ovary
+WBNC-F-D-CE-S38	Lung
+WBNE-F-D-CE-S42	N/A
+WBNF-F-D-CE-S39	Uterus
+WBNI-F-D-CE-S36	Kidney
+WBNK-F-D-CE-S43	Unknown primary
+WBNL-F-D-CE-S44	Gallbladder
+WBOB-F-D-CE-S49	Breast
+WBOG-F-D-CE-S48	Cervix
+WBPA-F-D-L1L2-CE-S71	Brain
+WBPC-F-D-CE-S76	Liver and intrahepatic bile ducts
+WBPD-F-D-CE-S73	Breast
+WBPG-F-D-CE-S75	N/A
+WBPH-F-D-CE-S79	Stomach
+WBPI-F-Oncobench-D-CE-S35-L003	Sarcoma
+WBPK-F-D-CE-S74	Sarcoma
+WBQF-F-D-CE-S80	Breast
+WBQH-F-D-CE-S84	Lung
+WBQI-F-D-CE-S36-L003	Large Intestine
+WBQJ-F-D-CE-S81	Large Intestine
+WBQM-F-D-CE-S77	Unknown primary
+WBQN-F-D-CE-S82	N/A
+WBQO-F-D-CE-S83	Lung
+WBQP-F-D-L1L2-CE-S13	Rectum
+WBTC-F-D-CE-S4	Unknown primary
+WBTD-F-D-CE-S5	Breast
+WBTD-F-D2-CE-S83	Breast
+WBTE-F-D-CE-S1	Oral
+WBTF-F-D-CE-S2	Stomach
+WBTG-F-D-CE-S6	Cervix
+WBTH-F-D-CE-S8	Large Intestine
+WBTI-F-D-CE-S9	Lung
+WBTK-F-D-CE-S10	Lung
+WBTL-F-D-CE-S14	Lung
+WBTN-F-D-CE-S11	Sarcoma
+WBTQ-F-D-CE-S3	Uterus
+WBUB-F-D-CE-S16	Breast
+WBUE-F-D-CE-S19	Lung
+WBUI-F-D-CE-S17	Uterus
+WBUM-F-D-CE-S22	Unknown primary
+WBUP-F-D-CE-S20	Lung
+WBUQ-F-D-CE-S21	Oral
+WBVA-F-D-CE-S35	Breast
+WBVB-F-D-CE-S36	Liver and intrahepatic bile ducts
+WBVD-F-D-CE-S40	Breast
+WBVE-F-D-CE-S37	Ovary
+WBVF-F-D-CE-S38	Oral
+WBWC-F2-D-L2-CE-S77	Sarcoma
+WBXB-F-D-CE-S49	Others
+WBXE-F-D-CE-S53	Thyroid
+WBXG-F-D-CE-S50	Lung
+WBXH-F-D-CE-S51	Lung
+WBXJ-F-D-CE-S52	Esophagus
+WBXL-F-D-L1L2-CE-2-S127-S128-merged-L004	Pancreas
+WBXM-F-D-CE-S123-L004	Lung
+WC1C-F-D-CE-S39	Breast
+WC1D-F-D-CE-S40	Rectum
+WC1E-Z-D-L3-CE-S65	Breast
+WC1F-F-D-CE-S44	Gallbladder
+WC1G-F-D-CE-S45	Lung
+WC1I-F-D-CE-S41	Head and Neck
+WC1K-F-D-CE-S33	Esophagus
+WC1L-F-D-CE-S30	Lung
+WC1Q-F-D-CE-S48	Pancreas
+WC1S-F1-D-CE-S1	Lung
+WC1T-F-D-CE-S50	Lung
+WC1U-F-D-CE-S43	Rectum
+WC1V-F1F2-D-L2-CE-S61	Large Intestine
+WC1W-F-D-CE-S47	Uterus
+WC1X-F-D-CE-S49	Large Intestine
+WC1Y-F-D-CE-S42	Thyroid
+WC2H-F-D-CE-S21	Gallbladder
+WC2I-F-D-CE-S22	Liver and intrahepatic bile ducts
+WC2J-F-D-CE-S24	Liver and intrahepatic bile ducts
+WC2L-F-D-L2-CE-S53	Unknown primary
+WC3B-F-D-CE-S25	Lung
+WC3E-F-D-CE-S27	Lung
+WC3F-F-D-L2-CE-S60	Lung
+WC3G-F-D-CE-S28	Lung
+WC3J-F-D-L2-CE-S32	N/A
+WC4E-F1-D-CE-S55	Rectum
+WC5E-F1F2-D-L1L2-CE-S8	Pancreas
+WC5H-F1-D-CE-S59	Lung
+WC5I-F-D-CE-S44	Pancreas
+WC5K-F1-D-CE-S60	Large Intestine
+WC5L-F-D-CE-S61	Uterus
+WCAB-F-D-L1L2-CE-S66	Pancreas
+WCAC-F-D-CE-S31	Lung
+WCAD-F-D-CE-S26	Large Intestine
+WCAG-F-D-CE-S25	Uterus
+WCAI-F-D-CE-S27	Unknown primary
+WCAJ-F-D-CE-S28	Rectum
+WCAK-F-D-CE-S32	Rectum
+WCAL-F-D-CE-S29	Breast
+WCAQ-F-D-L1L2-CE-S67	Unknown primary
+WCBB-F-D-CE-S63	Stomach
+WCBC-F-D-CE-S64	Ovary
+WCBG-F-D-CE-S2	N/A
+WCBG-F2-D-CE-S276-L004	N/A
+WCBH-F-D-CE-S58	Uterus
+WCBL-F-D-CE-S3	Unknown primary
+WCCA-F-D-CE-S60	Others
+WCCB-F-D-CE-S61	Breast
+WCCD-F-D-L2-CE-S67	Large Intestine
+WCCG-F-D2-L1L2-CE-S61	Prostate
+WCFF-F-D-CE-S3	Breast
+WCFG-F-D-CE-S4	Urinary Bladder
+WCFW-F-D-CE-S8	Ovary
+WCFX-F-D-L1L2-CE-S69	Breast
+WCFY-F-D-CE-S9	Oral
+WCFZ-F-D-CE-S10	Gallbladder
+WCGE-F-D-CE-S11	Lung
+WCGG-F-D-CE-S5	Lung
+WCGI-F-D-CE-S13	N/A
+WCHA-F-D-L1L2-CE-S57	Sarcoma
+WCHC-F-D-CE-S65	Oral
+WCHD-F-D-CE-S66	Cervix
+WCIE-F-D-CE-S77	Lung
+WCIF-F-D-CE-S1	Lung
+WCJA-F2-D-CE-S26	Lung
+WCJD-F-D-CE-S75	Stomach
+WCJF-F-D-CE-S76	Brain
+WCJG-F-D-CE-S78	Stomach
+WCJH-F-D-CE-S80	Breast
+WCJH-F3-D-CE-S1	Breast
+WCJI-F-D-CE-S79	Oral
+WCMC-F-CE-S18	Oral
+WCME-F-CE-S19	Lung
+WCMF-F-CE-S21	Large Intestine
+WCML-F-CE-S23	Cervix
+WCNA-F-CE-S26	Lung
+WCNB-F-CE-S44	Pancreas
+WCNC-F-CE-S45	Urinary Bladder
+WCND-F-D-CE-S53	Lung
+WCNE-F-CE-S25	Unknown primary
+WCNF-F-D-CE-S54	Lung
+WCNG-F-D-CE-S58	Breast
+WCNH-F-D-CE-S5	Oral
+WCNJ-F-CE-S27	Pancreas
+WCNK-F-CE-S28	Ovary
+WCNL-F-CE-S29	Lung
+WCOA-F-D-CE-S58	Rectum
+WCOB-F-D-CE-S55	Uterus
+WCOC-F-D-CE-S59	Lung
+WCOE-F-D-CE-S73	Lung
+WCOF-F-D-CE-S4	Rectum
+WCOG-F-D-CE-S60	Lung
+WCOH-F-CE-S43	Lung
+WCOP-F1-D-CE-S55	Breast
+WCOQ-F-D-L2-CE-S63	Pancreas
+WCOS-F-D-L2-CE-S64	Uterus
+WCOU-F1F2-D-CE-S31	Liver and intrahepatic bile ducts
+WCOV-F-D-CE-S56	Retroperitoneum and Peritoneum
+WCPB-F-D-CE-S68	Lung
+WCPC-F-D-CE-S69	Breast
+WCPD-F-D-CE-S70	Unknown primary
+WCPJ-F-D-L2-CE-S76	N/A
+WCPM-F-D-CE-S72	Liver and intrahepatic bile ducts
+WCPO-F-D-CE-S51	N/A
+WCQA-F2F3F4F5-D-CE-S58	Prostate
+WCQC-F-D-CE-S43	Lung
+WCQE-F-D-CE-S44	Sarcoma
+WCTB-F-D-CE-S63	Lung
+WCTE-F-D-CE-S64	Lung
+WCTG-F-D-CE-S52	Liver and intrahepatic bile ducts
+WCTH-F-D-CE-S57	Lung
+WCTJ-F-D-CE-S53	Large Intestine
+WCTM-F1F2-D-CE-S21	Stomach
+WCTT-F-D-CE-S54	Uterus
+WCTU-F-L2-D-CE-S29	Ovary
+WCTV-F-D-CE-S59	Unknown primary
+WCWB-F-D-CE-S27	Small Intestine
+WCWD-F1F2F3-D-CE-S28	Prostate
+WCWG-F-D-CE-S26	Stomach
+WCXB-F-Res-D-CE-S2	Cervix
+WCXC-F1F2-D-CE-S23	Esophagus
+WCXD-F-D-CE-S24	Gallbladder
+WCXE-F-D-CE-S31	Ovary
+WCXF-F-D-CE-S25	Pancreas
+WCXG-F1-D-CE-S34	Large Intestine
+WCXH-F-D-CE-S32	Lung
+WDCA-F1-D-CE-S35	Ovary
+WDCB-F2-D-CE-S221-L004	Gallbladder
+WDCG-F-D-CE-S45	Esophagus
+WDCL-F4-D-CE-S90	N/A
+WDCM-F1-D-CE-S38	N/A
+WDCN-F1-D-CE-S39	Liver and intrahepatic bile ducts
+WDCV-F-D-CE-S41	Lung
+WDCW-F1F2-D-CE-S42	Pancreas
+WDCX-F-D-CE-S43	Liver and intrahepatic bile ducts
+WDDA-F1F2-D-CE-S46	Lung
+WDDD-F1F2-D-CE-S48	Uterus
+WDDF-F1-D-CE-S49	Urinary Bladder
+WDDG-F1-D-CE-S50	Lung
+WDDG-F3-D-CE-S1	Lung
+WDEA-F-D-CE-S51	Skin
+WDEB-F-D-CE-S52	Unknown primary
+WDEE-F-D-CE-S53	Esophagus
+WDEH-F1F2-D-CE-S54	Liver and intrahepatic bile ducts
+WDEH-Z1-Z2-D-CE-S129	Liver and intrahepatic bile ducts
+WDEI-F-D-CE-S55	Lung
+WDEM-F1F2-D-CE-S57	Esophagus
+WDFC-F-D-CE-S59	Large Intestine
+WDFE-F1F2-D-CE-S60	Others
+WDFG-F-D-CE-S61	Esophagus
+WDFL-F-D-L2-CE-S62	Prostate
+WE36-F-D-CE-S131	Gallbladder
+WE3A-F-D-CE-S124	Liver and intrahepatic bile ducts
+WE3M-F1F2-D-CE-S126	Lung
+WE3N-F1-D-CE-S127	Ovary
+WE3Q-F-D-CE-S130	Lung
+WE4G-F-D-CE-S132	Oral
+WE4M-F1-D-CE-S133	Prostate
+WE5B-F-D-CE-S1	Breast
+WE5K-F-D-CE-S1	Liver and intrahepatic bile ducts
+WE5N-F1F2-D-CE-S1	Unknown primary
+WE5O-F-D-CE-S1	Breast
+WE79-F2-D-CE-S309-L004	Lung
+WE7B-F-D-CE-S1	Rectum
+WE7J-F1F2-D-CE-S1	Gallbladder
+WE7Q-F1F2-D-CE-S1	Large Intestine
+WE99-F1-D-CE-S59	Large Intestine
+WE9B-F-D-CE-S57	Lung
+WE9L-F1F2-D-CE-S61	Lung
+WE9M-F-D-CE-S62	Brain
+WE9O-F-D-CE-S63	Gallbladder
+WE9R-F-D-CE-S64	Stomach
+WE9S-F1-D-CE-S65	Large Intestine
+WE9T-F-D-CE-S66	Oral
+WE9V-F1-D-CE-S67	Large Intestine
+WEBK-F-D-CE-S113	Lung
+WEBM-F-D-L2-CE-S11	Others
+WEBO-F-D-CE-S115	N/A
+WEBP-F-D-CE-S116	Lung
+WEBQ-F1-D-CE-S117	Stomach
+WEBR-F1F2-D-CE-S118	Uterus
+WEC2-F-D-CE-S128	Large Intestine
+WECB-F-D-CE-S119	Large Intestine
+WECC-F-D-CE-S120	Lung
+WECH-F1-D-CE-S121	Large Intestine
+WECK-F-D-CE-S122	Breast
+WECS-F1-D-CE-S123	Uterus
+WECW-F1F2-D-CE-S124	Pancreas
+WECX-F2-D-CE-S52	Stomach
+WECY-F1-D-CE-S125	Sarcoma
+WEE6-F-D-CE-RSQ	Thyroid
+WEE6-F-D-CE-S176	Thyroid
+WEEA-F-D-CE-S130	Lung
+WEEB-F-D-CE-S134	Lung
+WEEF-F1-D-CE-S135	N/A
+WEEL-F-D-CE-S136	Stomach
+WEEO-F-D-CE-S36	Lung
+WEET-F-D-CE-S175	Breast
+WEEV-F1-D-CE-S177	Cervix
+WEEW-F-D-CE-S178	Large Intestine
+WEEX-F1-D-CE-S179	Pancreas
+WEH4-F1F2-D-CE-S51	Breast
+WEH6-F-D-CE-S53	Lung
+WEHA-F1-D-CE-S49	Liver and intrahepatic bile ducts
+WEHB-F-D-CE-S50	Lung
+WEHG-F1-D-CE-S1	Breast
+WEHH-F1-D-CE-S31	Lung
+WEHT-F1F2-D-CE-S33	Lung
+WEHV-F4-D-CE-S1	Oral
+WEHW-F1-D-CE-S55	Lung
+WEHX-F1F2-D-CE-S34	Lung
+WEHY-F1-D-CE-S54	Lung
+WEJE-F-D-CE-S91	Oral
+WEJO-F-D-CE-S92	Esophagus
+WEJQ-F-D-CE-S38	Prostate
+WEJS-F-D-CE-S93	Oral
+WEK4-F-D-CE-S70	Esophagus
+WEK9-F-D-CE-S94	Large Intestine
+WEKB-F1F2-D-CE-S39	Rectum
+WELA-F-D-CE-S96	Breast
+WELC-F-D-CE-S98	Lung
+WELH-F1-D-CE-S99	Large Intestine
+WELJ-F1-D-CE-S30	Pancreas
+WELK-F1F2-D-CE-S100	Pancreas
+WELL-F-D-CE-S101	Esophagus
+WEO9-F-D-CE-S218-L004	Large Intestine
+WEON-F4-D-CE-S1	Esophagus
+WESP-F2-D-CE-S1	Rectum
+WETC-F3-D-CE-S269-L004	Oral
+WEV9-F-D-CE-S34	N/A
+WEVO-F1F2-D-CE-S36	Pancreas
+WEW4-F-D-CE-S69	N/A
+WEWE-F1-D-CE-S70	Stomach
+WEWG-F-D-CE-S71	Rectum
+WEX9-F1F2-D-CE-S76	Lung
+WEXM-F1F2-D-CE-S78	Pancreas
+WEYA-F1F2-D-CE-S80	N/A
+WEYF-F1F2-D-CE-S82	Large Intestine
+WEYK-F1-D-CE-S86	Large Intestine
+WEYL-F-D-CE-S87	Esophagus
+WF11-F-D-CE-S1	Oral
+WF12-F1-D-CE-S1	Stomach
+WF1A-F1F2-CE-CL-S1	Pancreas
+WF1B-F-D-CE-S1	Ovary
+WF1G-F-D-CE-S1	Retroperitoneum and Peritoneum
+WF1H-F-D-CE-S1	Head and Neck
+WF1W-F-D-L2L1-CE-S107	Urinary Bladder
+WF1X-F1-D-L2L1-CE-S1	Breast
+WF1Z-F2-CE-S1	Large Intestine
+WF34-F-CE-S1	Others
+WF3B-F1-CE-S1	Kidney
+WF3G-F-CE-S1	Unknown primary
+WF6A-F1-D-CE-S1	Breast
+WF6F-F1F2-D-CE-S1	Unknown primary
+WF9L-F1-D-CE-S283-L004	Ovary
+WF9M-F1F2-D-CE-S284-L004	Large Intestine
+WF9N-F1-D-CE-S285-L004	Ovary
+WF9O-F1F2-D-CE-S308-L004	Stomach
+WF9P-F1F2-D-CE-S286-L004	Stomach
+WF9Q-F-D-CE-S287-L004	Prostate
+WF9R-F-D-CE-S288-L004	Small Intestine
+WFA4-F-D-CE-S1	Stomach
+WFB9-F-D-CE-S1	Pancreas
+WFBF-F1F2-D-CE-S1	Thyroid
+WFBG-F1-D-CE-S1	Breast
+WFBK-F-D-CE-S1	Retroperitoneum and Peritoneum
+WFEQ-F-D-CE-S211-L004	Breast
+WFER-F-D-CE-S212-L004	Ovary
+WFES-F1-D-CE-S213-L004	Others
+WFET-F-D-CE-S214-L004	Oral
+WFF9-F1F2-D-CE-S224-L004	Pancreas
+WFFJ-F-D-CE-S225-L004	Esophagus
+WFHQ-F2-D-CE-S1	Gallbladder
+WFL9-F1F2-D-CE-S310-L004	Large Intestine
+WFLA-F1F2-D-CE-S1	Stomach
+WFLF-F-CE-S1	Lung
+WFLJ-F1F2-D-CE-S311-L004	Unknown primary
+WFLK-F2-D-CE-S1	Stomach
+WFLN-F1-D-CE-S312-L004	Oral
+WFMA-F1F2-D-CE-S1	Small Intestine
+WFMC-F1-D-CE-S1	Gallbladder
+WFMK-F1F2-D-CE-S1	Large Intestine
+WFMP-F1F2-D-CE-S1	Brain
+WFNE-F1F2-D-CE-S1	Large Intestine
+WFNJ-F1F2-D-CE-S1	Others
+WFNK-F-D-CE-S1	Oral
+WFNM-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+WFNP-F-D-CE-S1	Lung
+WFO4-F-D-CE-S1	Liver and intrahepatic bile ducts
+WFOA-F1F2-D-CE-S1	Stomach
+WFOB-F-D-L1L2-CE-S1	Liver and intrahepatic bile ducts
+WFOF-F1-D-CE-S1	Sarcoma
+WFOG-F1-D-CE-S1	Rectum
+WFP4-F1F2-D-CE-S1	Breast
+WFP6-F-D-CE-S1	N/A
+WFPL-F1-D-CE-S1	Large Intestine
+WFPM-F-D-CE-S1	N/A
+WFPN-F-D-CE-S1	N/A
+WFPP-F-D-CE-S1	N/A
+WFPR-F-D-CE-S1	N/A
+WFPS-F-D-CE-S1	N/A
+WFPV-F-D-CE-S1	N/A
+WFT4-F1F2-CE-D1-S1	Liver and intrahepatic bile ducts
+WFTL-F1-D-CE-S1	Lung
+WFTT-F1F2-D-CE-S1	Lung
+WFVJ-F-D-CE-S1	Uterus
+WFVL-F1-D-CE-S1	Pancreas
+WFWN-F1F2-D1-CE-S1	Lung
+WFWQ-F1-D-CE-S1	Uterus
+WFWR-F-D-CE-S1	Breast
+WFWT-F-D-CE-S1	Lung
+WFZL-F1-D-CE-S1	Ovary
+WFZO-F1-CE-S6	Lung
+WFZQ-F-D1-CE-S1	Stomach
+WFZS-F-D-CE-S1	Cervix
+WG1AB-F-D-CE-S1	Pancreas
+WG2AE-F2-D-CE-S73	Large Intestine
+WG2AF-F1F2-D-CE-S1	Lung
+WG3AF-F1-D-CE-S74	N/A
+WG3AG-F1-D-CE-S1	Lung
+WG4A4-F-CE-S9	Ovary
+WG4AA-F1-CE-S7	Uterus
+WG4AC-F1F2-CE-S8	Urinary Bladder
+WG4AF-F-CE-S10	Pancreas
+WG4AO-F1F2-CE-S13	Liver and intrahepatic bile ducts
+WG4AQ-F-CE-S15	Gallbladder
+WG5AY-F-D-L2-CE-S1	Retroperitoneum and Peritoneum
+WG6A6-F-D-CE-S1	Large Intestine
+WG6AS-F1F2-D-CE-S1	Ovary
+WG6AT-F-D-CE-S1	Large Intestine
+WGCAK-F1F2-CE-S1	Lung
+WGEAA-F-CE-S19	Lung
+WGFAB-F2F1-D-CE-S1	Large Intestine
+WGFAC-F-D2-L2-CE-S50	Stomach
+WGFAG-F1F2-CE-S52	Lung
+WGFAH-F-CE-S53	Liver and intrahepatic bile ducts
+WGFAK-F1-CE-S55	Lung
+WGGAA-F-CE-S95	Oral
+WGGAL-F-CE-S101	Lung
+WGHA4-F-D1-CE-S1	Liver and intrahepatic bile ducts
+WGHA9-F1-D-L1-CE-S1	Lung
+WGHAE-F-CE-S1	Stomach
+WGHAG-F1F2-CE-S104	Kidney
+WGHAL-F1-CE-S1	Others
+WGHAN-F-CE-S1	Breast
+WGJA9-F-CE-S1	Gallbladder
+WGKA4-F-CE-S1	Prostate
+WGKAH-F-CE-S1	Large Intestine
+WGLAB-F-CE-S1	Sarcoma
+WGMA9-F-CE-S1	Large Intestine
+WGMAC-F-D-CE-S1	N/A
+WGMAF-F1F2-CE-S1	Pancreas
+WGMAH-F-CE-S1	Ovary
+WGNA1-F1-D-CE-S1	Unknown primary
+WGNA2-F1F2-D-CE-S1	Lung
+WGNAC-F-D-CE-S1	Skin
+WGNAX-F1F2-D-CE-S1	Uterus
+WGOAG-F1-D-CE-S1	Pancreas
+WGOAJ-F1-D-CE-S1	Pancreas
+WGRA4-F-D-CE-S1	Gallbladder
+WGSAC-F1F2-D-CE-S1	Large Intestine
+WGSAG-F1F2-D-CE-S1	Ovary
+WGSAH-F-D-CE-S1	Cervix
+WGSAJ-F-D-CE-S1	Unknown primary
+WGTAB-F1-D-CE-S1	Thyroid
+WGVAE-F-D-CE-S1	Gallbladder
+WGVAG-F1-D-CE-S1	Unknown primary
+WGVAH-F-D-CE-S1	Breast
+WGXAB-F-D-CE-S1	Lung
+WGXAE-F-D-CE-S1	Lung
+WGYAG-F1-D-L1L2-CE-S1	Lung
+WGZAJ-F-D-CE-S1	Lung
+WGZAO-F1F2F3-D-CE-S1	Lung
+WGZAP-F1F2-D-CE-S1	Lung
+WH2A9-F4-D-CE-S1	Thyroid
+WH2AJ-F1-D-CE-S1	Thyroid
+WH2AK-F1-D2-CE-S1	Lung
+WH2AK-F1F2-D-CE-S1	Lung
+WH2AL-F3F4-D-CE-S1	Kidney
+WH2AM-F-D-CE-S1	Brain
+WH2AN-F1-D-CE-S1	Esophagus
+WH3AB-F-D-CE-S1	Prostate
+WH3AP-F1F2-D-CE-S1	Rectum
+WH3AQ-F-D-CE-S1	Others
+WH3AY-F1-D-CE-S1	Rectum
+WH5AM-F-D-CE-S1	Liver and intrahepatic bile ducts
+WH6AA-F-D-CE-S1	Pancreas
+WH6AC-F-D1-CE-S1	Lung
+WH6AE-F-D1-CE-S1	Brain
+WH6AL-F-D-CE-S1	Others
+WH7AA-F-D-CE-S1	Urinary Bladder
+WH7AL-F-D-CE-S1	Breast
+WH7AN-F-D-CE-S1	Stomach
+WH9A4-F-D-CE-S77	Ovary
+WHBA4-F1F2-D-CE-S1	Gallbladder
+WHCAA-F1F2-D-CE-S1	Stomach
+WHCAC-F1-D-CE-S1	Small Intestine
+WHGAB-F-D-CE-S1	Liver and intrahepatic bile ducts
+WHGAH-F-D-CE-S1	Gallbladder
+WHGAP-Z-D-CE-S1	Liver and intrahepatic bile ducts
+WHHAA-F1-D-CE-S87	Large Intestine
+WHHAL-F-D-CE-S96	Uterus
+WHHAM-F1F2-D-CE-S97	Rectum
+WHJA9-F-D-CE-S102	Retroperitoneum and Peritoneum
+WHJAC-F1F2-D-CE-S106	Esophagus
+WHJAL-F-D-CE-S114	Small Intestine
+WHKAA-F1-D2-CE-S120	Pancreas
+WHLAA-F-D-CE-S134	Esophagus
+WHLAF-F1-D-CE-S138	Liver and intrahepatic bile ducts
+WHPAA-F-D-CE-S1	Lung
+WHPAJ-F-D-CE-S1	Gallbladder
+WHPAQ-F1-D-CE-S1	Small Intestine
+WHQAW-F1-D-CE-S1	Stomach
+WHVAG-F1F2-D2-CE-S1	Large Intestine
+WHWA2-F-D-CE-S1	Lung
+WHWAC-F-D-CE-S1	Oral
+WHWAV-F1-D-CE-S1	Breast
+WHWBB-D-D-CE-S1	Breast
+WHXAF-F1F2-D-CE-S1	Thyroid
+WHXAG-F1F2-D-CE-S1	Large Intestine
+WHXAM-F-D-CE-S1	Pancreas
+WHXAN-F-D-CE-S1	Gallbladder
+WHXAO-F-D-CE-S1	Lung
+WHXAQ-F-D-CE-S1	Rectum
+WHXAV-F-D-CE-S1	Lung
+WHXAW-F-D-CE-S1	Thyroid
+WHYAH-F1-D-CE-S1	Breast
+WHYAL-F2-D-CE-S1	Gallbladder
+WJ1AA-F-CE-S1	Unknown primary
+WJ1AB-F-CE-S1	Rectum
+WJ1AE-F-CE-S1	Esophagus
+WJ1AK-F2F3-D-CE-S1	Lung
+WJ1AP-F-CE-S1	Pancreas
+WJ2AH-F1-D-CE-S1	Oral
+WJ4AJ-F1-D-CE-S1	Pancreas
+WJ4AO-F1F2-D-CE-S1	Breast
+WJ5A4-F-D-CE-S1	Unknown primary
+WJ5AA-F-D-CE-S1	Esophagus
+WJ6AJ-F2-D-CE-S1	Breast
+WJ7AQ-F-D-CE-S1	Others
+WJ7AR-F1F2-D-CE-S1	Gallbladder
+WJ7AX-F-D-CE-S1	Retroperitoneum and Peritoneum
+WJ9AP-F-D-CE-S1	Rectum
+WJ9AR-F-D-CE-S1	Stomach
+WJ9AT-F11-D-CE-S1	Pancreas
+WJCA1-F-D-CE-S1	Liver and intrahepatic bile ducts
+WJCA9-F1F2-D-CE-S1	Large Intestine
+WJCAG-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+WJCAJ-F-L2-D-CE-S1	Retroperitoneum and Peritoneum
+WJCAK-F-D-CE-S1	Kidney
+WJCAQ-F1F2-D-CE-S1	Unknown primary
+WJEAA-F-D-CE-S1	Stomach
+WJEAF-F1F2-D-CE-S1	N/A
+WJFAH-F-D2-CE-S1	Kidney
+WJFAJ-F-D-CE-S1	Unknown primary
+WJFAL-F1F2-D-L1L2-CE-S1	Urinary Bladder
+WJFAN-F1F2-L3-D-CE-S1	Rectum
+WJGAP-F-D-CE-S1	Large Intestine
+WJGAV-F1F2-D-CE-S1	Brain
+WJKA4-F-D-CE-S1	Unknown primary
+WJLA4-F-D-CE-S1	Lung
+WJLAC-F-D-CE-S1	Rectum
+WJLAJ-F-D2-CE-S1	Oral
+WJNA4-F1-D-CE-S1	Rectum
+WJNAF-F1-D-CE-S1	Unknown primary
+WJNAJ-F-D-CE-S1	Uterus
+WJNAM-F-D-CE-S1	Large Intestine
+WJPAJ-F1-D1-CE-S1	Small Intestine
+WJPAK-F1-D2-L2-CE-S1	Liver and intrahepatic bile ducts
+WJPAN-F3F1F2-D-CE-S1	Unknown primary
+WJPAO-F-D-CE-S1	Sarcoma
+WJSAC-F-D-CE-S1	Liver and intrahepatic bile ducts
+WJSAG-F-D-CE-S1	Gallbladder
+WJTA4-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+WJTAB-F-D-CE-S1	Prostate
+WJTAG-F1F2-D-CE-S1	Breast
+WJYA4-F-D-L2-CE-S1	Esophagus
+WJYAK-F2-D-CE-S1	Breast
+WJYAO-F1F2F3-D-L2-CE-S1	Gallbladder
+WJYAQ-F1F2-D-CE-S1	Uterus
+WJYAT-F2-D-CE-S1	Breast
+WJZA9-F1F2-D2-CE-S1	Brain
+WJZAJ-F1F2-D-CE-S1	Pancreas
+WK1AK-F2F3-D-CE-S96-S1	Gallbladder
+WK1AL-F1F2-D-CE-S1	Prostate
+WK1AQ-F-D-CE-S1	Gallbladder
+WK1AS-F1F2-D-CE-S1	Uterus
+WK1AT-F-D-CE-S1	Large Intestine
+WK1AW-F-D-CE-S1	Liver and intrahepatic bile ducts
+WK1AX-F1-D-CE-S1	Liver and intrahepatic bile ducts
+WK2AJ-F-D-CE-S1	Rectum
+WK2AK-F-D-CE-S1	Lung
+WK2AP-F-D-CE-S63	Pancreas
+WK2AR-F1-D-L2L1-CE-S75	Head and Neck
+WK2AS-F1-D-CE-S19	Large Intestine
+WK6AB-F1F2-D-CE-S1	Lung
+WK6AJ-F-D-CE-S1	Gallbladder
+WK6AK-F1-D-CE-S1	Breast
+WK6AR-F-D-L2L1L3-CE-S1	Unknown primary
+WK7AA-F-D-CE-S55	Kidney
+WK7AM-F1F2-D-CE-S43-S1	Large Intestine
+WK7AN-F1F2-D-CE-S59	Oral
+WK9AA-F-D-CE-S1	Large Intestine
+WK9AC-F1F2-D-CE-S1	Stomach
+WK9AJ-F-L1-D-L3-CE-S1	Lung
+WKAA4-F1-D-CE-S1	Cervix
+WKAA9-F-D-CE-S1	Liver and intrahepatic bile ducts
+WKBAC-F2F3-D-CE-S1	Rectum
+WKBAG-F1-D-CE-S1	Pancreas
+WKCAE-F-D-CE-S1	Stomach
+WKCAF-F-D-CE-S1	Lung
+WKFAA-F1F2-D-CE-S1	Large Intestine
+WKFAE-F-D-CE-S1	Lung
+WKFAK-F-D-CE-S1	Gallbladder
+WKGA4-F-D-CE-S1	Breast
+WKGAA-F-D-CE-S1	Lung
+WKGAB-F1-D-CE-S1	Lung
+WKGAB-F1-D2-CE-S1	Lung
+WKGAV-F1F2-D-CE-S1	Breast
+WKHA1-F-D-CE-S1	Stomach
+WKHAB-F-D-CE-S1	Skin
+WKHAQ-F1-D-CE-S1	Breast
+WKHAX-F1F2-D-L3-CE-S1	Unknown primary
+WKHAZ-F-D-L1-CE-S1	Lung
+WKJA4-F-L2-D-CE-S1	Oral
+WKJAF-F-D-CE-S1	Liver and intrahepatic bile ducts
+WKKA4-F-D-CE-S1	Rectum
+WKKAH-F-D1-CE-S1	Skin
+WKNA9-Z-D-CE-S1	Lung
+WKNAF-F1-D-CE-S1	Unknown primary
+WKNAH-F-D-CE-S1	Pancreas
+WKOA3-F-D-CE-S1	Lung
+WKOA4-F-D-CE-S1	Rectum
+WKOA7-F-D-CE-S1	Breast
+WKOAC-F-D-CE-S1	Unknown primary
+WKOAV-F-D-CE-S1	Head and Neck
+WKOAZ-F1F2-D-CE-S1	Lung
+WKPAB-F1-D-L1-CE-S1	Esophagus
+WKQAA-F1F2F3-D-CE-S1	Liver and intrahepatic bile ducts
+WKQAB-F-D-CE-S1	Uterus
+WKQAC-F1-D-CE-S1	Uterus
+WKQAG-F-D-CE-S1	Ovary
+WKQAK-F-D-CE-S1	Cervix
+WKQAP-F1F2-D-CE-S1	Cervix
+WKRAA-F-D-CE-S1	Urinary Bladder
+WKTAE-F1-D-CE-S1	Esophagus
+WKTAK-F-D-CE-S1	Lung
+WKVAG-F1-D-CE-S1	Large Intestine
+WKWAA-F-D-CE-S1	Liver and intrahepatic bile ducts
+WKWAM-F-D-L2-CE-S1	Retroperitoneum and Peritoneum
+WKXAA-F-D-CE-S1	Cervix
+WKXAB-F-D-CE-S1	Oral
+WKXAO-F1-D-CE-S1	Cervix
+WKYAH-F1F2-D-CE-S1	Lung
+WL1A2-F1-D-CE-S1	Ovary
+WL1AF-F1F2-D-CE-S1	Lung
+WL2A9-F-D-CE-S1	Liver and intrahepatic bile ducts
+WL2AJ-F1-D-CE-S1	Brain
+WL2AK-F1-D-CE-S1	Uterus
+WL2AL-F1F2-D-CE-S1	Pancreas
+WL2AM-F-D-CE-S1	Lung
+WL3A9-F-D-CE-S1	Lung
+WL3AA-F1F2-D-CE-S1	Large Intestine
+WL3AL-F1-D-CE-S1	Oral
+WL4AC-F1F2F3-D-CE-S59-S1	Prostate
+WL4AH-F1F2-D-CE-S1	Small Intestine
+WL4AM-F-D-CE-S82-S1	Lung
+WL6AJ-F2F3F4-D-L2-CE-S124-L004	Cervix
+WL7A9-F-D-CE-S1	Breast
+WL7AH-F-D-CE-S1	Lung
+WLAAH-F-D1-CE-S1	Oral
+WLBAF-F1-D-CE-S152-L004	N/A
+WLBAN-F-D-CE-S41-S1	Liver and intrahepatic bile ducts
+WLBAO-F1-D-CE-S42-S1	Pancreas
+WLEA4-F1-D-CE-S78-S1	Cervix
+WLFAB-F-D-L2L1-CE-1-2-Merged-S157-L004	Breast
+WLFAC-F1F2-D-CE-S87-S1	Gallbladder
+WLFAO-F1-D-CE-S95-S1	Uterus
+WLGAG-F-D-CE-S100-S1	Large Intestine
+WLGAJ-F-D-CE-S102-S1	Brain
+WLGAP-F-D-L2-CE-S159-L004	Unknown primary
+WLHAM-F1F2-D-CE-S166-L004	Kidney
+WLHAN-F-D-CE-S167-L004	Lung
+WLHAO-F-D-CE-S168-L004	Sarcoma
+WLKA4-F4-D-CE-S1	Rectum
+WLKA6-F-D-CE-S172-L004	Breast
+WLLA4-F1-D-CE-S182-L004	Small Intestine
+WLLAF-F1F2-D-CE-S183-L004	Brain
+WLLAG-F1F2-D2-CE-S185-L004	Urinary Bladder
+WLLAK-F1-L2L1-D-CE-1-2-Merged-L004	Oral
+WLMAN-F-D-CE-S191-L004	Uterus
+WLMAO-F-D-CE-S192-L004	Rectum
+WLNA4-F1-D-CE-S101-L003	Rectum
+WLNA9-F2-D-CE-S1	Others
+WLNAA-F1-D-CE-S196-L004	Rectum
+WLOAM-F-D-CE-S117-L003	Lung
+WLPAO-F1-D-CE-S125-L003	Thyroid
+WLPAQ-F4-D-CE-S45-L003	Rectum
+WLSAB-F3F4-D-CE-S1	Breast
+WLSAO-F1F2F3-D-CE-S237-L004	Pancreas
+WLSAP-F-D-CE-S238-L004	Breast
+WLSAR-F2F1-D-CE-S1	Breast
+WLSAS-F-D-CE-S241-L004	Esophagus
+WLTA4-F1-D-CE-S1	Unknown primary
+WLTA6-F-D-CE-S1	Breast
+WLTAK-F-D-CE-S1	Pancreas
+WLTAP-F-D-CE-S1	Lung
+WLTAY-F1F2-D-CE-S1	Pancreas
+WLVA2-F1F2-D-CE-S1	Unknown primary
+WLVA5-F1-D-CE-S1	Pancreas
+WLVAJ-F-D-CE-S1	Lung
+WLVAL-F-D-CE-S1	Head and Neck
+WLVAM-F1-D-CE-S1	Sarcoma
+WLVAP-F1-D-CE-S1	Large Intestine
+WLVAW-F1-D-CE-S1	Sarcoma
+WLVBA-F1F2-D-CE-S1	Head and Neck
+WLVBB-F-D-CE-S1	Oral
+WLZAE-F-D-CE-S1	Pancreas
+WLZAO-F-D-CE-S1	Pancreas
+WLZBA-F-D-CE-S1	Large Intestine
+WLZBE-F-D-CE-S1	Kidney
+X41D6-F1F2-D-CE-S1	Uterus
+X41DP-F-D-L2L1-CE-S1	Esophagus
+X43A4-F-D-CE-SL-S1	Small Intestine
+X43AG-F-D-L2-CE-S1	Others
+X43AN-F-D-L2-CE-S1	Large Intestine
+X44A5-F1-D-L2L1-CE-S1	Oral
+X44AV-F-D-CE-S1	Urinary Bladder
+X47AE-F1F2-D-CE-S1	Lung
+X4AA4-F2F1-D-L1L2-CE-S1	Uterus
+X4AAC-F1-D-CE-S1	N/A
+X4BA5-F-D-CE-S1	Large Intestine
+X4BAS-F1F2-D-CE-S1	Sarcoma
+X4BAX-F-D-CE-S1	Rectum
+X4BBJ-F-D-CE-S1	Oral
+X4CAC-F-D-CE-S1	Urinary Bladder
+X4CBR-F-D-L2L1-CE-S1	Breast
+X4CBS-F-D-L2L1-CE-S1	Brain
+X4CBV-F-D-CE-S1	Oral
+X4EA4-F-D-L2L1-CE-S1	Cervix
+X4EAB-F1-D-CE-S1	Unknown primary
+X4EAC-F-D-CE-S1	Brain
+X4EAF-F1-D-CE-S1	Liver and intrahepatic bile ducts
+X4EAM-F1-D-CE-S1	Large Intestine
+X4HAB-F1F2-D-CE-S1	Lung
+X4HAG-F-D-CE-S1	Brain
+X4HAM-F-D-L2L1-CE-S1	Liver and intrahepatic bile ducts
+X4HAN-F-D-CE-S1	Breast
+X4HAO-F1-D-CE-S1	Sarcoma
+X4HAP-F1F2F3-D-CE-S1	Lung
+X4HAQ-F-D-CE-S1	Sarcoma
+X4JA2-F1-D-CE-S1	Retroperitoneum and Peritoneum
+X4JA9-F1-D-CE-S1	Skin
+X4JAH-F-D-L2-CE-S1	Large Intestine
+X4JAL-F1F2F3-D-CE-S1	Large Intestine
+X4JAT-F1-D-CE-S1	Rectum
+X4JAV-F1-D-L2L1-CE-S1	Ovary
+X4JAV-F7-D-L2L1-CE-S1	Ovary
+X4JAX-F1-D-CE-S1	Pancreas
+X4LA9-F1-D-CE-S1	Breast
+X4LAM-F-D-CE-S1	Breast
+X4MB4-F1-D-CE-S1	Rectum
+X4MBB-F-D-CE-S1	Unknown primary
+X4MBG-F-D-CE-S1	Uterus
+X4OAH-F1-D-L2L1-CE-S1	Uterus
+X4OAK-F-D-CE-S1	Pancreas
+X4OAL-F1-D-CE-S1	Rectum
+X4OAO-F1F2-D-CE-S1	Uterus
+X4PA3-F-D-CE-RSQ-S1	Liver and intrahepatic bile ducts
+X4PA3-F-D-CE-S1	Liver and intrahepatic bile ducts
+X4PBB-F-D-L2-CE-S1	Esophagus
+X4QAM-F-D-CE-S2	Large Intestine
+X4RA5-F1-D-CE-S3	Oral
+X4SBG-F2-D-CE-S1	Others
+X4VA1-F1F2-D-CE-S48	Prostate
+X4VA9-F-D-CE-S36	Breast
+X4VAB-F1F2-D-CE-S30	Breast
+X4VAG-F-D-L2L1-CE-S1	Ovary
+X4VAP-F1-D-CE-S40	Kidney
+X4VAQ-F1F2-D-L2L1-CE-RSQ-S1	Lung
+X4VAQ-F1F2-D-L2L1-CE-S1	Lung
+X4VAR-F1-D-CE-S41	Liver and intrahepatic bile ducts
+X4VAZ-F-D-CE-S1	Ovary
+X4VBL-F1-D-L2-CE-S1	Large Intestine
+X4WB1-F-D-CE-S1	Lung
+X4WB6-F-D-CE-S1	Cervix
+X4WBQ-F-D-CE-S1	Pancreas
+X4WBS-F1-D-CE-S97	Sarcoma
+X4WBY-F-D-L2-CE-S98	Lung
+X4WBZ-F1F2-D-L2L1-CE-S1	Ovary
+X4XCM-F-D-CE-S1	Ovary
+X4YCP-F-D-CE-S1	Urinary Bladder
+X4YCX-F-D-CE-S1	Small Intestine
+X4YCY-F1F2F3-D-CE-S1	N/A
+X4ZDJ-F-D-CE-S1	Ovary
+X94AN-F-D-CE-S1	Unknown primary
+X99A1-F-D-CE-S1	Pancreas
+X99A6-F-D-CE-S1	Kidney
+X99AJ-F1F2-D-L2L1-CE-S1	Lung
+X99AT-F1F2F3-D-CE-S1	Unknown primary
+X9BA3-F-D-CE-S1	Stomach
+X9BA5-F-D-CE-S1	Breast
+X9BAW-F1F2F3-D-CE-S1	Lung
+X9CAQ-F-D-CE-S1	Lung
+X9EA9-F-D-L2L1-CE-S1	Sarcoma
+X9EAX-F-D-L2-CE-S1	Rectum
+X9FAN-F1-D-L2L1-CE-S1	Large Intestine
+X9KAL-F-D-L2-CE-S1	Rectum
+X9PAL-F-D-CE-S1	Lung
+X9PB4-F1F2F3F4-D-CE-S1	Lung
+X9PBF-F1-D-L2L1-CE-S1	Uterus
+X9QA4-F1F2-D-L2-CE-S1	Breast
+X9QAB-F-D-L2-CE-S1	Cervix
+X9QAF-F-D-L2-CE-S1	Rectum
+X9QAM-F-D-L2L1-CE-S1	Oral
+X9QAV-F-D-CE-S1	Large Intestine
+X9RAE-F-D-L2L1-CE-S1	Prostate
+X9SA6-F1-D-CE-S1	Lung
+X9SAK-F1-D-CE-S1	Lung
+X9SAN-F-D-CE-S1	Oral
+X9SAQ-F1-D-CE-S1	Brain
+X9SAS-F-D-CE-S1	Cervix
+X9TAN-F-D-CE-S1	Breast
+X9WAM-F-D-CE-S1	Large Intestine
+X9WAP-F-D-CE-S1	Rectum
+X9XA3-F-D-CE-S1	Cervix
+X9XAS-F-D-CE-S1	N/A
+XA1A4-F1-D-CE-S1	Unknown primary
+XA1AE-F-D-CE-S1	Lung
+XA1AF-F1F2-D-CE-S1	Small Intestine
+XA1AH-F1-D-CE-S1	N/A
+XA1AL-F1-D-L2-CE-S1	Large Intestine
+XA1AM-F1-D-CE-S1	Rectum
+XA1AN-F1-D-CE-S1	Large Intestine
+XA3AE-F1-D-CE-S36-L004	Breast
+XA3AW-F-D-CE-S1	Rectum
+XA4A9-F-D-CE-S91-L004	Liver and intrahepatic bile ducts
+XA4AC-F1F2-D-CE-S86-L004	Lung
+XA4AF-F-D-CE-S89-L004	Lung
+XA5AG-F1F2-D-CE-S112-L004	Gallbladder
+XA7AA-F-D-L2L1-CE-S4-L004	Sarcoma
+XABA6-F1F2-D-CE-S27-L003	Liver and intrahepatic bile ducts
+XABAA-F1-D-CE-S111-L004	Urinary Bladder
+XABAK-F-D-CE-S1	Oral
+XABAN-F-D-CE-S1	Breast
+XABAO-F-D-L3-CE-S182-L004	Kidney
+XACAF-F-D-CE-S134-L004	Large Intestine
+XAEA9-F-D-CE-S106-L004	Breast
+XAEAC-F1-D-CE-S100-L004	Uterus
+XAEAH-F-D-CE-S105-L004	Liver and intrahepatic bile ducts
+XAEAP-F-D-CE-S109-L004	Lung
+XAEAQ-F-D-CE-S110-L004	Gallbladder
+XAFAF-F19-D-L2L1-CE-S1	Oral
+XAFAH-F1-D-CE-S113-L004	Large Intestine
+XAHA1-F-D-CE-S127-L004	Stomach
+XAHA3-F1F2-D-CE-S128-L004	Lung
+XAHAN-F-D-CE-S124-L004	N/A
+XAHAO-F1F2-D-CE-S125-L004	Breast
+XAHAS-F1-D-CE-S10-L003	Head and Neck
+XAHAT-F1F2-D-CE-S9-L003	Esophagus
+XAHAV-F-D-CE-S126-L004	Breast
+XAHAX-F1-D-CE-S170-L004	Breast
+XAJAE-F1-D-CE-S7-L003	Lung
+XAJAH-F2-D-CE-S23-L003	Lung
+XAJAL-F-D-CE-S26-L003	Large Intestine
+XAKA4-F1-D-CE-S38-L003	Rectum
+XALAB-F1-D-CE-S40-L003	Skin
+XALAK-F1-D-CE-S44-L003	Lung
+XALAL-F-D-CE-S114-L004	Esophagus
+XAMAA-F-D-L2L1-CE-merged-S65-L003	Breast
+XAMAA-F-D-L2L1-CE-S65-L003	Breast
+XAMAA-F-D-L2L1-CE-S66-L003	Breast
+XAMAB-F-D-CE-S46-L003	Breast
+XAMAC-F1-D-CE-S47-L003	Lung
+XAMAH-F1-D-CE-S52-L003	Lung
+XAOAA-F-D-CE-S48-L003	Oral
+XAPAB-F-D-CE-S50-L003	Lung
+XAPAC-F-D-L1L2-CE-merged-S109-L004	Liver and intrahepatic bile ducts
+XAPAC-F-D-L1L2-CE-PG-MP-X0123-S108-L004	Liver and intrahepatic bile ducts
+XAPAC-F-D-L1L2-CE-S109-L004	Liver and intrahepatic bile ducts
+XAQA4-F-D-CE-S110-L004	Breast
+XAQAF-F1F2F3F4-D2-CE-S1	Ovary
+XARAK-F1-D-CE-S118-L004	Lung
+XARAL-F-D-CE-S1	Gallbladder
+XARAS-F1-D-CE-S120-L004	Uterus
+XASA4-F-D-CE-S25-L004	Sarcoma
+XASAC-F-D-CE-S24-L004	Uterus
+XASAE-F1F2-D-L2L1-CE-S5-L004	Stomach
+XASAF-F2-D-CE-S106-L004	Rectum
+XASAG-F2-D-CE-S1	Large Intestine
+XASAH-F-D-CE-S26-L004	Breast
+XATAF-F-D-CE-S30-L004	Lung
+XATAG-F-D-CE-S31-L004	Unknown primary
+XAVA6-F-D-CE-S53-L004	Large Intestine
+XAVA9-F1-D-CE-S55-L004	Liver and intrahepatic bile ducts
+XAVAA-F1-D-CE-S1-L004	Sarcoma
+XAVAE-F-D-CE-S46-L004	Gallbladder
+XAVAJ-F1-D-CE-S1	Pancreas
+XAVAK-F3F1F2-D2-L1L2-CE-S1	Uterus
+XAVAL-F-D-CE-S49-L004	N/A
+XAVAR-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XAXAC-F-D-CE-S1	Breast
+XAYA4-F-D-CE-S1	Pancreas
+XAYA9-F-D-CE-S1	Esophagus
+XAYAJ-F1F2-D-CE-S1	Large Intestine
+XAYAL-F1F2-D-L2-CE-S1	Stomach
+XB2AF-F-D-CE-S1	Pancreas
+XB2AJ-F1-D-CE-S1	Sarcoma
+XB3AB-F-D-CE-S189-L005	Oral
+XB3AE-F1-D-CE-S1	Retroperitoneum and Peritoneum
+XB3AG-F1-D-CE-S1	Lung
+XB6A4-F-D-L2-CE-S1	Uterus
+XB9A9-F-D-CE-S56-L004	Unknown primary
+XB9AN-F1-D-L2-CE-S1	Ovary
+XBAAG-F1-D-CE-S130-L004	Unknown primary
+XBAAH-F-D-CE-S137-L004	Gallbladder
+XBAAJ-F-D-CE-S131-L004	Lung
+XBAAQ-F1-D-CE-S132-L004	Lung
+XBBAE-F1-D-L2-CE-S145-L004	Uterus
+XBBAL-F1-D-CE-S135-L004	Pancreas
+XBCA9-F-D-L2-CE-S1	Prostate
+XBCAF-F-D-CE-S138-L004	Sarcoma
+XBCAG-F-D-CE-S1	Ovary
+XBCAN-F1F2-D-L2-CE-S1	Lung
+XBCAO-F1F2-D-CE-S140-L004	Liver and intrahepatic bile ducts
+XBCAP-F2-D-CE-S1	Large Intestine
+XBEAA-F1-D-CE-S54-L004	Rectum
+XBEAC-F2-D-CE-S1	Liver and intrahepatic bile ducts
+XBEAH-F-D-CE-S1	Lung
+XBFA9-F-D-L2L1-CE-S1	Lung
+XBFAA-F1F2-D-L2-CE-S1	Lung
+XBFAG-F1F2-D-CE-S1	Sarcoma
+XBFAJ-F-D-CE-S1	Pancreas
+XBFAN-F-D-CE-S1	Gallbladder
+XBGAJ-F1-D-CE-S53-L004	Gallbladder
+XBHA4-F-D-CE-S92-L004	Lung
+XBHAF-F-D-CE-S1	Lung
+XBLA3-F1-D-CE-S76-L004	Large Intestine
+XBLA5-F1-D-CE-S1	Esophagus
+XBLAE-F-D-CE-S72-L004	Breast
+XBLAH-F-D-L2L1-CE-S82-L004	Sarcoma
+XBLAO-F1F2-D-CE-S75-L004	Prostate
+XBMAJ-F-D-L2L1-CE-S1	Uterus
+XBOAE-F-D-CE-S1	Pancreas
+XBOAH-F-D-CE-S1	Breast
+XBOAK-F-D-CE-S1	Large Intestine
+XBOAN-F1-D-CE-S1	Ovary
+XBPAF-F-D-L2L1-CE-S1	Lung
+XBPAK-F1-D-CE-S1	Large Intestine
+XBQAE-F-D-CE-S1	Large Intestine
+XBQAN-F-D-CE-S1	Brain
+XBQAS-Z-D-CE-S1	Thyroid
+XBSAK-F1-D-CE-S1	Oral
+XBTAJ-F1F2-D-CE-S1	Lung
+XBTAK-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+XBTAM-F2-D-CE-S1	Liver and intrahepatic bile ducts
+XBVAL-F1-D-CE-S1	Kidney
+XBVAM-F1-D-CE-S1	Oral
+XBWAB-F-D-CE-S1	Large Intestine
+XBWAK-F-D-CE-S1	Stomach
+XBXAC-F1-D-CE-S1	Others
+XC1AB-F1-D-CE-S1	N/A
+XC2AF-F-D-CE-S1	Large Intestine
+XC2AH-F1-D-CE-S1	Ovary
+XC4AE-F1-D-CE-S206-L005	Uterus
+XC6A9-F1-D-CE-S1	Pancreas
+XC6AC-F1-D-CE-S1	Uterus
+XC6AJ-F-D-CE-S1	Uterus
+XC6AM-F-D-L2L1-CE-S1	Large Intestine
+XC7AA-F-D-CE-S1	Oral
+XC7AB-F-D-CE-S1	Breast
+XC7AG-F-D-CE-S1	Gallbladder
+XC7AJ-F1-D-CE-S1	Prostate
+XC7AK-F1F2-D-L2L1-CE-S1	Rectum
+XC9A4-F-D-L2L1-CE-S34-L004	Liver and intrahepatic bile ducts
+XC9AC-F1-D-CE-S24-L003	Pancreas
+XC9AF-F1F2-D-CE-S1	Unknown primary
+XC9AM-F1-D-CE-S26-L003	Breast
+XC9AN-F-D-CE-S1	Uterus
+XCAAL-F-D-CE-S204-L005	Oral
+XCBA9-F-D-CE-S1	Esophagus
+XCBAB-F-D-L2L1-CE-S212-S213-Merged	Sarcoma
+XCBAK-F-D-CE-S1	Lung
+XCBAL-F-D-L2-CE-S214-L005	Liver and intrahepatic bile ducts
+XCBAM-F3F2-D-L1L3-CE-S1	Urinary Bladder
+XCBAP-F1F2F3-D-CE-S211-L005	Pancreas
+XCBAQ-F-D-CE-S1	Breast
+XCEAK-F-D-L2L1-CE-S1	Breast
+XCEAW-F-D-CE-S1	Unknown primary
+XCEAX-F-D-CE-S1	Lung
+XCGAF-F-D-L2L1-CE-S43-L004	Oral
+XCGAM-F1-D-CE-S1	Unknown primary
+XCKA6-F-D-CE-S1	Uterus
+XCKAG-F-D-CE-S62-L004	Head and Neck
+XCKAH-F-D-CE-S64-L004	Ovary
+XCKAJ-F-D-CE-S65-L004	Rectum
+XCKAL-F-D-CE-S69-L004	Large Intestine
+XCKAN-F-D-L2-CE-S70-L004	Large Intestine
+XCKAQ-F-D-CE-S1	Breast
+XCKAV-F1F2-D-L2-CE-S77-L004	Breast
+XCKAX-F1-D-L2-CE-S80-L004	Skin
+XCKAY-F-D-CE-S82-L004	Pancreas
+XCKAZ-F-D-L2-CE-S83-L004	Stomach
+XCLA6-F1-D-L3L4-CE-S35-L003	Brain
+XCLAO-F1-D-L2L1-CE-S36-L003	N/A
+XCLAT-F-D-CE-S1	Large Intestine
+XCLAT-F2-D-CE-S1	Large Intestine
+XCLAV-F-D-CE-S1	Unknown primary
+XCLAW-F-D-CE-S1	Large Intestine
+XCMA4-F1F2-D-L3-CE-S1	Rectum
+XCMA9-F3F2-D-CE-S1	N/A
+XCMAA-F-D-CE-S37-L003	Urinary Bladder
+XCMAF-F1F2-D-CE-S42-L003	Oral
+XCMAG-F-D-L2-CE-S1	Large Intestine
+XCNA4-F-D-CE-S53-L003	Breast
+XCNAE-F1F2-D-CE-S59-L003	Small Intestine
+XCNAG-F1-D-CE-S60-L003	Skin
+XCNAN-F2-D-CE-S1	Liver and intrahepatic bile ducts
+XCOAJ-F-D-CE-S1	Stomach
+XCOAK-F-D-CE-S1	Lung
+XCPAE-F-D-CE-S1	Stomach
+XCPAF-F-D-CE-S1	Esophagus
+XCPAH-F-D-CE-S1	Others
+XCPAL-F1-D-CE-S1	Others
+XCPAM-F-D-CE-S1	Breast
+XCPAO-F-D-CE-S1	Breast
+XCRA2-F-D-L2-CE-S1	Lung
+XCRA4-F1-D-CE-S1	Esophagus
+XCRAA-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+XCRAB-F1F2F3-D-CE-S1	Lung
+XCRAK-F1-D-CE-S1	Lung
+XCRAL-F1-D-CE-S1	Small Intestine
+XCRAM-F-D-CE-S1	Oral
+XCRAP-F1-D-L2L1-CE-S1	N/A
+XCRAQ-F-D-CE-S1	Gallbladder
+XCRAR-F1-D-CE-S1	Oral
+XCRAS-F-D-CE-S1	Rectum
+XCRAT-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+XCSAA-F-D-CE-S1	Breast
+XCSAF-F-D-CE-S1	Rectum
+XCSAL-F-D-CE-S1	Pancreas
+XCTA9-F-D-CE-S1	Breast
+XCTAA-F1-D-CE-S1	Large Intestine
+XCTAG-F1-D-CE-S1	Large Intestine
+XCTAQ-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XCVAB-F3-D-CE-S1	Breast
+XCVAE-F-D-CE-S1	Rectum
+XCVAH-F2-D-CE-S1	Breast
+XCVAK-F-D-CE-S1	Prostate
+XCVAO-F5-D-CE-S1	Large Intestine
+XCVAT-F1-D-CE-S1	Large Intestine
+XCWAM-F1-D-CE-S1	Lung
+XCWAP-F1-D-CE-S1	N/A
+XCYAL-F-D-L2L1-CE-S1	Gallbladder
+XCZAE-F2F1-D-CE-S1	Sarcoma
+XCZAL-F-D-CE-S1	Breast
+XCZAR-F1-D-CE-S1	Pancreas
+XCZAV-F-D-CE-S1	Rectum
+XE1AA-F1-D-CE-S1	Large Intestine
+XE1AH-F1F2-D-L2-CE-S1	Lung
+XE1AK-F-D-L2L1-CE-S1	Prostate
+XE1AR-F1-D-CE-S1	Breast
+XE1AS-F1-D-L2L1-CE-S1	Prostate
+XE2AA-F1-D-L2-CE-S1	Pancreas
+XE3AH-F1-D-CE-S1	Ovary
+XE4BQ-F-D-CE-S1	Large Intestine
+XE4BR-F-D-CE-S1	Stomach
+XE4BX-F1-D-CE-S1	Lung
+XE5AA-F1-D-CE-S1	Urinary Bladder
+XE5AL-F-D-CE-S1	Lung
+XE6B9-F-D-CE-S1	Lung
+XE6BO-F-D-CE-S1	Esophagus
+XE7BN-F1-D-CE-S1	Small Intestine
+XE9BV-F1F2-D-L1L2-CE-S1	Oral
+XE9BX-F1F2-D-CE-S1	Breast
+XEBAC-F-D-CE-S1	Thyroid
+XEBAE-F-D-CE-S1	Lung
+XEBAH-F-D-CE-S1	Lung
+XEBAJ-F1-D-CE-S1	Large Intestine
+XEBAK-F1-D-CE-S1	Sarcoma
+XEBAN-F1F2-D-CE-S1	Unknown primary
+XEBAO-F1F2-D-CE-S1	Ovary
+XEFA4-F-D-CE-S1	Large Intestine
+XEFAA-F1F2-D-CE-S1	Lung
+XEFAB-F-D-L2L1-CE-S1	Ovary
+XEFAG-F-D-CE-S1	Breast
+XEFAV-F1-D-CE-S1	Kidney
+XEHBH-F-D-CE-S1	Kidney
+XEHBJ-F-D-CE-S1	Lung
+XEHBK-F1F2-D-CE-S1	Stomach
+XEHBM-F1-D-CE-S1	Prostate
+XEHBN-F-D-CE-S1	Lung
+XEJB5-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XEJB7-F1-D-L2L1-CE-S1	Uterus
+XEKCZ-F1-D-CE-S1	Stomach
+XEMDJ-F1-D-CE-S1	Lung
+XEMDL-F1-D-L2L1-CE-S1	Breast
+XEMDM-F1-D-L2L1-CE-S1	Unknown primary
+XEMDN-F1F2-D-CE-S1	Breast
+XEMDQ-F1F2-D-CE-S1	Stomach
+XEMDS-F-D-CE-S1	Breast
+XEOA4-F1F2-D-CE-S1	Pancreas
+XEOAC-F1-D-CE-S1	Stomach
+XEPAQ-F-D-L2L1-CE-S1	Breast
+XEPAR-F-D-CE-S1	Oral
+XEQAA-F-D-CE-S1	Unknown primary
+XEQAC-F1F2-D-CE-S1	Breast
+XEQAJ-F-D-CE-S1	Lung
+XETA4-F1F2-D-L2L1-CE-S1	Others
+XETA6-F-D-CE-S1	Lung
+XETAC-F-D-CE-S1	N/A
+XETAE-F1F2-D-CE-S1	N/A
+XETAK-F1-D-CE-S1	Ovary
+XETAS-F-D-CE-S1	Lung
+XETAV-F-D-CE-S263-L006-S1	Gallbladder
+XEVBW-F1-D-CE-S1	Retroperitoneum and Peritoneum
+XEWCE-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XEWCO-F-D-L2L1-CE-S1	Breast
+XEXDQ-F1-D-CE-S1	Gallbladder
+XEYA4-F-D-CE-S1	Breast
+XEYD5-F1F2F3-D-CE-S1	Lung
+XEYDW-F-D-CE-S1	Oral
+XF1AT-F1F2-D-CE-S1	Others
+XF1AW-F-D-CE-S1	Stomach
+XF1AY-F1-D-CE-S1	Breast
+XF2A7-F1-D-CE-S1	Retroperitoneum and Peritoneum
+XF2A9-F1-D-CE-S1	Cervix
+XF2AP-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XF3AW-F1F2-D-CE-S1	Thyroid
+XF3AY-F1-D-CE-S1	Ovary
+XF4A2-F1F2-D-CE-S49	Lung
+XF6BF-F-D-CE-S1	Breast
+XF6BL-F-D-L2L1-CE-S1	Rectum
+XF6BN-F-D-CE-S1	Large Intestine
+XF6BO-F1-D-L2L1-CE-S1	Lung
+XFCAE-F1-D-CE-S1	Lung
+XFCAX-F1-D-CE-S1	Breast
+XFEBQ-F1-D-CE-S76	Gallbladder
+XFEBX-F1-D-CE-S77	Small Intestine
+XFEBY-F-D-CE-S78	Pancreas
+XFFA4-F-D-CE-S80	Liver and intrahepatic bile ducts
+XFFAL-F-D-CE-S100	Urinary Bladder
+XFFAN-F1F2-D-CE-S84	Unknown primary
+XFFAP-F-D-L2-CE-S109	Rectum
+XFFAQ-F1-D-CE-S86	Sarcoma
+XFFAR-F2-D-CE-S1	Large Intestine
+XFGAT-F1-D-L2L1-CE-S137	Uterus
+XFGAV-F1-D-CE-S89	Lung
+XFGAW-F1-D-L2-CE-S110	Lung
+XFGAY-F1-D-L2-CE-S111	Oral
+XFJA4-F1-D-CE-S1	Lung
+XFJAE-F1-D-CE-S103	Gallbladder
+XFJAP-F-D-L2-CE-S1	Sarcoma
+XFJAW-F1-D-CE-S106	Sarcoma
+XFJAX-F-D-CE-S102	Lung
+XFKA5-F-D-CE-S1	Pancreas
+XFKB9-F1-D-CE-S133	Large Intestine
+XFKBB-F1-D-L2L1-CE-S1	Liver and intrahepatic bile ducts
+XFKBC-F1F2-D-CE-S130	Thyroid
+XFKBL-F1-D-CE-S1	Prostate
+XFLA4-F1-D-L2L1-CE-S1	Large Intestine
+XFLAN-F1-D-CE-S1	Breast
+XFLAQ-F1-D-CE-S1	Rectum
+XFMBN-F1-D-CE-S1	Uterus
+XFMBO-F1F2-D-CE-S1	Unknown primary
+XFMBR-F1-D-CE-S1	Lung
+XFNA1-F-D-L3-CE-S1	N/A
+XFNA3-F-D-L3-CE-S1	N/A
+XFNAL-F1-D-CE-S1	Large Intestine
+XFNAT-F-D-L3-CE-S1	N/A
+XFNAV-F-D-L3-CE-S1	N/A
+XFNAW-F-D-L3-CE-S1	N/A
+XFQA2-F-D-CE-S1	Large Intestine
+XFQA7-F1F2-D-CE-S1	Breast
+XFQAH-F1F2-D-CE-S1	Oral
+XFQAT-F1F2-D-CE-S1	Retroperitoneum and Peritoneum
+XFRB1-F1-D-L2L1-CE-S1	Cervix
+XFRCB-F1F2-D-CE-S1	Breast
+XFSA9-F-D-CE-S1	Lung
+XFTBB-F-D-L2L1-CE-S1	Liver and intrahepatic bile ducts
+XFVB6-F1-D-CE-S1	Small Intestine
+XFVBP-F-D-CE-S1	Lung
+XFVBS-F1F2-D-CE-S1	Lung
+XFVBY-F-D-CE-S1	Ovary
+XFVBZ-F1-D-CE-S1	Urinary Bladder
+XFXAK-F4-D-CE-S1	Large Intestine
+XFXAO-F1-D-CE-S1	Rectum
+XFXAS-F1-D-CE-S1	Kidney
+XFZAM-F1-D-CE-S1	Head and Neck
+XG1A6-F-D-L2-CE-S1	Breast
+XG1AW-F-D-CE-S1	Urinary Bladder
+XG1AZ-F1-D-CE-S1	Gallbladder
+XG3A6-F1-D-CE-S1	Large Intestine
+XG3BE-F1-D-CE-S1	Rectum
+XG3BH-F-D-CE-S1	Sarcoma
+XG3BN-F-D-CE-S1	Uterus
+XG4AQ-F1-D-L2L1-CE-S1	Ovary
+XG4AR-F1F2-D-CE-S1	Lung
+XG5AX-F-D-CE-S1	Stomach
+XG5AY-F-D-CE-S1	Large Intestine
+XG7AO-F-D-CE-S1	Others
+XG7AP-F1-D-CE-S1	Esophagus
+XGAA1-F-D-L2L1-CE-S1	Ovary
+XGAA4-F-D-CE-S1	Liver and intrahepatic bile ducts
+XGAA5-F1-D-CE-S1	Stomach
+XGAAA-F1F2-D-CE-S1	Unknown primary
+XGAAE-F1-D-CE-S1	Lung
+XGAAM-F1-D-CE-S1	Stomach
+XGAAS-F1-D-CE-S1	Sarcoma
+XGAAX-F1F2-D-CE-S1	Oral
+XGABB-F-D-CE-S1	Others
+XGBB4-F1-D-CE-S1	Rectum
+XGBBJ-F1-D-CE-S1	Pancreas
+XGBBM-F1-D-CE-S1	Ovary
+XGCAE-F-D-CE-S1	Gallbladder
+XGEBG-F1-D-L2L1-CE-S1	Esophagus
+XGEBK-F1-D-CE-S1	Large Intestine
+XGEBN-F1-D-CE-S1	Stomach
+XGFBW-F1F2-D-CE-S1	Cervix
+XGFBY-F1-D-CE-S1	Rectum
+XGHB7-F-D-CE-S1	Uterus
+XGHCA-F1-D-CE-S1	Thyroid
+XGHCL-F-D-CE-S1	Gallbladder
+XGHCR-F-D-CE-S1	Sarcoma
+XGJAW-F-D-CE-S1	Cervix
+XGJAX-F1-D-CE-S1	Large Intestine
+XGKA2-F-D-CE-S1	Lung
+XGKBA-F-D-CE-S1	Breast
+XGLAO-F1-D-CE-S1	Ovary
+XGOA1-F1-D-L2L1-CE-S1	Pancreas
+XGOAG-F-D-CE-S1	Unknown primary
+XGOAH-F-D-CE-S1	Uterus
+XGOAJ-F-D-CE-S1	Liver and intrahepatic bile ducts
+XGOAK-F-D-CE-S1	Brain
+XGOAO-F-D-CE-S1	Sarcoma
+XGOAT-F-D-CE-S1	Large Intestine
+XGOAZ-F-D-CE-S1	Unknown primary
+XGQB5-F1F2-D-CE-S1	Urinary Bladder
+XGQCA-F-D-CE-S1	Brain
+XGQCF-F-D-CE-S1	Breast
+XGRC3-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XGRC6-F1F2-D-CE-S1	Breast
+XGRCX-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XGTD9-F-D-L2L1-CE-S1	Stomach
+XGTDK-F1F2F3-D-L2L1-CE-S1	Rectum
+XGVB9-F1-D-CE-S1	Breast
+XGVBC-F1-D-CE-S1	Lung
+XGVBE-F1-D-CE-S1	Gallbladder
+XGWBK-F1-D-CE-S1	Thyroid
+XGXBY-F-D-CE-S1	Brain
+XGZAE-F1-D-CE-S1	Pancreas
+XGZAL-F1-D-L2L1-CE-S1	Ovary
+XH1AE-F1-D-CE-S1	Brain
+XH2AR-F-D-CE-S1	Large Intestine
+XH6AB-F-D-CE-S1	Uterus
+XH6AK-F-D-CE-S1	Uterus
+XH6AN-F-D-CE-S1	Uterus
+XH7A4-F-D-CE-S1	Lung
+XH7AB-F-D-CE-S1	Lung
+XH7AO-F3F4F5F6-D-L2L1-CE-S1	Prostate
+XH7AT-F1-D-CE-S1	Breast
+XH7AY-F1-D-CE-S1	Large Intestine
+XH9AF-F2-D-CE-S1	Breast
+XHAAH-F1-D-CE-S1	Unknown primary
+XHCB9-F1F2-D-CE-S1	Liver and intrahepatic bile ducts
+XHCBF-F1F2-D-CE-S1	Lung
+XHCBH-F-D-CE-S1	Liver and intrahepatic bile ducts
+XHCBN-F-D-CE-S1	Breast
+XHEB1-F1-D-CE-S1	Stomach
+XHEB5-F1F2F3-D-CE-S1	Oral
+XHEBR-F-D-CE-S1	Breast
+XHEBW-F-D-L3L1-CE-S1	Lung
+XHEBY-F-D-CE-S1	Lung
+XHFAV-F-D-CE-S1	Ovary
+XHFAW-F-D-CE-S1	Uterus
+XHHAE-F-D-CE-S1	Oral
+XHHAG-F1-D-L2L1-CE-S1	Small Intestine
+XHHAH-F1-D-L2-CE-S1	Gallbladder
+XHHAN-F1-D-CE-S1	Stomach
+XHHAQ-F1-D-L2L1-CE-S1	Head and Neck
+XHHAR-F1-D-CE-S1	Oral
+XHJA4-F1-D-CE-S1	Large Intestine
+XHJAB-F-D-CE-S1	Kidney
+XHJAC-F-D-L2L1-CE-S1	Stomach
+XHLAK-F-D-CE-S1	Oral
+XHLAZ-F-D-L2L1-CE-S1	Pancreas
+XHNAA-F-D-CE-S1	Ovary
+XHNAC-F-D-CE-S1	Stomach
+XHNAH-F-D-CE-S1	Cervix
+XHNAJ-F1-D-CE-S1	Breast
+XHNAL-F-D-L2L1-CE-S1	Pancreas
+XHNAO-F1F2-D-CE-S1	Oral
+XHNAQ-F-D-L2L1-CE-S1	Oral
+XHPAC-F1-D-CE-S1	Liver and intrahepatic bile ducts
+XHPAF-F18-D-CE-S1	Esophagus
+XHPAK-F-D-CE-S1	Skin
+XHSAQ-F-D-CE-S1	Large Intestine
+XHTA4-F1-D-CE-S1	Large Intestine
+XHTAV-F1F2-D-L2L1-CE-S1	Liver and intrahepatic bile ducts
+XHTAW-F-D-CE-S1	Large Intestine
+XHVA1-F-D-CE-S1	Stomach
+XHVAQ-F-D-CE-S1	Lung
+XHVAX-F-D-CE-S1	Breast
+XHVAY-F-D-L2L1-CE-S1	Oral
+XHWAM-F-D-CE-S1	Breast
+XHWAN-F1-D-CE-S1	Others
+XHWAO-F1-D-CE-S1	Cervix
+XHXAB-F-D-CE-S1	Liver and intrahepatic bile ducts
+XHZAJ-F-D-L2L1-CE-S1	Rectum
+XHZAZ-F-D-L2L1-CE-S1	Large Intestine
+XHZBA-F1F2-D-CE-S1	Prostate
+XHZBC-F-D1D2-L1L2-CE-S1	Rectum

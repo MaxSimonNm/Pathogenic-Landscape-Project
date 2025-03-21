@@ -1,0 +1,840 @@
+Sample,cancerSiteIdcCode,cancerSite,morphologyIdcCode,morphology,laterality
+IN-423-TKKC,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-TKZC,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-TL2D,C73,Thyroid,8021/3,"Carcinoma, anaplastic type, NOS",Unknown
+IN-423-TLCA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-TLGA,C50,Breast,8010/3,"Carcinoma, NOS",Left
+IN-423-TLIA,C25,Pancreas,8470/3,"Mucinous cystadenocarcinoma, NOS",Not a paired Site
+IN-423-TLNC,C70,Cerebral Meninges,9539/1,Atypical meningioma,Right
+IN-423-TLRB,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-TLUA,C25,Pancreas,8560/3,Adenosquamous carcinoma,Not a paired Site
+IN-423-TLVA,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Unknown
+IN-423-TLWA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-TLWB,C56,Ovary,8380/3,Endometrioid carcinoma,Right and Left
+IN-423-TLXA,C34,Lung,8041/3,"Small cell carcinoma, NOS",Right
+IN-423-TLXB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UA2A,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UA2B,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UADA,C50,Breast,8010/3,"Carcinoma, NOS",Left
+IN-423-UADC,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UAEA,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UAEC,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UAED,C49,"Connective, subcutaneous and other soft tissues",8801/3,Spindle cell sarcoma,Not a paired Site
+IN-423-UAFA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UAFB,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UAHB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UAHC,C41,"Bones, joints and articular cartilage of other/ unspecified sites",9220/3,"Chondrosarcoma, NOS",Right
+IN-423-UAKA,C16,Stomach,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UAKB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UAMA,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UAMB,C17,Small Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UASB,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UASC,C56,Ovary,8380/3,Endometrioid carcinoma,Left
+IN-423-UASD,C54,Corpus Uteri,8461/3,High-grade serous carcinoma,Not a paired Site
+IN-423-UBAA,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBAB,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBAC,C07,Parotid gland,8010/3,"Carcinoma, NOS",Right
+IN-423-UBAD,C05,Palate,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UBBA,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-UBBB,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UBEA,C67,Urinary Bladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBHB,C08,Other and unspecified major salivary gland,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UBJA,C54,Corpus Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBJB,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBRA,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UBRB,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBRC,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UBVA,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBVB,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBVC,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UBVD,C54,Corpus Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBWA,C53,Cervix Uteri,8071/2,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UBXB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBYA,C56,Ovary,8255/3,Adenocarcinoma with mixed subtypes,Right and Left
+IN-423-UBYA,C53,Cervix Uteri,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UBYB,C62,Testis,8800/3,"Sarcoma, NOS",Right
+IN-423-UBYC,C53,Cervix Uteri,8071/2,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UBYD,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UBZA,C41,"Bones, joints and articular cartilage of other/ unspecified sites",9240/3,Mesenchymal chondrosarcoma,Right
+IN-423-UBZB,C15,Esophagus,8720/3,"Malignant melanoma, NOS",Not a paired Site
+IN-423-UBZC,C22,Liver and intrahepatic bile ducts,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-UC3B,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",
+IN-423-UC3C,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-UC3E,C16,Stomach,8936/3,Gastrointestinal stromal sarcoma,Not a paired Site
+IN-423-UCAC,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UCAD,C65,Renal pelvis,8120/3,"Transitional cell carcinoma, NOS",Right
+IN-423-UCBA,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UCBB,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCDA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UCDB,C67,Urinary Bladder,8120/3,"Transitional cell carcinoma, NOS",Not a paired Site
+IN-423-UCDC,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCDD,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UCDE,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCDF,C17,Small Intestine,8246/3,Neuroendocrine carcinoma,Not a paired Site
+IN-423-UCDF,C20,Rectum,8246/3,Neuroendocrine carcinoma,Not a paired Site
+IN-423-UCEA,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCHA,C49,"Connective, subcutaneous and other soft tissues",8890/3,"Leiomyosarcoma, NOS",Right
+IN-423-UCHB,C67,Urinary Bladder,8120/3,"Transitional cell carcinoma, NOS",Not a paired Site
+IN-423-UCKA,C80,Unknown primary,,,Unknown
+IN-423-UCLA,C56,Ovary,,,Unknown
+IN-423-UCLC,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCLD,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCOA,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Midline
+IN-423-UCOB,C23,Gallbladder,8144/3,"Adenocarcinoma, intestinal type",Not a paired Site
+IN-423-UCOC,C34,Lung,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UCRB,C61,Prostate,8550/3,Acinar cell carcinoma,Not a paired Site
+IN-423-UCRC,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UCSB,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UCSD,C34,Lung,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UCTA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UCTB,C50,Breast,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UCXA,C44,Skin,8720/3,"Malignant melanoma, NOS",Right
+IN-423-UCXB,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-UCZA,C16,Stomach,8936/3,Gastrointestinal stromal sarcoma,Not a paired Site
+IN-423-UD2A,C54,Corpus Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UDAA,C48,Retroperitoneum and Peritoneum,8850/3,"Liposarcoma, NOS",Not a paired Site
+IN-423-UDCB,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UDCD,C17,Small Intestine,8936/3,Gastrointestinal stromal sarcoma,Not a paired Site
+IN-423-UDEA,C56,Ovary,8260/3,"Papillary adenocarcinoma, NOS",Left
+IN-423-UDGA,C74,Adrenal gland,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UDGB,C56,Ovary,8480/3,Mucinous adenocarcinoma,Right and Left
+IN-423-UDHA,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UDHB,C48,Retroperitoneum and Peritoneum,,,
+IN-423-UDLC,C61,Prostate,8550/3,Acinar cell carcinoma,Not a paired Site
+IN-423-UDNB,C25,Pancreas,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UDOC,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UDPB,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UDSB,C06,Other and unspecified parts of mouth,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UDSD,C26,Intestinal tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UDSE,C56,Ovary,8480/3,Mucinous adenocarcinoma,Right and Left
+IN-423-UDSF,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UDZB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UE1A,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UE1A,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-UE1B,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UE2A,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UE5A,C61,Prostate,8140/3,"Adenocarcinoma, NOS",
+IN-423-UE5D,C56,Ovary,8461/3,High-grade serous carcinoma,Right
+IN-423-UECA,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UEFA,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UEFB,C22,Liver and intrahepatic bile ducts,8140/3,"Adenocarcinoma, NOS",
+IN-423-UEFC,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UEGA,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UEJA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UEMC,C71,Brain,9440/3,"Glioblastoma, NOS",Right
+IN-423-UEQA,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-UEQD,C34,Lung,8046/3,Non-small cell carcinoma,Right
+IN-423-UEQE,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UEQF,C49,"Connective, subcutaneous and other soft tissues",8920/3,Alveolar rhabdomyosarcoma,Left
+IN-423-UEQG,C23,Gallbladder,,,
+IN-423-UEQH,C34,Lung,8046/3,Non-small cell carcinoma,Left
+IN-423-UEQK,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UEXA,C56,Ovary,8260/3,"Papillary adenocarcinoma, NOS",Right and Left
+IN-423-UEXB,C18,Large Intestine,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-UEXC,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-UEZA,C67,Urinary Bladder,8120/3,"Transitional cell carcinoma, NOS",Unknown
+IN-423-UF2A,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UF2B,C34,Lung,8140/3 ,"Adenocarcinoma, NOS",Left
+IN-423-UFBA,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UFCA,C34,Lung,8140/3 ,"Adenocarcinoma, NOS",Left
+IN-423-UFCC,C34,Lung,8480/3,Mucinous adenocarcinoma,Left
+IN-423-UFCD,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Unknown
+IN-423-UFHB,C13,Hypopharynx,8070/3,"Squamous cell carcinoma, NOS",
+IN-423-UFLB,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UFLC,C23,Gallbladder,,,Unknown
+IN-423-UFNA,C34,Lung,8140/3  ,"Adenocarcinoma, NOS",Left
+IN-423-UFNC,C56,Ovary,8310/3,"Clear cell adenocarcinoma, NOS",Unknown
+IN-423-UFOA,C23,Gallbladder,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-UFRA,C50,Breast,8520/3,"Lobular carcinoma, NOS",Right
+IN-423-UFRC,C56,Ovary,8260/3,"Papillary adenocarcinoma, NOS",Left
+IN-423-UFRD,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UFRG,C55,Uterus,8260/3,"Papillary adenocarcinoma, NOS",Not a paired Site
+IN-423-UFUA,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UFUA,C16,Stomach,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UFUB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UFUC,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UFUD,C34,Lung,8000/3,"Neoplasm, malignant",Right
+IN-423-UFUE,C50,Breast,,,Left
+IN-423-UFVA,C26,Intestinal tract,8032/3,Spindle cell carcinoma,Not a paired Site
+IN-423-UFXB,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UG1A,C44,Skin,,,Not a paired Site
+IN-423-UG1C,C48,Retroperitoneum and Peritoneum,2227981,"Neoplasm, uncertain whether benign or malignant",Not a paired Site
+IN-423-UG1D,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UG2A,C63,Other unspecified male genital organs,8805/3,Undifferentiated sarcoma,Not a paired Site
+IN-423-UG2B,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a paired Site
+IN-423-UG3B,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UG3C,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UG3D,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-UG3E,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-UG3F,C25,Pancreas,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UG4A,C61,Prostate,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UGAA,C16,Stomach,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-UGCA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UGFB,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGFC,C55,Uterus,8980/3,"Carcinosarcoma, NOS",Not a paired Site
+IN-423-UGGA,C48,Retroperitoneum and Peritoneum,8800/3,"Sarcoma, NOS",Not a paired Site
+IN-423-UGGD,C50,Breast,8010/3,"Carcinoma, NOS",Right
+IN-423-UGGE,C55,Uterus,8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-UGHA,C07,Parotid gland,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UGIA,C01,Base of Tongue,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UGIC,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGIE,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UGIF,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGIG,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGIH,C56,Ovary,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UGLA,C76,Other ill defined sites,8070/3,"Squamous cell carcinoma, NOS",Right and Left
+IN-423-UGLB,C55,Uterus,8071/3,"Sq. cell carcinoma, keratinizing, NOS",Not a paired Site
+IN-423-UGLD,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGLE,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGLF,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGMD,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-UGME,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UGNB,C49,"Connective, subcutaneous and other soft tissues",8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-UGOB,C49,"Connective, subcutaneous and other soft tissues",8800/3,"Sarcoma, NOS",Left
+IN-423-UGOC,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGOD,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-UGOE,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-UGOF,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UGPB,C49,"Connective, subcutaneous and other soft tissues",9130/3,"Hemangioendothelioma, malignant",Not a paired Site
+IN-423-UGSB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UGSC,C50,Breast,8500/3,Invasive carcinoma of no special type,Right and Left
+IN-423-UGTA,C34,Lung,8140/3  ,"Adenocarcinoma, NOS",Left
+IN-423-UGTB,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UGTD,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UGUA,C50,Breast,8801/3,Spindle cell sarcoma,Left
+IN-423-UGVA,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UGVD,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UGZA,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UH4C,C56,Ovary,8441/3,Serous cystadenocarcinoma,Right and Left
+IN-423-UH4D,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-UH4E,C56,Ovary,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UH4G,C49,"Connective, subcutaneous and other soft tissues",9581/3,Alveolar soft part sarcoma,Left
+IN-423-UH4H,C34,Lung,8550/3,Acinar cell carcinoma,Left
+IN-423-UH4I,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UH4J,C16,Stomach,8936/3,Gastrointestinal stromal sarcoma,Not a paired Site
+IN-423-UHBB,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UHCA,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHEA,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UHFC,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-UHIA,C49,"Connective, subcutaneous and other soft tissues",8890/3,"Leiomyosarcoma, NOS",Right
+IN-423-UHIF,C61,Prostate,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UHKA,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHLB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHLE,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHLF,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UHLG,C21,Anus and Anal canal,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHMA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UHMB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UHPA,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHPC,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UHPD,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UHPE,C72,Spinal Cord and Other Central Nervous System,9391/3,"Ependymoma, NOS",Not a paired Site
+IN-423-UHQB,C49,"Connective, subcutaneous and other soft tissues",9540/3,Malignant peripheral nerve sheath tumor,Not a paired Site
+IN-423-UHRB,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UHWB,C23,Gallbladder,8000/3,"Neoplasm, malignant",Not a paired Site
+IN-423-UHWC,C15,Esophagus,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UI1C,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UI1D,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-UI1H,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UI3B,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UI4A,C73,Thyroid,8010/3,"Carcinoma, NOS",Left
+IN-423-UIBB,C48,Retroperitoneum and Peritoneum,8825/3,Myofibroblastic sarcoma,Unknown
+IN-423-UIBC,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UIBD,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UICA,C55,Uterus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UICB,C54,Corpus Uteri,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UIFB,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-UIFC,C22,Liver and intrahepatic bile ducts,8170/3,"Hepatocellular carcinoma, NOS",Not a paired Site
+IN-423-UIGA,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UIGC,C56,Ovary,8474/3,Seromucinous carcinoma,Unknown
+IN-423-UIGD,C25,Pancreas,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UIHB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UIIA,C61,Prostate,8041/3,Small cell neuroendocrine carcinoma,Not a paired Site
+IN-423-UIIC,C55,Uterus,8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-UIMA,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UIMB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UIME,C56,Ovary,8010/3,"Carcinoma, NOS",Right and Left
+IN-423-UIOA,C76,Other ill defined sites,8083/3,Basaloid squamous cell carcinoma,Left
+IN-423-UIOD,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UITA,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UITC,C56,Ovary,8460/3,Low-grade serous carcinoma,Right
+IN-423-UITE,C16,Stomach,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-UITF,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UITH,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UITI,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UITJ,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UITK,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UIVD,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UIVE,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UIWC,C49,"Connective, subcutaneous and other soft tissues",8801/3,Spindle cell sarcoma,Right
+IN-423-UIXA,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UIXB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UIXC,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UIXC,C56,Ovary,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UJ1A,C34,Lung,8046/3,Non-small cell carcinoma,Right and Left
+IN-423-UJ1B,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJ1C,C56,Ovary,8260/3,"Papillary adenocarcinoma, NOS",Right
+IN-423-UJ1E,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UJ1F,C50,Breast,8010/3,"Carcinoma, NOS",Left
+IN-423-UJ1G,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJ3C,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UJ3D,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-UJ3E,C56,Ovary,,,Unknown
+IN-423-UJ3F,C34,Lung,8046/3,Non-small cell carcinoma,Right
+IN-423-UJ4A,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJAB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJDA,C64,Kidney,8312/3,Renal cell carcinoma,Left
+IN-423-UJDB,C32,Larynx,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-UJDD,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UJFB,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UJFC,C56,Ovary,9014/3,Serous adenocarcinofibroma,Left
+IN-423-UJGA,C25,Pancreas,8560/3,Adenosquamous carcinoma,Not a paired Site
+IN-423-UJGB,C56,Ovary,8010/3,"Carcinoma, NOS",Right
+IN-423-UJHA,C48,Retroperitoneum and Peritoneum,8858/3,Dedifferentiated liposarcoma,Right
+IN-423-UJHC,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UJKA,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UJLA,C49,"Connective, subcutaneous and other soft tissues",8801/3,Spindle cell sarcoma,Unknown
+IN-423-UJNA,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UJNB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJNC,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UJRB,C69,Eye,8720/3,"Malignant melanoma, NOS",Left
+IN-423-UJRD,C56,Ovary,8313/3,Clear cell adenocarcinofibroma,Unknown
+IN-423-UJTA,C41,"Bones, joints and articular cartilage of other/ unspecified sites",,,Left
+IN-423-UJUB,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Right and Left
+IN-423-UJUD,C76,Other ill defined sites,8005/3,"Malignant tumor, clear cell type",Right
+IN-423-UJVB,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJVF,C16,Stomach,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-UJVG,,,,,
+IN-423-UJVH,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UJVI,C21,Anus and Anal canal,8013/3,Large cell neuroendocrine carcinoma,Unknown
+IN-423-UJZB,C02,Other parts of tongue,8010/2,"Carcinoma in situ, NOS",Right
+IN-423-UJZD,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJZE,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UJZF,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UJZF,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UJZI,C41,"Bones, joints and articular cartilage of other/ unspecified sites",,,Right
+IN-423-UJZJ,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UJZM,C56,Ovary,8380/3,Endometrioid carcinoma,Left
+IN-423-UJZN,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UJZO,C53,Cervix Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UK3B,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-UK3E,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UK4A,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UKAA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-UKAC,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UKAF,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UKBC,C49,"Connective, subcutaneous and other soft tissues",9040/3,"Synovial sarcoma, NOS",Left
+IN-423-UKHA,C16,Stomach,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UKHB,C56,Ovary,8461/3,High-grade serous carcinoma,Unknown
+IN-423-UKHE,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKHF,C54,Corpus Uteri,8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-UKHG,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UKIA,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-UKIC,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UKIE,C62,Testis,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKJA,C21,Anus and Anal canal,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKJE,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKJF,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UKJG,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-UKKA,C22,Liver and intrahepatic bile ducts,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKLB,C50,Breast,8010/3,"Carcinoma, NOS",Right
+IN-423-UKLD,C34,Lung,8140/3  ,"Adenocarcinoma, NOS",Right
+IN-423-UKLG,C07,Parotid gland,8430/3,Mucoepidermoid carcinoma,Left
+IN-423-UKOC,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-UKOE,C07,Parotid gland,8502/3,Secretory carcinoma of no special type,Left
+IN-423-UKOF,C57,Fallopian tube and other regions,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKOI,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKPB,C25,Pancreas,8140/3  ,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKQA,C56,Ovary,8050/3  ,"Papillary carcinoma, NOS",Unknown
+IN-423-UKSA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UKVD,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-UKWB,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UKXC,C20,Rectum,,,
+IN-423-UKXD,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-UKXE,C25,Pancreas,,,
+IN-423-UKYA,C25,Pancreas,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-UKYB,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Right and Left
+IN-423-UKZA,C22,Liver and intrahepatic bile ducts,8010/3,"Carcinoma, NOS",Unknown
+IN-423-UKZB,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Right
+IN-423-UKZC,C56,Ovary,8461/3,High-grade serous carcinoma,Unknown
+IN-423-UKZE,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UL2B,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UL2D,C34,Lung,8912/3,Spindle cell rhabdomyosarcoma,Unknown
+IN-423-UL2H,C34,Lung,8046/3,Non-small cell carcinoma,Right
+IN-423-UL2M,C50,Breast,8010/3,"Carcinoma, NOS",Left
+IN-423-UL3B,C34,Lung,8140/3  ,"Adenocarcinoma, NOS",Left
+IN-423-UL3E,C56,Ovary,8461/3,High-grade serous carcinoma,Right
+IN-423-UL4A,C53,Cervix Uteri,8071/3,"Sq. cell carcinoma, keratinizing, NOS",Not a paired Site
+IN-423-UL4A,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-UL4B,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-UL4C,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-UL4D,C34,Lung,8046/3,Non-small cell carcinoma,Left
+IN-423-UL5C,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-UL5E,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-ULAB,C34,Lung,8046/3,Non-small cell carcinoma,Right
+IN-423-ULAC,C08,Other and unspecified major salivary gland,8010/3,"Carcinoma, NOS",Left
+IN-423-ULBD,C34,Lung,8140/3  ,"Adenocarcinoma, NOS",Left
+IN-423-ULBE,C50,Breast,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-ULCE,C64,Kidney,8310/3,"Clear cell adenocarcinoma, NOS",Right
+IN-423-ULFB,C50,Breast,8521/3 ,Infiltrating ductular carcinoma,Right
+IN-423-ULFI,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",
+IN-423-ULGE,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-ULGG,C34,Lung,8046/3 ,Non-small cell carcinoma,Right
+IN-423-ULGH,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-ULGI,C30,Nasal cavity and middle ear,8800/3,"Sarcoma, NOS",Unknown
+IN-423-ULMA,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-ULMC,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-ULNJ,C15,Esophagus,8720/3,"Malignant melanoma, NOS",
+IN-423-ULOB,C55,Uterus,8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-ULOC,C34,Lung,8046/3,Non-small cell carcinoma,Left
+IN-423-ULOF,C34,Lung,8800/3,"Sarcoma, NOS",Unknown
+IN-423-ULPE,C56,Ovary,8260/3,"Papillary adenocarcinoma, NOS",Right and Left
+IN-423-ULTC,C34,Lung,8140/3 ,"Adenocarcinoma, NOS",Unknown
+IN-423-ULTE,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-ULTG,C18,Large Intestine,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-ULTI,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-ULTJ,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-ULTK,C48,Retroperitoneum and Peritoneum,8850/3,"Liposarcoma, NOS",Right
+IN-423-ULUA,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-ULVE,C30,Nasal cavity and middle ear,9522/3,Olfactory neuroblastoma,
+IN-423-ULVF,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-ULWA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-ULWB,C48,Retroperitoneum and Peritoneum,8890/3,"Leiomyosarcoma, NOS",Right
+IN-423-ULXA,C80,Unknown primary,8894/3,Angiomyosarcoma,Unknown
+IN-423-ULXC,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-ULXD,C60,Penis,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VA1A,C54,Corpus Uteri,8013/3,Large cell neuroendocrine carcinoma,Not a paired Site
+IN-423-VA1D,C49,"Connective, subcutaneous and other soft tissues",8801/3,Spindle cell sarcoma,Right
+IN-423-VA1E,C22,Liver and intrahepatic bile ducts,8170/3,"Hepatocellular carcinoma, NOS",Not a paired Site
+IN-423-VA2G,C50,Breast,8500/3 ,Invasive carcinoma of no special type,Right
+IN-423-VA5A,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VA5C,C48,Retroperitoneum and Peritoneum,8805/3,Undifferentiated sarcoma,Not a paired Site
+IN-423-VA5D,C22,Liver and intrahepatic bile ducts,8170/3,"Hepatocellular carcinoma, NOS",Not a paired Site
+IN-423-VACA,C56,Ovary,8461/3,High-grade serous carcinoma,Unknown
+IN-423-VACE,C76,Other ill defined sites,8071/3,"Sq. cell carcinoma, keratinizing, NOS",Left
+IN-423-VACF,C64,Kidney,8312/3,Renal cell carcinoma,Right
+IN-423-VACF,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VACG,C00,Lip,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VAFA,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VAFB,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VAFC,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VAFF,C54,Corpus Uteri,8930/3,Endometrial stromal sarcoma,Not a paired Site
+IN-423-VAFG,C53,Cervix Uteri,8071/2,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VAJA,C73,Thyroid,8330/3,"Follicular adenocarcinoma, NOS",Not a paired Site
+IN-423-VAJA,C50,Breast,8500/3,Invasive carcinoma of no special type,Unknown
+IN-423-VAJE,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VAKF,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VAKH,C22,Liver and intrahepatic bile ducts,8140/3,"Adenocarcinoma, NOS",Right and Left
+IN-423-VALD,C34,Lung,8490/3,Signet ring cell carcinoma,Left
+IN-423-VAMB,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VAQC,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-VARC,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-VATA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-VAUB,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-VAUD,C74,Adrenal gland,8370/3,Adrenal cortical carcinoma,Left
+IN-423-VAUE,C49,"Connective, subcutaneous and other soft tissues",8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-VAUI,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VAXD,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VAXF,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-VAXG,C34,Lung,8240/3,"Carcinoid tumor, malignant",Left
+IN-423-VAXH,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VAXI,C71,Brain,9440/3,"Glioblastoma, NOS",Not a paired Site
+IN-423-VAYA,C53,Cervix Uteri,8071/2,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VAYB,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VB2B,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-VB2C,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-VB2C,C50,Breast,8521/3 ,Infiltrating ductular carcinoma,Left
+IN-423-VB2D,C56,Ovary,8050/3  ,"Papillary carcinoma, NOS",Left
+IN-423-VB2F,C50,Breast,8521/3 ,Infiltrating ductular carcinoma,Left
+IN-423-VB2G,C56,Ovary,8460/3,Low-grade serous carcinoma,Right and Left
+IN-423-VBAB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VBAC,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VBCD,C50,Breast,8521/3 ,Infiltrating ductular carcinoma,Right
+IN-423-VBGB,C22,Liver and intrahepatic bile ducts,,,Not a paired Site
+IN-423-VBGC,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VBGD,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VBGF,C40,"Bones, joints, and articular cartilage of the limb",9180/3,"Osteosarcoma, NOS",Left
+IN-423-VBHA,C56,Ovary,8461/3,High-grade serous carcinoma,Unknown
+IN-423-VBHB,C50,Breast,8521/3 ,Infiltrating ductular carcinoma,Right and Left
+IN-423-VBHD,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBIB,C20,Rectum,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-VBIC,C61,Prostate,8140/3 ,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBID,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBIE,C24,Other and unspecified biliary tract,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VBIF,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBJA,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a paired Site
+IN-423-VBJB,C56,Ovary,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VBJC,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBJD,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBJF,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBKB,C40,"Bones, joints, and articular cartilage of the limb",9260/3,Ewing sarcoma,Right
+IN-423-VBNC,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBNE,C76,Other ill defined sites,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VBOB,C54,Corpus Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBOC,C50,Breast,8010/3,"Carcinoma, NOS",Right
+IN-423-VBPC,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBQB,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBUA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-VBUE,C34,Lung,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VBUK,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-VBUL,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VBVE,C19,Rectosigmoid junction,8140/2,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VBVF,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VBVJ,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VBXD,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a Paired Site
+IN-423-VBYC,C03,Gum,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-VC2A,C56,Ovary,8310/3,"Clear cell adenocarcinoma, NOS",Unknown
+IN-423-VC2J,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Right and Left
+IN-423-VC3A,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VC4B,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a paired Site
+IN-423-VC5A,C49,"Connective, subcutaneous and other soft tissues",8832/3,"Dermatofibrosarcoma, NOS",Right
+IN-423-VC5F,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-VCCB,C44,Skin,8832/3,"Dermatofibrosarcoma, NOS",Left
+IN-423-VCCE,C49,"Connective, subcutaneous and other soft tissues",8004/3,"Malignant tumor, spindle cell type",Not a paired Site
+IN-423-VCCF,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-VCDB,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VCDC,C40,"Bones, joints, and articular cartilage of the limb",9260/3,Ewing sarcoma,Left
+IN-423-VCDD,C56,Ovary,8010/3,"Carcinoma, NOS",Right
+IN-423-VCGA,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VCGC,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-VCGG,C03,Gum,8430/3,Mucoepidermoid carcinoma,Not a paired Site
+IN-423-VCGL,C22,Liver and intrahepatic bile ducts,8170/3,"Hepatocellular carcinoma, NOS",Not a paired Site
+IN-423-VCHA,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VCHH,C67,Urinary Bladder,8120/3,"Transitional cell carcinoma, NOS",Not a paired Site
+IN-423-VCHI,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VCIC,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VCIF,C03,Gum,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VCKB,C18,Large Intestine,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-VCNB,C34,Lung,8249/3,Neuroendocrine tumor,Right
+IN-423-VCNC,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VCNI,C49,"Connective, subcutaneous and other soft tissues",8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-VCRD,C54,Corpus Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VCVC,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VCXB,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VCXC,C49,"Connective, subcutaneous and other soft tissues",9040/3,"Synovial sarcoma, NOS",Left
+IN-423-VCYD,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VD1E,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-VD2H,C31,Accessory sinuses,8825/3,Myofibroblastic sarcoma,Right
+IN-423-VD3A,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDAA,C22,Liver and intrahepatic bile ducts,8170/3,"Hepatocellular carcinoma, NOS",Not a paired Site
+IN-423-VDAB,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VDDC,C25,Pancreas,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VDDD,C17,Small Intestine,8246/3,Neuroendocrine carcinoma,Not a paired Site
+IN-423-VDDF,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDEA,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-VDGA,C56,Ovary,8470/3,"Mucinous cystadenocarcinoma, NOS",Right and Left
+IN-423-VDHA,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDHB,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VDKH,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-VDKI,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-VDLA,C56,Ovary,8000/3,"Neoplasm, malignant",Right
+IN-423-VDLF,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VDMA,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-VDNC,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDNF,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-VDNG,C56,Ovary,8310/3,"Clear cell adenocarcinoma, NOS",Right and Left
+IN-423-VDRF,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VDSC,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDTB,C61,Prostate,8574/3,Adenocarcinoma with neuroendocrine differen.,Not a paired Site
+IN-423-VDTC,C70,Cerebral Meninges,9530/3,"Meningioma, malignant",Unknown
+IN-423-VDUC,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDVA,C56,Ovary,8461/3,High-grade serous carcinoma,
+IN-423-VDVC,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VDVD,C02,Other parts of tongue,8010/3,"Carcinoma, NOS",Right
+IN-423-VDYB,C49,"Connective, subcutaneous and other soft tissues",8852/3,Myxoid liposarcoma,Right
+IN-423-VDYE,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-VDYF,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VE1B,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VE4A,C49,"Connective, subcutaneous and other soft tissues",8803/3,Small cell sarcoma,Not a paired Site
+IN-423-VE4J,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VE5A,C19,Rectosigmoid junction,8140/2,"Adenocarcinoma, NOS",Unknown
+IN-423-VE5H,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-VE5H,C73,Thyroid,8050/3,"Papillary carcinoma, NOS",Left
+IN-423-VEBD,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Right and Left
+IN-423-VEBF,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VEBG,C54,Corpus Uteri,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VEEB,C38,Heart,9050/3,"Mesothelioma, malignant",Right
+IN-423-VEEE,C61,Prostate,8550/3,Acinar cell carcinoma,Not a paired Site
+IN-423-VEFE,C61,Prostate,8900/3,"Rhabdomyosarcoma, NOS",Not a paired Site
+IN-423-VEFF,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-VEIK,C02,Other parts of tongue,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VEJB,C71,Brain,9440/3,"Glioblastoma, NOS",Right
+IN-423-VEJC,C56,Ovary,8450/3,"Papillary cystadenocarcinoma, NOS",Right and Left
+IN-423-VEJD,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VELD,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VEMA,C18,Large Intestine,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-VEMC,C50,Breast,8575/3,"Metaplastic carcinoma, NOS",Right
+IN-423-VEPA,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VEPC,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VEPD,C54,Corpus Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VEPG,C50,Breast,8010/3,"Carcinoma, NOS",Right
+IN-423-VEPJ,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-VEPK,C61,Prostate,8550/3,Acinar cell carcinoma,Not a paired Site
+IN-423-VEPL,C34,Lung,8046/3,Non-small cell carcinoma,Right
+IN-423-VEQA,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VERD,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VERE,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right and Left
+IN-423-VERG,C61,Prostate,8550/3,Acinar cell carcinoma,Not a paired Site
+IN-423-VESG,C64,Kidney,8312/3,Renal cell carcinoma,Left
+IN-423-VETH,C50,Breast,8520/3,"Lobular carcinoma, NOS",Left
+IN-423-VEWB,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VEWC,C56,Ovary,8980/3,"Carcinosarcoma, NOS",Unknown
+IN-423-VEXB,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VEXC,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VEXD,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VEXH,C55,Uterus,8890/3,"Leiomyosarcoma, NOS",Not a paired Site
+IN-423-VEYF,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VEZE,C15,Esophagus,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VEZF,C16,Stomach,8020/3,"Carcinoma, undifferentiated type, NOS",Not a paired Site
+IN-423-VEZI,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a paired Site
+IN-423-VF1H,C56,Ovary,8140/3  ,"Adenocarcinoma, NOS",Unknown
+IN-423-VF3B,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-VF3D,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VF3G,C62,Testis,9061/3,"Seminoma, NOS",Right
+IN-423-VF4F,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VFAC,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Midline
+IN-423-VFAD,C21,Anus and Anal canal,8013/3,Large cell neuroendocrine carcinoma,Not a paired Site
+IN-423-VFBA,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFFB,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VFFP,C48,Retroperitoneum and Peritoneum,9070/3,"Embryonal carcinoma, NOS",Unknown
+IN-423-VFFU,C50,Breast,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-VFHF,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFJA,C03,Gum,8010/3,"Carcinoma, NOS",Right
+IN-423-VFJE,C71,Brain,9440/3,"Glioblastoma, NOS",Right
+IN-423-VFMA,C73,Thyroid,8050/3,"Papillary carcinoma, NOS",Unknown
+IN-423-VFMB,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VFMC,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VFMI,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-VFMJ,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VFMK,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFND,C25,Pancreas,8800/3,"Sarcoma, NOS",Not a paired Site
+IN-423-VFNF,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFNJ,C22,Liver and intrahepatic bile ducts,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFNM,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VFOF,C34,Lung,8140/3,"Adenocarcinoma, NOS",Left
+IN-423-VFPE,C61,Prostate,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VFQE,C48,Retroperitoneum and Peritoneum,8858/3,Dedifferentiated liposarcoma,Not a paired Site
+IN-423-VFQJ,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFQL,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Unknown
+IN-423-VFQN,C50,Breast,8500/3,Invasive carcinoma of no special type,Left
+IN-423-VFTE,C54,Corpus Uteri,8950/3,Mullerian mixed tumor,Not a paired Site
+IN-423-VFTG,C01,Base of Tongue,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VFTH,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VFTI,C50,Breast,8521/3,Infiltrating ductular carcinoma,Right
+IN-423-VFTI,C73,Thyroid,8340/3,"Papillary carcinoma, follicular variant",Right
+IN-423-VFTK,C51,"Labia,Vulva",8720/3,"Malignant melanoma, NOS",Not a paired Site
+IN-423-VFUB,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFWC,C18,Large Intestine,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-VFXK,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VFXL,C53,Cervix Uteri,8085/3,"Squamous cell carcinoma, HPV-positive",Unknown
+IN-423-VFXM,C50,Breast,8010/3,"Carcinoma, NOS",Right
+IN-423-VG1A,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VG1B,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VG1D,C25,Pancreas,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VG1H,C49,"Connective, subcutaneous and other soft tissues",8890/3,"Leiomyosarcoma, NOS",Left
+IN-423-VG2A,C61,Prostate,8013/3,Large cell neuroendocrine carcinoma,Right and Left
+IN-423-VG2B,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VG2D,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VG2G,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VG2H,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VGAD,C20,Rectum,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-VGAJ,C20,Rectum,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VGDJ,C26,Intestinal tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGDS,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VGEA,C48,Retroperitoneum and Peritoneum,8858/3,Dedifferentiated liposarcoma,Left
+IN-423-VGEB,C67,Urinary Bladder,8120/3,"Transitional cell carcinoma, NOS",Not a paired Site
+IN-423-VGEC,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGEE,C48,Retroperitoneum and Peritoneum,9050/3,"Mesothelioma, malignant",Not a paired Site
+IN-423-VGKE,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-VGKE,C57,Fallopian tube and other regions,8461/3,High-grade serous carcinoma,Right
+IN-423-VGKH,C23,Gallbladder,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VGLC,C53,Cervix Uteri,8200/3,Adenoid cystic carcinoma,Not a paired Site
+IN-423-VGMC,C53,Cervix Uteri,8071/2,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VGMC,C56,Ovary,8070/3,"Squamous cell carcinoma, NOS",Unknown
+IN-423-VGMD,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGMI,C34,Lung,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-VGNE,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGOE,C49,"Connective, subcutaneous and other soft tissues",8854/3,Pleomorphic liposarcoma,Left
+IN-423-VGRA,C34,Lung,8071/3,"Sq. cell carcinoma, keratinizing, NOS",Left
+IN-423-VGRC,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGRM,C34,Lung,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VGRN,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VGTH,C50,Breast,8500/3,Invasive carcinoma of no special type,Unknown
+IN-423-VGUF,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGUN,C64,Kidney,8312/3,Renal cell carcinoma,Left
+IN-423-VGVD,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGVF,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGYG,C50,Breast,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VGYM,C69,Eye,8720/3,"Malignant melanoma, NOS",Unknown
+IN-423-VGZA,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VGZB,C71,Brain,9451/3,"Oligodendroglioma, anaplastic",Left
+IN-423-VGZE,C67,Urinary Bladder,8120/3,"Transitional cell carcinoma, NOS",Not a paired Site
+IN-423-VH4G,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VHA1,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VHAF,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VHAO,C26,Intestinal tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VHAQ,C25,Pancreas,8980/3,"Carcinosarcoma, NOS",Not a paired Site
+IN-423-VHAR,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VHAU,C26,Intestinal tract,8004/3,"Malignant tumor, spindle cell type",Not a paired Site
+IN-423-VHAV,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VHCC,C40,"Bones, joints, and articular cartilage of the limb",9185/3,Small cell osteosarcoma,Left
+IN-423-VHCM,C76,Other ill defined sites,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VHCN,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Right
+IN-423-VHDD,C75,Other endocrine glands,8255/3,Adenocarcinoma with mixed subtypes,Right
+IN-423-VHHB,C71,Brain,9391/3,"Ependymoma, NOS",Right
+IN-423-VHIK,C16,Stomach,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VHIL,C49,"Connective, subcutaneous and other soft tissues",9040/3,"Synovial sarcoma, NOS",Right
+IN-423-VHIP,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VHIQ,C19,Rectosigmoid junction,8140/2,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VHIR,C64,Kidney,8312/3,Renal cell carcinoma,Left
+IN-423-VHIV,C34,Lung,8046/3,Non-small cell carcinoma,Left
+IN-423-VHJA,C56,Ovary,8461/3,High-grade serous carcinoma,Right
+IN-423-VHLD,C61,Prostate,8550/3,Acinar cell carcinoma,Not a paired Site
+IN-423-VHLM,C34,Lung,8041/3,"Small cell carcinoma, NOS",Unknown
+IN-423-VHLN,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VHPA,C11,Nasopharynx,8070/3,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-VHPD,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VHPE,C50,Breast,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VHPP,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VHPR,C18,Large Intestine,8210/3,Adenocarcinoma in adenomatous polyp,Not a paired Site
+IN-423-VHRR,C50,Breast,8500/3,Invasive carcinoma of no special type,Unknown
+IN-423-VHYA,C41,"Bones, joints and articular cartilage of other/ unspecified sites",9260/3,Ewing sarcoma,Not a paired Site
+IN-423-VHYE,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Right and Left
+IN-423-VI2C,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VI2F,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VI3E,C53,Cervix Uteri,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VIAC,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",
+IN-423-VIBK,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VIHE,C23,Gallbladder,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VIJM,C22,Liver and intrahepatic bile ducts,,Sarcomatoid Carcinoma,Not a paired Site
+IN-423-VINE,C15,Esophagus,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VINO,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Unknown
+IN-423-VIWA,C23,Gallbladder,8010/3,"Carcinoma, NOS",Unknown
+IN-423-VIWB,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VJ5I,C54,Corpus Uteri,8461/3,High-grade serous carcinoma,Not a paired Site
+IN-423-VJGL,C03,Gum,8071/3,"Sq. cell carcinoma, keratinizing, NOS",Not a paired Site
+IN-423-VJGN,C71,Brain,9380/3,"Glioma, malignant",Left
+IN-423-VJGQ,C50,Breast,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VJKD,C54,Corpus Uteri,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-VJKH,C56,Ovary,8461/3,High-grade serous carcinoma,Unknown
+IN-423-VJLH,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-VJRI,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-VJTG,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Unknown
+IN-423-VJUG,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VK2M,C50,Breast,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-VK4K,C18,Large Intestine,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-VKBC,C54,Corpus Uteri,8980/3,"Carcinosarcoma, NOS",Not a paired Site
+IN-423-VKBG,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-VKBJ,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VKJA,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VKJH,C55,Uterus,8930/3,Endometrial stromal sarcoma,Not a paired Site
+IN-423-VKQC,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VLAE,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VLEJ,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-VLIG,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VLNI,C16,Stomach,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-VLOA,C49,"Connective, subcutaneous and other soft tissues",9581/3,Alveolar soft part sarcoma,Right
+IN-423-VLOF,C20,Rectum,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VLSA,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-VLUC,C31,Accessory sinuses,8032/3,Spindle cell carcinoma,Left
+IN-423-VLWL,C64,Kidney,8318/3,"Renal cell carcinoma, sarcomatoid",Left
+IN-423-W42F,C16,Stomach,8490/3,Signet ring cell carcinoma,Not a paired Site
+IN-423-W96AC,C25,Pancreas,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-W9HAA,C06,Other and unspecified parts of mouth,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-W9KAF,C64,Kidney,8319/3,Collecting duct carcinoma,Left
+IN-423-W9PAG,C16,Stomach,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WA4H,C34,Lung,8430/3,Mucoepidermoid carcinoma,Unknown
+IN-423-WB2H,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WBCB,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-WBGD,C38,Heart,8854/3,Pleomorphic liposarcoma,Not a paired Site
+IN-423-WBID,C64,Kidney,8312/3,Renal cell carcinoma,Right
+IN-423-WBPB,C15,Esophagus,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WCPI,C15,Esophagus,8074/3,"Sq. cell carcinoma, spindle cell",Not a paired Site
+IN-423-WCUF,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a paired Site
+IN-423-WCUG,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-WCUI,C77,Lymphnode,9650/3,"Hodgkin lymphoma, NOS",Unknown
+IN-423-WCWE,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WDCE,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WDFF,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WE3B,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WE4R,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WE59,C34,Lung,8010/3,"Carcinoma, NOS",Right
+IN-423-WEBN,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-WEJP,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WEJT,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WEVQ,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WEWK,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WF7R,C56,Ovary,8010/3,"Carcinoma, NOS",Unknown
+IN-423-WF9K,C73,Thyroid,8010/3,"Carcinoma, NOS",Left
+IN-423-WFW9,C41,"Bones, joints and articular cartilage of other/ unspecified sites",9260/3,Ewing sarcoma,Left
+IN-423-WFWA,C19,Rectosigmoid junction,8140/2,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WG6AK,C73,Thyroid,8070/3,"Squamous cell carcinoma, NOS",Left
+IN-423-WHGAG,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WHHAG,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WHRAJ,C56,Ovary,8980/3,"Carcinosarcoma, NOS",Right and Left
+IN-423-WJ1AH,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WJ7A6,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WJ9AL,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-WJFA9,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-WJGAE,C49,"Connective, subcutaneous and other soft tissues",8810/3,"Fibrosarcoma, NOS",Left
+IN-423-WJMAC,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Right and Left
+IN-423-WJMAC,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WJQAB,C56,Ovary,8010/3,"Carcinoma, NOS",Left
+IN-423-WK2A9,C71,Brain,9442/3,Gliosarcoma,Not a paired Site
+IN-423-WKCAB,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WKFAL,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WKKAJ,C37,Thymus,8586/3,"Thymic carcinoma, NOS",Not a paired Site
+IN-423-WKNAA,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-WKPAM,C23,Gallbladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WKPAN,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WKWAG,C80,Unknown primary,8920/3,Alveolar rhabdomyosarcoma,Unknown
+IN-423-WKWAN,C20,Rectum,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WKXAF,C61,Prostate,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WKXAL,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-WKYAS,C40,"Bones, joints, and articular cartilage of the limb",9240/3,Mesenchymal chondrosarcoma,Right
+IN-423-WL1AW,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-WL1AZ,C67,Urinary Bladder,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WL1BC,C50,Breast,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-WL2AF,C25,Pancreas,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WLAAJ,C41,"Bones, joints and articular cartilage of other/ unspecified sites",8800/3,"Sarcoma, NOS",Not a paired Site
+IN-423-WLEA9,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-WLEAQ,C52,Vagina,8310/3,"Clear cell adenocarcinoma, NOS",Not a paired Site
+IN-423-WLHAG,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WLKAZ,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WLMAJ,C53,Cervix Uteri,8071/2,"Squamous cell carcinoma, NOS",Not a paired Site
+IN-423-WLMAS,C63,Other unspecified male genital organs,8890/3,"Leiomyosarcoma, NOS",Unknown
+IN-423-WLPAP,C50,Breast,8010/3,"Carcinoma, NOS",Unknown
+IN-423-WLRAB,C15,Esophagus,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WLRAH,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WLSA9,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WLTAC,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-WLTAT,C49,"Connective, subcutaneous and other soft tissues",8801/3,Spindle cell sarcoma,Not a paired Site
+IN-423-WLTAV,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-WLTAW,C64,Kidney,8800/3,"Sarcoma, NOS",Left
+IN-423-XACAB,C22,Liver and intrahepatic bile ducts,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-XACAH,C23,Gallbladder,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-XAHBF,C71,Brain,9440/3,"Glioblastoma, NOS",Right
+IN-423-XAPAF,C22,Liver and intrahepatic bile ducts,8160/3,Cholangiocarcinoma,Not a paired Site
+IN-423-XAVAB,C25,Pancreas,8480/3,Mucinous adenocarcinoma,Not a paired Site
+IN-423-XAYAM,C18,Large Intestine,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-XB1A9,C50,Breast,8521/3,Infiltrating ductular carcinoma,Left
+IN-423-XB3A4,C16,Stomach,8010/3,"Carcinoma, NOS",Not a paired Site
+IN-423-XB9AS,C34,Lung,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-XBBA4,C54,Corpus Uteri,8380/3  ,Endometrioid carcinoma,Not a paired Site
+IN-423-XBGAA,C18,Large Intestine,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-XBMAR,C49,"Connective, subcutaneous and other soft tissues",8800/3,"Sarcoma, NOS",Right
+IN-423-XBNAH,C34,Lung,8140/3,"Adenocarcinoma, NOS",Right
+IN-423-XBOAF,C23,Gallbladder,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-XBOAG,C56,Ovary,8461/3,High-grade serous carcinoma,Right and Left
+IN-423-XBPA9,C68,Other and unspecified urinary organs,8720/3,"Malignant melanoma, NOS",Not a paired Site
+IN-423-XBPAH,C24,Other and unspecified biliary tract,8140/3,"Adenocarcinoma, NOS",Not a paired Site
+IN-423-XBQA4,C71,Brain,9440/3,"Glioblastoma, NOS",Not a paired Site
+IN-423-XBQAP,C76,Other ill defined sites,8071/3,"Sq. cell carcinoma, keratinizing, NOS",Not a paired Site
+IN-423-XBSAC,C80,Unknown primary,8140/3,"Adenocarcinoma, NOS",Unknown
+IN-423-XBTAP,C23,Gallbladder,8560/3,Adenosquamous carcinoma,Not a paired Site
+IN-423-XBXAA,C50,Breast,8500/3,Invasive carcinoma of no special type,Right
+IN-423-XBXAE,C22,Liver and intrahepatic bile ducts,8170/3,"Hepatocellular carcinoma, NOS",Not a paired Site
+IN-423-XBXAF,C22,Liver and intrahepatic bile ducts,8180/3,Comb. hepatocel. carcinoma & cholangiocarcinoma,Not a paired Site
+IN-423-XBXAG,C22,Liver and intrahepatic bile ducts,8180/3,Comb. hepatocel. carcinoma & cholangiocarcinoma,Not a paired Site
+IN-423-XBZAK,C55,Uterus,8020/3,"Carcinoma, undifferentiated type, NOS",Not a paired Site
+IN-423-XCBAR,C25,Pancreas,8010/3,"Carcinoma, NOS",Not a paired Site

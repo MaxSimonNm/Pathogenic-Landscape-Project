@@ -1,0 +1,1671 @@
+Sample_Name	Cancer
+A549-NCCS-SE8	N/A
+DLB-F-SSE-STD	N/A
+DSA-F-SSE-STD	N/A
+IN-423-TKKC-F-Merged	Lung
+IN-423-TKXA-F2-IE2-RE	Sarcoma
+IN-423-TKZC-F-IE-RE	Rectum
+IN-423-TL2B-F-IE	Lung
+IN-423-TL2C-F-IE	Kidney
+IN-423-TL2D-F-IE	Thyroid
+IN-423-TL5A-F-RE	Esophagus
+IN-423-TL5B-F-IE	Gallbladder
+IN-423-TLCA-F-IE	Lung
+IN-423-TLGA-Z-IE-RE	Breast
+IN-423-TLIA-F	Pancreas
+IN-423-TLJA-F-IE	Stomach
+IN-423-TLNA-F-IE-RE	N/A
+IN-423-TLRA-F-Merged-IE	Non Cancer Benign
+IN-423-TLRB-F-IE-RE	Breast
+IN-423-TLUA-F-IE	Pancreas
+IN-423-TLVA-F-IE	Liver and intrahepatic bile ducts
+IN-423-TLWA-F-IE	Lung
+IN-423-TLWB-F-IE	Ovary
+IN-423-TLXA-F-IE	N/A
+IN-423-TLXB-F-IE	Lung
+IN-423-UA2A-F-RE	Gallbladder
+IN-423-UA2B-F-RE	Gallbladder
+IN-423-UADA-F-IE	Breast
+IN-423-UADC-F-IE	Gallbladder
+IN-423-UAEA-F-RE	Esophagus
+IN-423-UAEB-F-IE	Oral
+IN-423-UAEC-F-RE	Lung
+IN-423-UAED-F-RE-Merged	Sarcoma
+IN-423-UAFA-F-RE-Merged	Lung
+IN-423-UAFB-F-RE	Esophagus
+IN-423-UAHA-F-RE	Oral
+IN-423-UAHB-F-RE	Large Intestine
+IN-423-UAHC-F-RE	Sarcoma
+IN-423-UAKA-F-RE	Stomach
+IN-423-UAKB-F-RE	Large Intestine
+IN-423-UAMA-F-RE	Breast
+IN-423-UAMB-F-RE	Others
+IN-423-UAOA-F-Merged	N/A
+IN-423-UASB-F-RE	Prostate
+IN-423-UASC-F-Merged	Ovary
+IN-423-UASD-F2-RE	Uterus
+IN-423-UASE-F-RE	Lung
+IN-423-UBAA-F-RE	Gallbladder
+IN-423-UBAB-F-RE	Stomach
+IN-423-UBAC-F-RE	Oral
+IN-423-UBAD-F-RE	Oral
+IN-423-UBBA-F-Merged	Oral
+IN-423-UBBB-F-RE	Breast
+IN-423-UBEA-F-RE	Urinary Bladder
+IN-423-UBHA-F-RE	Pancreas
+IN-423-UBHB-F-RE-SV	Oral
+IN-423-UBJA-F-RE	Uterus
+IN-423-UBJB-F-RE-SV	Prostate
+IN-423-UBOA-F-IE-Merged	Cervix
+IN-423-UBRA-F-IE	Lung
+IN-423-UBRB-F-IE	Prostate
+IN-423-UBRC-F-IE	Liver and intrahepatic bile ducts
+IN-423-UBVA-F-IE	Prostate
+IN-423-UBVB-F-IE	Esophagus
+IN-423-UBVC-F-IE	Breast
+IN-423-UBVD-F-IE	Uterus
+IN-423-UBWA-F-IE	Cervix
+IN-423-UBWC-F-IE	Large Intestine
+IN-423-UBXB-F-IE	Large Intestine
+IN-423-UBYA-F-IE	Ovary
+IN-423-UBYB-F-IE	Sarcoma
+IN-423-UBYC-F-IE	Cervix
+IN-423-UBYD-F-IE	Esophagus
+IN-423-UBZA-F-IE	Sarcoma
+IN-423-UBZB-F-IE	Esophagus
+IN-423-UBZC-F-IE	Liver and intrahepatic bile ducts
+IN-423-UC3C-F-SSE	Breast
+IN-423-UC3D-F-SSE	Pancreas
+IN-423-UC3E-F-SSE	Sarcoma
+IN-423-UCAC-F-IE	Ovary
+IN-423-UCAD-F-IE	Kidney
+IN-423-UCBA-F-IE	Liver and intrahepatic bile ducts
+IN-423-UCBB-F-IE	Stomach
+IN-423-UCDA-F-IE	Lung
+IN-423-UCDB-F-IE-Repeat	Urinary Bladder
+IN-423-UCDC-F2-SSE	Esophagus
+IN-423-UCDD-F-IE	Lung
+IN-423-UCDE-F-IE	Gallbladder
+IN-423-UCDF-F-IE	Others
+IN-423-UCEA-F-IE	Pancreas
+IN-423-UCHA-F-IE	Sarcoma
+IN-423-UCHB-F-IE	Urinary Bladder
+IN-423-UCIA-F-IE-Merged	Urinary Bladder
+IN-423-UCKA-F-IE	Unknown primary
+IN-423-UCLA-F-SSE	Ovary
+IN-423-UCLC-F-SSE	Pancreas
+IN-423-UCLD-F-SSE	Large Intestine
+IN-423-UCOA-F-SSE	Oral
+IN-423-UCOB-F-SSE	Gallbladder
+IN-423-UCOC-F-SSE	Lung
+IN-423-UCRB-F-SSE	Prostate
+IN-423-UCRC-F-SSE	Breast
+IN-423-UCSA-F-SSE	Others
+IN-423-UCSB-F-SSE	Pancreas
+IN-423-UCSC-F-SSE	Oral
+IN-423-UCSD-F-SSE	Lung
+IN-423-UCTA-F-SSE	Lung
+IN-423-UCTB-F-SSE	Breast
+IN-423-UCVA-F-SSE	Oral
+IN-423-UCXA-F-SSE	Others
+IN-423-UCXB-F-SSE	Breast
+IN-423-UD2A-Z-SSE	Uterus
+IN-423-UD2B-F-SSE	Sarcoma
+IN-423-UDAA-F-SSE	Sarcoma
+IN-423-UDCB-F-SSE	Gallbladder
+IN-423-UDCD-F-SSE	Sarcoma
+IN-423-UDEA-F-SSE	Ovary
+IN-423-UDGA-F-SSE	Others
+IN-423-UDGB-F-SSE	Ovary
+IN-423-UDHA-F-SSE	Pancreas
+IN-423-UDHB-F-SSE	Others
+IN-423-UDLA-F-SSE	Sarcoma
+IN-423-UDLC-F-SSE	Prostate
+IN-423-UDNB-F-SSE	Pancreas
+IN-423-UDOC-Z-SSE	Lung
+IN-423-UDPB-F-SSE	N/A
+IN-423-UDPC-Z-SSE	Brain
+IN-423-UDSB-F-SSE	Oral
+IN-423-UDSD-F-SSE	Pancreas
+IN-423-UDSE-F-SSE	Ovary
+IN-423-UDSF-F-SSE	Large Intestine
+IN-423-UDZB-F-SSE	Lung
+IN-423-UDZC-F-SSE	Stomach
+IN-423-UE1A-Z-SE8-S22	Breast
+IN-423-UE5A-F2-SSE-S23	Prostate
+IN-423-UECA-F-SSE	Unknown primary
+IN-423-UEFA-F-SSE	Breast
+IN-423-UEFB-F-SSE	Liver and intrahepatic bile ducts
+IN-423-UEFC-F-SSE	Lung
+IN-423-UEQD-F-SSE2	Lung
+IN-423-UEQH-F-SSE2	Lung
+IN-423-UETB-F-SSE	Lung
+IN-423-UEYA-F-SSE	Large Intestine
+IN-423-UF2A-F-Merged-SE8-RSQ	Gallbladder
+IN-423-UF2B-F-Merged-SE8-RSQ	Lung
+IN-423-UF2C-F-Merged-SE8	Sarcoma
+IN-423-UF2E-F-SE8-S20	Breast
+IN-423-UF3A-F-Merged-SE8-RSQ	Cervix
+IN-423-UF3B-F-Merged-SE8-RSQ	Uterus
+IN-423-UF3C-F-Merged-SE8-RSQ	Ovary
+IN-423-UFCA-Z2-SE8-S19	N/A
+IN-423-UFNA-F-SSE-S6	Lung
+IN-423-UFUB-F-SSE-S1	Lung
+IN-423-UFUC-F-SSE-S25	Pancreas
+IN-423-UFVA-F-SSE-S2	Others
+IN-423-UFXB-F-SE8-S3	Breast
+IN-423-UGBA-F-Merged-SE8	Cervix
+IN-423-UGGB-F-SE8-S7	Sarcoma
+IN-423-UGGC-F-Merged-SE8	Stomach
+IN-423-UGGD-F-SE8-S8	Breast
+IN-423-UGHA-F-SE8-S9	Oral
+IN-423-UGIA-F-SE8-S10	Oral
+IN-423-UGIF-F-SE8-S12	Gallbladder
+IN-423-UGIH-F-SE8-S13	Ovary
+IN-423-UGLA-F-Merged-SE8	Unknown primary
+IN-423-UGMA-F-Merged-SE8	Large Intestine
+IN-423-UGME-F-Merged-SE8	Ovary
+IN-423-UGNB-Z-Merged-SE80	Sarcoma
+IN-423-UGOB-F-Merged-SE8	Sarcoma
+IN-423-UGOF-Z-Merged-SE81	Oral
+IN-423-UGPB-F-Merged-SE8	Sarcoma
+IN-423-UGTA-F-Merged-SE8	Lung
+IN-423-UGVA-F-Merged-SE8	Liver and intrahepatic bile ducts
+IN-423-VEPD-F2-5-SE8-S27-L003	Uterus
+IN-423-VFMA-F3-SE8-S34-L003	N/A
+IN-423-VFMJ-F-SE8-S30-L003	Oral
+IN-423-VFTH-F-SE8-S28-L003	Oral
+IN-423-VFTK-F-SE8-S29-L003	N/A
+IN-423-VFWC-F-SE8-S31-L003	N/A
+IN-423-VFXL-F-SE8-S32-L003	Cervix
+IN-423-VFXM-F-SE8-S33-L003	Breast
+IN-423-XB1A9-F-SE8-S1	Breast
+IN-423-XBXAF-F-D-L2L1-SE8-S1	Liver and intrahepatic bile ducts
+IN-423-XBXAG-F-D-L2L1-SE8-S1	Liver and intrahepatic bile ducts
+IN-423-XBZAK-F1-D-SE8-S1	Uterus
+TLBA-F-SE8	Uterus
+UCZA-F-SE8	Sarcoma
+UD4C-F-SSE	Large Intestine
+UE1B-F-SSE	Breast
+UE1C-F-SSE	Ovary
+UE2A-F-SSE	Prostate
+UE5D-F-SSE	Ovary
+UEGA-F-SSE2	Large Intestine
+UEJA-F-SSE	Lung
+UEMC-F2-D1-SE8-CL-S1	Brain
+UEQA-F-SSE	Breast
+UEQC-F-SSE	Uterus
+UEQE-F-SSE2	Rectum
+UEQF-F-SSE	Sarcoma
+UEQG-F2-SSE	Gallbladder
+UEQK-F-SSE	Large Intestine
+UEXA-F-SSE	Ovary
+UEXB-F-SSE2	Large Intestine
+UEXC-F-SSE2	Breast
+UEZA-F-SSE	Urinary Bladder
+UEZB-F-SSE	Prostate
+UEZC-F-SSE	Unknown primary
+UFBA-F-SSE	Oral
+UFBC-F-SSE	Large Intestine
+UFCC-F-SSE	Lung
+UFCD-F-SSE	Liver and intrahepatic bile ducts
+UFEA-F-SSE	Prostate
+UFGA-F-SSE	Prostate
+UFHB-F-SSE	Head and Neck
+UFJA-F-SSE	Large Intestine
+UFJB-F-SSE-Merged	Oral
+UFJD-F-SSE-Merged	Stomach
+UFLB-F-SSE-Merged	Gallbladder
+UFLC-F-SSE-Merged	Gallbladder
+UFNC-F-SSE-Merged	Ovary
+UFOA-F-SSE-Merged	Gallbladder
+UFRA-F-SSE-Merged	Breast
+UFRC-F-SSE-Merged	Ovary
+UFRD-F-SSE-Merged	Oral
+UFRG-F-SSE-Merged	Uterus
+UFUA-F-SE8-RSQ-Merged	Esophagus
+UFUD-F2-SE8-S17	Lung
+UFUE-F2-SE8-S1	Breast
+UG1A-F-SE8	Others
+UG1B-F-SE8	Brain
+UG1C-F-SE8	Others
+UG1D-F-SE8-RSQ-Merged	Lung
+UG2A-F-SE8	Sarcoma
+UG2B-F-SE8	Uterus
+UG3B-F-SE8	Rectum
+UG3C-F2-SE8-RSQ-Merged	Ovary
+UG3D-F2-SE8-S31	Breast
+UG3E-F-SE8	Oral
+UG3F-F-SE8	Pancreas
+UG4A-F-SE8	Prostate
+UGAA-F-SE8	Stomach
+UGCA-F-SE8	Lung
+UGFB-F-SE8	Esophagus
+UGFC-F-SE8	Sarcoma
+UGGA-F-SE8	Sarcoma
+UGGE-F-SE8	Sarcoma
+UGIC-F-SE8	Large Intestine
+UGIG-F2-SE8	Rectum
+UGLB-F-SE8-RSQ-Merged	Uterus
+UGLC-F-SE8-S25	N/A
+UGLD-F-SE8-RSQ-Merged	Gallbladder
+UGLE-F-SE8	Large Intestine
+UGLF-F-SE8	Gallbladder
+UGMC-F-SE8	Oral
+UGMD-F-SE8	Breast
+UGOC-F2-SE8	Rectum
+UGOD-F-SE8	Breast
+UGOE-F2-SE8	Breast
+UGSA-F-SE8-2nd-S3	N/A
+UGSA-Z-SE8	N/A
+UGSC-F-SE8	Breast
+UGTB-F-SE8	Breast
+UGTD-F-SE8-RSQ-Merged	Gallbladder
+UGUA-Z-SE8	Sarcoma
+UGVD-F-SE8	Liver and intrahepatic bile ducts
+UGZA-F-SE8	Pancreas
+UGZB-Z-SE8	N/A
+UH4C-F-SE8-S14	Ovary
+UH4D-F-SE8-S15	Ovary
+UH4E-F-SE8-S16	Ovary
+UH4G-F-SE8-S31	Sarcoma
+UH4H-F-SE8-S27	Lung
+UH4I-F-SE8-S18	Pancreas
+UH4J-F-SE8-S19	Sarcoma
+UHBB-F-SE8	Esophagus
+UHCA-F-SE8	Pancreas
+UHCB-F-SE8	Lung
+UHEA-F-SE8	Liver and intrahepatic bile ducts
+UHEC-F-SE8	Sarcoma
+UHFA-F-SE8	Stomach
+UHFB-F-SE8	N/A
+UHFC-F-SE8	Lung
+UHIA-F-SE8	Sarcoma
+UHIF-F-SE8-S3	N/A
+UHKA-F-SE8	Rectum
+UHLB-F-SE8	Large Intestine
+UHLC-F-SE8	N/A
+UHLD-F-SE8	Others
+UHLE-F-SE8	Prostate
+UHLF-F-SE8	Breast
+UHLG-F-SE8	Rectum
+UHMA-F-SE8	Lung
+UHMB-F-SE8	Lung
+UHPA-F-SE8-S6	Prostate
+UHPC-F-SE8-S7	Oral
+UHPD-F-SE8-S8	Oral
+UHPE-F-SE8-S9	Others
+UHPF-F2-SE8-S30	Urinary Bladder
+UHQB-F-SE8-S10	Brain
+UHRA-F-SE8-S11	Lung
+UHRB-F-Val-S12-SE8	Rectum
+UHWA-F-SE8-S5	Sarcoma
+UHWB-F-SE8	Gallbladder
+UHWC-F-SE8	Esophagus
+UHWF-F-SE8-S10	Lung
+UHYA-F-SE8-S13	N/A
+UI1C-F-SE8-S13	Liver and intrahepatic bile ducts
+UI1D-F-SE8-S14	Liver and intrahepatic bile ducts
+UI1F-F-SE8-S17	N/A
+UI1H-F-SE8-S8	Lung
+UI3B-F-SE8-S1	Lung
+UI4A-F-SE8-S2	Thyroid
+UI4D-F-SE8-S3	N/A
+UIAB-F-SE8-S22	Breast
+UIBA-F-SE8-S23	Others
+UIBB-F-SE8-S24	Sarcoma
+UIBC-F-SE8-S25	Esophagus
+UIBD-F-SE8-S26	Pancreas
+UICA-F-SE8-S28	Uterus
+UICB-F-SE8-S29	Uterus
+UIFB-F-SE8-S6	Breast
+UIFC-F-SE8-S7	Liver and intrahepatic bile ducts
+UIGA-F-SE8-S9	Large Intestine
+UIGC-F-SE8-2nd-S4	Ovary
+UIGD-F2-SE8-S24	Pancreas
+UIHB-F-SE8-2nd-S17	Lung
+UIIA-F-SE8-S8	Prostate
+UIIC-F-SE8-2nd-S5	Sarcoma
+UIMA-F-SE8-2nd-S21	Gallbladder
+UIMB-F-SE8-2nd-S20	Lung
+UIME-F-SE8-2nd-S26	Ovary
+UIMF-F-SE8-S5	N/A
+UINA-F-SE8-2nd-S18	N/A
+UIOA-F-SE8-2nd-S19	Unknown primary
+UIOD-F-SE8-S20	Gallbladder
+UITA-F2-SE8-S23-Merged	Gallbladder
+UITC-F-SE8-S17	Ovary
+UITE-F2-SE8-S6	Stomach
+UITF-F-SE8-S16	Large Intestine
+UITH-F-SE8-S14	Ovary
+UITI-F-SE8-S25	Rectum
+UITJ-F-SE8-S18	Ovary
+UITK-F-SE8-S15	Rectum
+UIVD-F-SE8-S22	Breast
+UIVE-F-SE8-S21-Merged	Gallbladder
+UIWA-F-SE8-S7	N/A
+UIWC-F-SE8-S19	Sarcoma
+UIXA-F-SE8-S8	Unknown primary
+UIXB-F-SE8-S9	N/A
+UIXC-F-SE8-S26	Breast
+UJ1A-F-SE8-S11	Lung
+UJ1B-F-R1R2-Mrg-SE8-S20	Stomach
+UJ1C-F1F2-Mrg-SE8-S25	Ovary
+UJ1E-F-SE8-S12	Lung
+UJ1F-F-SE8-S13	Breast
+UJ1G-F-SE8-S14	Prostate
+UJ2A-F-SE8-S16	Others
+UJ3C-F-SE8-S17	Lung
+UJ3D-F-SE8-S19	Oral
+UJ3E-F-SE8-S18	Ovary
+UJ4A-F-SE8-S29	Pancreas
+UJ4B-F-SE8-S15	Large Intestine
+UJ4D-F2-SE8	N/A
+UJAB-F-SE8-S4	Large Intestine
+UJDA-F-SE8-S3	Kidney
+UJDB-F-SE8-S4	Head and Neck
+UJDC-F-SE8-S9	N/A
+UJDD-F-SE8-S11	N/A
+UJFB-F-SE8-S12	N/A
+UJFC-F-SE8-S2	Ovary
+UJGA-F-SE8-R0R1-S28	Pancreas
+UJGB-F-SE8-S5	Ovary
+UJHA-F-SE8-S7	Sarcoma
+UJHC-F-SE8-S9	Pancreas
+UJKA-F2-R0R1-Mrg-SE8-S23	Gallbladder
+UJLA-F2-SE8-S15	Sarcoma
+UJNA-F-SE8-S1	Breast
+UJNC-F-SE8-S3	Ovary
+UJRB-F3-SE8-Raw-S17	Head and Neck
+UJRE-F3-SE8-S23	N/A
+UJTA-F-SE8-S8	Sarcoma
+UJUA-F-SE8-S5	Sarcoma
+UJUB-F-SE8-S6	Ovary
+UJUD-F2-SE8-S21	Unknown primary
+UJUE-F-SE8-S7	N/A
+UJVB-F-R1-SE8-S16	Esophagus
+UJVF-F2-SE8-S10	Stomach
+UJVG-F-SE8-S26	Unknown primary
+UJVH-F-SE8-S1	Oral
+UJVI-F-SE8-S27	Rectum
+UJZB-Z-SE8-S19	Oral
+UJZD-F-SE8-Merged-S3	Gallbladder
+UJZE-F2-SE8-S24	Gallbladder
+UJZF-F-raw-SE8-R0R2-S3	N/A
+UJZG-F-raw-SE8-R1-S4	N/A
+UJZH-F-SE8-S4	Ovary
+UJZI-F-SE8-S5	Sarcoma
+UJZJ-F2-R0R1-SE8-S20	Gallbladder
+UJZK-F-SE8-S6	N/A
+UJZM-F-SE8-S7	Ovary
+UJZN-F-SE8-S9	Lung
+UK3B-F-SE8-S9	Ovary
+UK3E-Z-SE8-S11	Lung
+UK4A-F-SE8-S22	Gallbladder
+UKAA-F-SE8-S28	Lung
+UKAC-F-SE8-S11	Lung
+UKAF-F-SE8-S16	Pancreas
+UKBC-F-SE8-S18	N/A
+UKCA-F-SE8-S19	N/A
+UKHA-F-SE8-S20	Stomach
+UKHB-F-SE8-S21	Ovary
+UKHE-F-SE8-S25	Pancreas
+UKHF-F-SE8-S26	Sarcoma
+UKHG-F-SE8-S22	Ovary
+UKIA-F2-SE8-S2	Ovary
+UKIC-F-SE8-S23	Breast
+UKIE-F2-RSQ-Merged-S5	Others
+UKIG-F-SE8-S22	N/A
+UKII-F-SE8-S24	N/A
+UKJA-F-R0R1-Mrg-SE8-S27	Rectum
+UKJB-F-SE8-S25	N/A
+UKJD-F2-raw-SE8-R0R1-S4	N/A
+UKJE-F-SE8-S26	Stomach
+UKJF-F-SE8-S27	Lung
+UKJG-F-SE8-Merged-S30	Breast
+UKKA-F-SE8-S28	Liver and intrahepatic bile ducts
+UKLB-F-SE8-S18	Breast
+UKLD-F-SE8-S19	Lung
+UKLE-F-SE8-S20	N/A
+UKLG-F2-R0R1-Mrg-SE8-S18	Oral
+UKOA-F-SE8-S4	N/A
+UKOB-F-SE8-S9	N/A
+UKOC-F-SE8-S5	Gallbladder
+UKOE-F-SE8-S6	Oral
+UKOF-F-SE8-S10	Uterus
+UKOI-F-SE8-S3	Pancreas
+UKPB-F-SE8-S1	Pancreas
+UKQA-F-raw-SE8-S1	Ovary
+UKSA-F-SE8-S7	N/A
+UKSB-F-SE8-S8	N/A
+UKVA-F1F2-raw-SE8-S18	N/A
+UKVB-F-SE8-S12	N/A
+UKVC-F-SE8-S13	N/A
+UKVD-F-SE8-S14	Breast
+UKVE-F-SE8-S15	N/A
+UKVF-F-raw-SE8-R0R1-S2	N/A
+UKWA-F-SE8-S13	N/A
+UKWB-F-SE8-S14	Large Intestine
+UKXC-F-SE8-S15	Rectum
+UKXD-F-raw-SE8-R0R1-S16	Lung
+UKXE-F-raw-SE8-S17	Pancreas
+UKYA-F-SE8-S13	Pancreas
+UKYB-F-SE8-R0R1-S12	Ovary
+UKZB-F-SE8-S34	Liver and intrahepatic bile ducts
+UKZC-F-SE8-S33	Ovary
+UKZE-Z-SE8-Merged	Rectum
+UL2A-F-R0R1-SE8-S20	N/A
+UL2B-F-SE8-S16	Gallbladder
+UL2D-F-SE8-S15	Sarcoma
+UL2F-F-R0R1-SE8-S16	N/A
+UL2H-F-SE8-S28	Lung
+UL2M-F-SE8-S29	Breast
+UL3A-F-SE8-S30	Lung
+UL3B-F-SE8-S18	Lung
+UL3C-F-SE8-S30	Gallbladder
+UL3E-F-SE8-S19	Ovary
+UL4A-F-SE8-S15	Cervix
+UL4B-F-SE8-S21	Rectum
+UL4C-F-SE8-S31	Large Intestine
+UL4D-F-SE8-S14	Lung
+UL5A-F-SE8-S27	Stomach
+UL5C-F-SE8-S28	Lung
+UL5E-F-SE8-S35	Gallbladder
+ULAB-F-SE8-S23	Lung
+ULAC-F-SE8-S24	Oral
+ULBD-F-SE8-S26	Lung
+ULBE-F-raw-SE8-S27	Breast
+ULCD-F-SE8-S8	N/A
+ULCE-F-SE8-S25	Kidney
+ULFA-F-R0R1-SE8-S13	N/A
+ULFB-F-SE8-S22	Breast
+ULFF-F2-SE8-S10	N/A
+ULFG-F-SE8-S23	N/A
+ULFH-F-SE8-S24	N/A
+ULFI-F-SE8-S25	Unknown primary
+ULFK-F-SE8-S26	N/A
+ULFL-F-SE8-S1	N/A
+ULGC-F-SE8-S27	N/A
+ULGD-F-SE8-S21	N/A
+ULGE-F3-SE8-S30	Lung
+ULGF-F-SE8-S28	N/A
+ULGG-F-SE8-S29	Lung
+ULGH-F-SE8-S30	Lung
+ULGI-F2-SE8-S7	Sarcoma
+ULHA-F-SE8-S32	N/A
+ULIC-F2-Roch-R0R1-SE8	N/A
+ULID-F-SE8-S31	N/A
+ULIE-F-SE8-S33	N/A
+ULII-F-R0R1-SE8-S14	N/A
+ULJA-F-SE8-S2	N/A
+ULJB-F-SE8-S3	N/A
+ULJD-F-SE8-S4	N/A
+ULMB-Z-SE8-S5	N/A
+ULMC-F-SE8-S6	Liver and intrahepatic bile ducts
+ULMD-F-SE8-S1	N/A
+ULMF-Z-SE8-S17	N/A
+ULNA-F-SE8-S2	N/A
+ULNB-F2-SE8-S28	N/A
+ULNC-F-SE8-S3	Brain
+ULND-F-SE8-S4	Lung
+ULNF-F-SE8-S8	N/A
+ULNG-F-R1-SE8-S9	N/A
+ULNH-F-R0R1-SE8-S10	N/A
+ULNI-F-SE8-S11	N/A
+ULNJ-F-SE8-S12	Esophagus
+ULOA-Z-raw-SE8-S2	N/A
+ULOB-F-SE8-S25	Sarcoma
+ULOC-F-SE8-S29	Lung
+ULOF-Z-raw-SE8-S3	N/A
+ULPA-F-raw-SE8-S1	N/A
+ULPE-F2-SE8-S30	Ovary
+ULTC-F-SE8-S26	Lung
+ULTD-F-SE8-S27	N/A
+ULTE-F-SE8-S21	Lung
+ULTF-Z-SE8-S24	N/A
+ULTG-F-SE8-S22	Large Intestine
+ULTI-F-SE8-S23	Oral
+ULTJ-F-SE8-RSQ-Merged-S7	N/A
+ULTK-F-SE8-S25	Sarcoma
+ULUA-F-SE8-S26	Unknown primary
+ULVE-F-SE8-S11	Head and Neck
+ULVF-F2-SE8-S22	Ovary
+ULWA-F-SE8-S12	Lung
+ULWB-F-SE8-S19	N/A
+ULXA-Z-SE8-S18	Sarcoma
+ULXC-F-SE8-S13	Lung
+ULXD-Z-SE8-S28	Others
+VA1A-F-SE8	Uterus
+VA1B-F-R1-Roch-SE8-S35	N/A
+VA1C-F-SE8	N/A
+VA1D-F-SE8	N/A
+VA1E-F-R0R1-SE8	Liver and intrahepatic bile ducts
+VA1G-F-SE8	N/A
+VA2G-Z-SE8	Breast
+VA5A-F-SE8-S29	N/A
+VA5C-F-SE8-S31	N/A
+VA5D-F-SE8-S32	Liver and intrahepatic bile ducts
+VA5G-F-Roch-SE8-S36	N/A
+VACA-F-SE8-S36	Ovary
+VACE-F2-SE8-S26	Unknown primary
+VACF-F-SE8	Kidney
+VACG-F-R0R1-SE8-S29	N/A
+VAEA-F-SE8-S15	Oral
+VAFA-F-SE8-S16	Ovary
+VAFB-F-SE8-S23	Esophagus
+VAFC-F-SE8-S17	N/A
+VAFF-F-SE8-S18	Sarcoma
+VAFG-F-R0R1-SE8-S24	Cervix
+VAJA-F-SE8-S33	Thyroid
+VAJB-F-SE8-S11	Unknown primary
+VAJE-F-SE8-S32	Esophagus
+VAKF-F-SE8-S12	Breast
+VAKH-F-SE8-S28	Liver and intrahepatic bile ducts
+VALA-F-SE8-S29	Large Intestine
+VALC-F1F2-SE8	N/A
+VALD-F-SE8-S26	Lung
+VAMB-F-SE8-S27	Esophagus
+VAMC-F-SE8-S31	N/A
+VAQA-F-SE8	N/A
+VAQC-F-SE8	Oral
+VARA-F-SE8	Lung
+VARC-F-SE8	Lung
+VATA-F-SE8	Lung
+VATE-F-R1-SE8	Lung
+VAUB-F-SE8	Breast
+VAUD-F-SE8	Others
+VAUE-F2-R01-SE8-S28	Sarcoma
+VAUG-F-SE8	Breast
+VAUH-F-SE8	Large Intestine
+VAUI-F-SE8	Ovary
+VAXD-F-R0R1-SE8	N/A
+VAXF-F2-R012-SE8-S24	Breast
+VAXG-F-SE8	Lung
+VAXH-F-R0R1-SE8-S27	Pancreas
+VAYA-F-SE8	Cervix
+VAYB-F-SE8	Ovary
+VB2B-F-SE8-S4	Breast
+VB2C-F-SE8-S12	Breast
+VB2D-F-SE8-S13	Ovary
+VB2E-F-SE8-S5	N/A
+VB2F-F-SE8-S14	Breast
+VB2G-F-R0R1-SE8-S10	Ovary
+VB2H-F-SE8-S15	N/A
+VBAA-F-SE8-S33	N/A
+VBAB-F-SE8-S34	Lung
+VBAC-F-SE8-S28	Large Intestine
+VBAD-F-R0R1-SE8	N/A
+VBCD-F-SE8	Breast
+VBCE-F-SE8	N/A
+VBCH-F-SE8-S25	N/A
+VBCI-F-SE8-S27	N/A
+VBDB-F1F2-SE8-S17-Merged	N/A
+VBDC-F-SE8-S26	N/A
+VBDD-F-SE8	N/A
+VBGA-F-SE8	N/A
+VBGB-F-SE8	Liver and intrahepatic bile ducts
+VBGC-F-SE8	Esophagus
+VBGF-F-SE8	Sarcoma
+VBHA-F-SE8	Ovary
+VBHB-F-SE8	Breast
+VBHD-F-SE8	N/A
+VBIB-F-SE8	Rectum
+VBIC-F-SE8	Prostate
+VBID-F-R0R1-SE8-S29	Esophagus
+VBIE-F-R0R1-SE8-S15	Gallbladder
+VBIF-F-SE8	Stomach
+VBJA-F2-R0R1-SE8-S23-Merged	Uterus
+VBJB-F-SE8-S14-Merged	Ovary
+VBJC-F-SE8-S18-Merged	Rectum
+VBJD-F-R0R1-SE8-S19-Merged	Large Intestine
+VBJF-F-SE8-S15-Merged	Pancreas
+VBKA-F-SE8-S16-Merged	N/A
+VBKB-F-R1-SE8-S20-Merged	N/A
+VBNA-F-SE8-S21-Merged	N/A
+VBNB-F-SE8-S22-Merged	N/A
+VBNC-F-SE8-S32	Esophagus
+VBNE-F-SE8-S33	Unknown primary
+VBNH-F2-R0R1-SE8-S29-Merged	N/A
+VBNI-F1F2-SE8-S34	N/A
+VBOA-F-SE8-S25-Merged	N/A
+VBOB-F-R0R1-SE8-S16	Uterus
+VBOC-F-SE8-S17	N/A
+VBOD-F-SE8-S26-Merged	N/A
+VBPA-F-SE8-S27-Merged	N/A
+VBPC-F-SE8-S28-Merged	Gallbladder
+VBQB-F-SE8-S36	Pancreas
+VBUA-F-SE8-S18	Lung
+VBUE-F-SE8-S19	N/A
+VBUG-F-SE8-S20	N/A
+VBUK-F-SE8-S21	N/A
+VBUL-F-R0-SE8-S22	N/A
+VBVD-F-SE8-S23	N/A
+VBVE-F-SE8-S2-L002	Rectum
+VBVF-F-SE8-S3-L002	Oral
+VBVH-F-R1-SE8-S24	N/A
+VBVI-F-R0R1-SE8-S25	N/A
+VBVJ-F-SE8-S26	Liver and intrahepatic bile ducts
+VBXD-F-R012-SE8-S23	Uterus
+VBYC-F-SE8-S11	Oral
+VC2A-F-SE8-S35	Ovary
+VC2J-F-SE8-S23	Ovary
+VC3A-F-SE8-S21	Pancreas
+VC4B-F-R234-SE8-S20	Uterus
+VC5A-F-se8-S24	Sarcoma
+VC5F-F2-R012-SE8-S19	Oral
+VC5G-F-se8-S26	N/A
+VC5I-F-SE8-S25	N/A
+VCBB-F-SE8-S6	N/A
+VCCB-F-SE8-S7	Sarcoma
+VCCE-F-SE8-S8	Sarcoma
+VCCF-F-SE8-S9	Ovary
+VCDB-F2-R01-SE8-S17	Rectum
+VCDC-F-SE8-S11	Sarcoma
+VCDD-F-R01-SE8-S29	Ovary
+VCGA-F-R234-SE8-S12	N/A
+VCGC-F-SE8-S37	N/A
+VCGE-F-SE8-S36	N/A
+VCGG-F-R01-SE8-S13	Oral
+VCGL-F-SE8-S16	Liver and intrahepatic bile ducts
+VCHA-F-SE8-S18	Lung
+VCHF-F-SE8-S20	N/A
+VCHH-F-SE8-S21	Urinary Bladder
+VCHI-F-Merged-SE8	Unknown primary
+VCIC-F-SE8-S12	Oral
+VCIF-F-SE8-S11	Oral
+VCKB-F-SE8-S13	Large Intestine
+VCNB-F-SE8-S23	N/A
+VCNC-F-SE8-S24	N/A
+VCND-F-SE8-S30	N/A
+VCNI-F-SE8-S25	N/A
+VCRC-F-SE8-S32	N/A
+VCRD-F-SE8-S22	Uterus
+VCVC-F-SE8-S31	Breast
+VCWB-F-SE8-S29	N/A
+VCXB-F-R012-SE8-S32	Liver and intrahepatic bile ducts
+VCXC-F-SE8-S33	N/A
+VCYD-F-SE8-S34	Oral
+VD1E-F2-SL-SE8-S52	N/A
+VD2H-F2-R1-SE8-S39	Sarcoma
+VD3A-F-RER-SE8-S36	Large Intestine
+VDAA-F-SE8-S44	Liver and intrahepatic bile ducts
+VDAB-F-R1-SE8-RSQ-S26	Lung
+VDDC-F-SE8-S20	Pancreas
+VDDD-F-SE8-S21	Others
+VDDE-F-SE8-S22	N/A
+VDDF-F-SE8-S23	Large Intestine
+VDDG-F-SE8-S27	N/A
+VDEA-F-SE8-S19	Breast
+VDFB-F2-R234-SE8-S17	N/A
+VDFC-F-SE8-S28	N/A
+VDGA-F-SE8-S29	Ovary
+VDHA-F-SE8-S30	Pancreas
+VDHB-F-SE8-S31	N/A
+VDKH-F-SE8-S13	Breast
+VDKI-F-SE8-S53	Ovary
+VDKJ-F-SE8-S14	N/A
+VDLA-F2-R1-SE8-S38	Ovary
+VDLF-F-SE8-S15	Breast
+VDMA-F2-SE8-S34	N/A
+VDNC-F-SE8-S16	Gallbladder
+VDNF-F-SE8-S17	N/A
+VDNG-F-SE8-S18	N/A
+VDRF-F-RER-SE8-S14	Oral
+VDSC-F-SE8-S18	N/A
+VDTB-F2-SE8-S12	Prostate
+VDTC-F-R1-SE8-S19	Brain
+VDUB-F-SE8-S7	N/A
+VDUC-F-SE8-S8	Gallbladder
+VDVA-F-R1-SE8-S9	Ovary
+VDVC-F-SE8-S10	Large Intestine
+VDVD-F-SE8-S11	Oral
+VDYB-F-SE8-S48	Sarcoma
+VDYE-Z-SE8-S13	Ovary
+VDYF-F-SE8-S50	N/A
+VE1B-F-SE8-S39	Rectum
+VE4A-F-SE8-S137-L004	N/A
+VE4J-F3-SE8-S33	Ovary
+VE5A-F-SE8-S145-L004	Rectum
+VEBD-F-SE8-S32	Ovary
+VEBE-F-SE8-S33	N/A
+VEBF-F2-SE8-S42	Rectum
+VEBG-F-SE8-S35	N/A
+VEEB-F-SE8-S31	N/A
+VEEE-F-R-SE8-S41	Prostate
+VEFE-F-R1-SE8-S37	Sarcoma
+VEFF-F-SE8-S29	Breast
+VEIK-F-SE8-S30	Oral
+VEJB-F-SE8-S51	Brain
+VEJC-F2-SE8-S45	Ovary
+VEJD-F-R-SE8-S49	N/A
+VELD-F-SE8-S43	Lung
+VEMA-F-SE8-S44	Large Intestine
+VEMC-F-SE8-S7	Breast
+VEPA-F-SE8-S46	Ovary
+VEPC-F-SE8-S8	Large Intestine
+VEPG-F-SE8-S41	Breast
+VEPJ-F-SE8-S47	Lung
+VEPK-F-SE8-S9	Prostate
+VEPL-F-SE8-S10	Lung
+VEQA-F-SE8-S46	Ovary
+VEQC-F-SE8-S38	N/A
+VERC-F-SE8-S47	N/A
+VERD-F-SE8-S39	Breast
+VERE-F-SE8-S40	N/A
+VERG-F-SE8-S48	N/A
+VESF-F-SE8-S42	N/A
+VESG-F-SE8-S50	N/A
+VETH-SE8-S45	Breast
+VEWB-F2-SE8-S51-L004	N/A
+VEWC-F-SE8-S41	N/A
+VEWH-F-SE8-S36	N/A
+VEXB-F-SE8-S42	Breast
+VEXC-F-SE8-S43	Lung
+VEXD-F-SE8-S51	Pancreas
+VEXH-F2-SE8-S160-L004	Sarcoma
+VEYF-F-SE8-S37	Ovary
+VEZE-F2-SE8-S28	Esophagus
+VEZF-F-SE8-S38	N/A
+VEZI-F2-SE8-S119-L003	Uterus
+VF1A-F-SE8-S42	N/A
+VF1H-F-SE8-S44	Ovary
+VF2B-F-SE8-S49	N/A
+VF3B-F-SE8-S37	N/A
+VF3D-F-SE8-S38	Liver and intrahepatic bile ducts
+VF3G-F-SE8-S39	N/A
+VF4A-F-SE8-S34	N/A
+VF4F-F2-SE8-S121-L003	Breast
+VFAC-F-SE8-S166-L004	N/A
+VFAD-F-SE8-S169-L004	Rectum
+VFBA-F-SE8-S172-L004	Pancreas
+VFFB-F-SE8-S174-L004	N/A
+VFFP-F-SE8-S31	N/A
+VFFU-F-SE8-S27	Breast
+VFHD-F-SE8-S30	N/A
+VFHF-F-SE8-S29	Pancreas
+VFJA-F-SE8-S32	N/A
+VFJE-F-SE8-S33	N/A
+VFMB-F-SE8-S49	Breast
+VFMC-F-SE8-S50	Large Intestine
+VFMI-F-SE8-S51	Breast
+VFMK-F-SE8-S18	Esophagus
+VFND-F-SE8-S27	Sarcoma
+VFNF-F-SE8-S31	Rectum
+VFNJ-F-SE8-S19	Liver and intrahepatic bile ducts
+VFNM-F-SE8-S28	N/A
+VFOF-F-SE8-S29	Lung
+VFPE-F-SE8-S30	N/A
+VFQE-F-SE8-S32	N/A
+VFQJ-F-R01-SE8-S40	Pancreas
+VFQL-F-SE8-S33	Lung
+VFQN-F-SE8-S34	Breast
+VFTE-F-SE8-S26	Uterus
+VFTG-F-SE8-S27	N/A
+VFTI-F-SE8-S28	Breast
+VFTL-F-R01-SE8-S41	N/A
+VFUB-F-R01-SE8-S29	Pancreas
+VFUG-F-SE8-S18	N/A
+VFUP-F-SE8-S30	N/A
+VFXK-F-SE8-S31	Large Intestine
+VG1A-F-SE8-S15	Unknown primary
+VG1B-F-SE8-S16	Stomach
+VG1D-F-SE8-S17	N/A
+VG1H-F-SE8-S13-S1-L001	N/A
+VG2A-F-SE8-S39	Prostate
+VG2D-F-SE8-S18	Stomach
+VG2F-F-SE8-S19	N/A
+VG2G-F-SE8-S20	Large Intestine
+VG2H-F-SE8-S21	Lung
+VGAD-F2-SE8-S122-L003	Rectum
+VGAJ-F2-SE8-S40	N/A
+VGDJ-F-SE8-S134-L003	N/A
+VGDS-F-SE8-S138-L003	Lung
+VGEA-F-SE8-S139-L003	N/A
+VGEB-F-SE8-S140-L003	Urinary Bladder
+VGEC-F-SE8-S141-L003	Pancreas
+VGEE-Z-SE8-S133-L003	N/A
+VGFD-F2-SE8-S13	N/A
+VGFG-F-SE8-S118-L003	N/A
+VGGA-F-SE8-S120-L003	N/A
+VGKE-F-SE8-S373-L003	N/A
+VGKH-F-SE8-S374-L003	N/A
+VGLC-F-se8-S50-L003	Cervix
+VGMC-F-SE8-S381-L003	Cervix
+VGMD-F-SE8-S382-L003	Prostate
+VGMI-F-SE8-S385-L003	Lung
+VGNE-F-se8-S53-L003	Pancreas
+VGOE-F-R1-SE8-S35	N/A
+VGRA-F-SE8-S14	Lung
+VGRC-F-SE8-S36	Stomach
+VGRM-F-se8-S56-L003	Lung
+VGRN-F-se8-S55-L003	Large Intestine
+VGTH-F-SE8-S38	N/A
+VGUF-F-SE8-S15	Gallbladder
+VGUH-F-SE8-S16	N/A
+VGUN-F-SE8-S39	Kidney
+VGVC-F-SE8-S41	N/A
+VGVD-F-SE8-S42	Large Intestine
+VGVF-F-SE8-S43	N/A
+VGYB-F-SE8-S11	N/A
+VGYG-F-SE8-S12	N/A
+VGYM-F-SE8-S45	Head and Neck
+VGZA-F-SE8-S14	Large Intestine
+VGZB-F-SE8-S21-S1-L001	Brain
+VGZE-F2-R-SE8-CL-S71	Urinary Bladder
+VH3M-F-SE8-S7	N/A
+VH4G-F-SE8-S99	Unknown primary
+VHA1-F-SE8-S229-L004	Lung
+VHAF-F-SE8-S12-S1-L001	Liver and intrahepatic bile ducts
+VHAO-F2-SE8-S5-L004	Others
+VHAQ-F-SE8-S15-S1-L001	Sarcoma
+VHAR-F-SE8-S16-S1-L001	Lung
+VHAS-F-SE8-S19-S1-L001	N/A
+VHAU-F-SE8-S20-S1-L001	N/A
+VHAV-F-SE8-S230-L004	Large Intestine
+VHCC-F-SE8-S7-L004	N/A
+VHCD-F-SE8-S22-S1-L001	N/A
+VHCM-F-SE8-S17-S1-L001	N/A
+VHCN-F-SE8-S18-S1-L001	Oral
+VHDD-F-SE8-S3	Others
+VHHB-F-SE8-S9-L004	Brain
+VHIK-F-SE8-S18-L004	Stomach
+VHIL-F-SE8-S19-L004	N/A
+VHIP-F-SE8-S20-L004	Unknown primary
+VHIQ-F-SE8-S22-L004	Rectum
+VHIR-F-SE8-S24-L004	N/A
+VHIV-F-SE8-S26-L004	N/A
+VHJA-F-SE8-S27-L004	Ovary
+VHJG-F-SE8-S29-L004	N/A
+VHLD-F-SE8-S25	N/A
+VHLM-F-SE8-S26	N/A
+VHLN-F-SE8-S27	Liver and intrahepatic bile ducts
+VHPA-F-SE8-S28	Head and Neck
+VHPD-F-SE8-S29	Stomach
+VHPE-F-SE8-S30	Breast
+VHPP-F-SE8-S31	Large Intestine
+VHPR-F-SE8-S32	Large Intestine
+VHQV-F-SE8-S157-L004	N/A
+VHRR-F-SE8-S112	Breast
+VHYA-F-SE8-S107	Sarcoma
+VHYE-F-SE8-S15	Liver and intrahepatic bile ducts
+VI1C-F-SE8-CL-S24	N/A
+VI2C-F2-SE8-CL-RES-S8	Gallbladder
+VI2F-F-SE8-S43	N/A
+VI2J-F2-SE8-CL-S9	N/A
+VI3E-F-R-SE8-CL-S73	N/A
+VIAC-F-SE8-S12	Gallbladder
+VIBK-F-SE8-S20	N/A
+VIHE-F-SE8-CL-S79-S1-L001	Gallbladder
+VIJM-F-SE8-CL-S13	N/A
+VINE-F-SE8-CL-S11	N/A
+VINO-F-SE8-CL-S18	Liver and intrahepatic bile ducts
+VIPE-F-SE8-CL-S53	N/A
+VISJ-F-SE8-CL-S6-L004	N/A
+VIWA-Z-SE8-CL-RES-S16	Gallbladder
+VIWB-Z2-SE8-CL-RES-S29-L002-S1-L001	Gallbladder
+VJ5I-F-D-SE8-CL-S39	Uterus
+VJCL-F-SE8-CL-S20-L002-S1-L001	N/A
+VJGL-F-SE8-CL-R2-S2	Oral
+VJGN-F-R1-SE8-S31-32-Merged	Brain
+VJGQ-F-SE8-CL-S28-L002-S1-L001	Breast
+VJKD-F-SE8-S1	Uterus
+VJKH-F-R-SE8-CL-S72	N/A
+VJLH-F2-R2-SE8-S3	Breast
+VJMF-F-SE8-S37	N/A
+VJRI-F-SE8-S26	N/A
+VJTG-F-SE8-CL-S20	Uterus
+VJUG-F-SE8-CL-S19	Pancreas
+VK2M-F-D-SE8-S46	Breast
+VK3A-F-D-SE8-S5	N/A
+VK4K-F-D-SE8-S12	Large Intestine
+VKBC-F-D-SE8-CL-S2	Sarcoma
+VKBG-F-D-L1-SE8-CL-S62	Oral
+VKBJ-F-D-SE8-CL-S8	Gallbladder
+VKJA-F-D-SE8-S21	Large Intestine
+VKJH-F-D-SE8-S22	Sarcoma
+VKQC-F-D-SE8-S41	Pancreas
+VLAE-F-D-L2-SE8-S30	Gallbladder
+VLAP-Z-Res-SE8-CL-S43	N/A
+VLEJ-F-D-SE8-S25	Liver and intrahepatic bile ducts
+VLIG-F-D-SE8-S51	Large Intestine
+VLNI-F-D-SE8-S23	Stomach
+VLOA-F-D-SE8-S52	Sarcoma
+VLOF-F-D-SE8-S53	Rectum
+VLSA-F-Res-D-L2-SE8-S5	Gallbladder
+VLUC-F-D-SE8-S11	Head and Neck
+VLUD-F-D-SE8-S13	N/A
+VLWL-F-D-SE8-S17	Sarcoma
+VLZG-F-D-SE8-S22	N/A
+W42F-F1F2-D-L1-SE8-CL	N/A
+W4LE-F1F2-D-L2-SE8-CL-S2	N/A
+W96AC-F-D-SE8-CL-S1	Pancreas
+W9HAA-Z-D-SE8-CL-S1	Oral
+W9KAF-F1F2-D-L2-SE8-CL-S1	Kidney
+W9NA9-F1-D-SE8-CL-S1	N/A
+W9PAG-F-L1-D-SE8-CL-S1	Stomach
+W9VA9-F1-D1-SE8-CL-S1	N/A
+W9VAJ-Z-D-L1-SE8-CL	N/A
+W9YAE-F1F2-D-SE8-CL-S1	N/A
+WA4H-F-D-SE8-CL-S19	N/A
+WARE-F-D-SE8-CL-S42	N/A
+WATD-F-D-SE8-S51-L004	N/A
+WAXO-F-D-SE8-CL-S47	N/A
+WB2H-F-Res-D-SE8-S3	Gallbladder
+WBCB-F-D-SE8-CL-S62	Breast
+WBGD-F-D-SE8-CL-S40-L004	Sarcoma
+WBID-F-D-SE8-CL-S49-L004	N/A
+WBPB-F-D-SE8-CL-S72	Esophagus
+WBTA-F-D-SE8-CL-S78	N/A
+WC5G-F1-D-SE8-CL-S58	N/A
+WCBA-F-D-SE8-CL-S59	N/A
+WCPI-F-D-SE8-CL-S6	Esophagus
+WCUF-F-Res-D-SE8-CL-S218-L004	Uterus
+WCUG-F-Res-D-SE8-CL-S3	Liver and intrahepatic bile ducts
+WCUI-Z-D-SE8-CL-S58	N/A
+WCWE-F-D-SE8-CL-S22	Large Intestine
+WDCE-F-D-SE8-CL-S70	Pancreas
+WDFF-F1F2-Res-D-L2-SE8-CL	Gallbladder
+WE3B-F1-F2-D-SE8-CL-merged-S4-S5	Pancreas
+WE4R-F1F2-Res-D-L2-SE8-CL	Gallbladder
+WE59-F1F2-D-SE8-CL-S1	Lung
+WEBN-F-D-SE8-CL-S114	Breast
+WEJP-F-Res-D-SE8-CL	N/A
+WEJT-F1-Res-D-SE8-CL-S29	N/A
+WEOA-F1F2-D-SE8-CL-S216-L004	N/A
+WEVQ-F-Res-D-SE8-CL-S37	Gallbladder
+WEWK-F-Res-D-SE8-CL-S72	Gallbladder
+WEXH-F1-D-SE8-CL-S74	N/A
+WF7R-F3-L1-SE8-CL-S14	Ovary
+WF9K-F1-D-SE8-CL-S282-L004	Thyroid
+WFW9-F1F2-D-SE8-CL	Sarcoma
+WFWA-F1F2-D-SE8-CL	Rectum
+WG6AK-Z-D-L1-SE8-CL	N/A
+WHGAG-F-D-SE8-CL-S1	Prostate
+WHHAG-F1F2-D-SE8-CL-S91	Large Intestine
+WHRAJ-F1-D-SE8-CL-S1	Sarcoma
+WHWA4-F1F2-D-SE8-CL-S1	N/A
+WHXA6-F-D-SE8-CL-S1	N/A
+WJ1AH-F-SE8-S1	Pancreas
+WJ7A6-F-D-SE8-S1	Gallbladder
+WJ9AL-F3-D2-SE8-S1	Ovary
+WJFA9-Z-D-SE8-CL-S1	Breast
+WJGAE-F1-D-SE8-CL-S1	Sarcoma
+WJMAC-F1-D-SE8-CL-S1	Prostate
+WJQAB-F1-D1-L1-SE8-S1	Ovary
+WJSAE-F-D-L2-SE8-S1	N/A
+WJYAF-F-D-L3-SE8-S1	N/A
+WK2A9-F-D2-SE8-S1	Sarcoma
+WKCAB-F1-D2-SE8-S1	Pancreas
+WKFAL-F1F2-D-SE8-S1	Large Intestine
+WKKAJ-F-L2-D-SE8-S1	Others
+WKNAA-F1-D-SE8-S1	Breast
+WKPAM-Z-Res-D-SE8-S1	Gallbladder
+WKPAN-F1-F2-D-SE8-S1	Large Intestine
+WKWAG-F1F2-D-L2-SE8-S1	Sarcoma
+WKWAN-F1-D-SE8-S1	Rectum
+WKXAF-F1F2-D-SE8-S1	Prostate
+WKXAL-F1-D-SE8-S1	Breast
+WKYAS-F-D-SE8-S37-S1	N/A
+WL1AW-F-D-L1-SE8-S1	Lung
+WL1AZ-F1-D-SE8-S1	Urinary Bladder
+WL1BC-F-D-SE8-S1	Breast
+WL2AF-F-D-SE8-S1	Pancreas
+WL4AJ-F-D-SE8-S63-S1	N/A
+WLAAJ-F1F2-D1-SE8-S1	Sarcoma
+WLEA9-F1-D-SE8-S81-S1	Breast
+WLEAQ-F4-D2-SE8-S155-L004	Cervix
+WLHAG-F1F2-D-SE8-S164-L004	Large Intestine
+WLKAZ-F1F2-D-SE8-S181-L004	Gallbladder
+WLMAJ-F1F2-D-SE8-S190-L004	Cervix
+WLMAS-F-D-SE8-S195-L004	Sarcoma
+WLPAP-F-D-SE8-S127-L003	N/A
+WLRAB-F-D-SE8-S212-L004	Esophagus
+WLRAH-F-Res-D-SE8-S220-L004	Gallbladder
+WLSA9-Z-Res-D-SE8-S226-L004	Gallbladder
+WLTAC-F1-D-SE8-S1	Gallbladder
+WLTAT-F1F2-D1-SE8-S1	Sarcoma
+WLTAV-F-D-L2-SE8-S1	Large Intestine
+WLTAW-F1F2-D1-SE8-S1	Sarcoma
+XACAB-F3-D-SE8-S58-L004	Liver and intrahepatic bile ducts
+XACAH-F-D-SE8-S120-L004	Gallbladder
+XAHBF-F1F2-D-L2-L1-SE8-S180-L004	Brain
+XAPAF-F1-D-L1-SE8-S53-L003	Liver and intrahepatic bile ducts
+XAVAB-F2-D-SE8-S1	Pancreas
+XAYAM-F1-D-SE8-S1	Large Intestine
+XB3A4-F1-D-SE8-S1	N/A
+XB9AS-F-D-SE8-S57-L004	Lung
+XBBA4-F1-D-L2-SE8-S144-L004	Uterus
+XBGAA-F1-D-SE8-S1	Large Intestine
+XBMAR-F1-D-SE8-S83-L004	Sarcoma
+XBNAH-F1F2-D-SE8-S1	Lung
+XBOAF-F-D-SE8-S1	Gallbladder
+XBOAG-F-D-SE8-S1	Ovary
+XBPA9-F1-D-SE8-S1	Urinary Bladder
+XBPAH-F-D-SE8-S1	Gallbladder
+XBQA4-F1-D-SE8-S1	N/A
+XBQAP-F-D-SE8-S1	Unknown primary
+XBSAC-F1F2-D-SE8-S1	Unknown primary
+XBTAP-F1-D-SE8-S1	Gallbladder
+XBXAA-F1-D-SE8-S1	Breast
+XBXAE-F-D-SE8-S1	N/A
+XCBAR-F-D-SE8-S1	Pancreas
+005T_IE	Large Intestine
+006T_IE	Large Intestine
+009T_IE	Large Intestine
+010T_IE	Large Intestine
+011T_IE	Large Intestine
+016T_IE	Large Intestine
+017T_IE	Large Intestine
+17-11449-IE-CA	Stomach
+17-12370-IE-CA	Stomach
+17-12372-IE-CA	Stomach
+17-14492-IE-CA	Stomach
+17-21421-IE-CA	Stomach
+17-22957-IE-CA	Stomach
+17-24886-IE-CA	Stomach
+17-26012-IE-CA	Stomach
+17-27818-IE-CA	Stomach
+17-29525-IE-CA	Stomach
+17-32301-IE-CA	Stomach
+17-33858-A4-IE-CA	Stomach
+17-35360-IE-CA	Stomach
+17-35499-IE-CA	Stomach
+17-39357-IE-CA	Stomach
+17-43809A-IE-CA	Stomach
+17-44833-IE-CA	Stomach
+17-46327-IE-CA	Stomach
+17-48315-IE-CA	Stomach
+17-48375-A1-IE-CA	Stomach
+17-48377-A1-IE-CA	Stomach
+17-48513-IE-CA	Stomach
+17-51515-A1-IE-CA	Stomach
+17-51515-A2-IE-CA	Stomach
+17-52628-A4-IE-CA	Stomach
+17-53740-A1-IE-CA	Stomach
+17-53740-A2-IE-CA	Stomach
+17-377752-A3-IE-CA	Stomach
+17-377752-A4-IE-CA	Stomach
+18-1797-IE-CA	Stomach
+18-2299-A1-IE-CA	Stomach
+18-2964-A3-IE-CA	Stomach
+18-2964-A4-IE-CA	Stomach
+18-3415-A1-IE-CA	Stomach
+18-3415-A4-IE-CA	Stomach
+18-4890-A2-IE-CA	Stomach
+18-6481-IE-CA	Stomach
+18-6944-A2-IE-CA	Stomach
+18-7078-IE-CA	Stomach
+18-7366-IE-CA	Stomach
+18-9412-A2-IE-CA	Stomach
+18-10002-A1-IE-CA	Stomach
+18-10002-A4-IE-CA	Stomach
+18-11129-A1-IE-CA	Stomach
+18-12043-IE-CA	Stomach
+18-12268-A2-IE-CA	Stomach
+18-17414-IE-CA	Stomach
+18-20517-IE-CA	Stomach
+18-20523-IE-CA	Stomach
+18-21680-A1-IE-CA	Stomach
+18-22717-IE-CA	Stomach
+18-23319-IE-CA	Stomach
+18-25526-IE-CA	Stomach
+18-25917-AN1-IE-CA	Stomach
+18-27802-IE-CA	Stomach
+18-30064-A1-IE-CA	Stomach
+18-30785-IE-CA	Stomach
+18-31004-IE-CA	Stomach
+18-31089-IE-CA	Stomach
+18-34791-IE-CA	Stomach
+19-7939-IE-CA	Stomach
+19-11333-IE-CA	Stomach
+19-11425-IE-CA	Stomach
+19-11764-IE-CA	Stomach
+19-14270-IE-CA	Stomach
+19-16402-IE-CA	Stomach
+19-17482-IE-CA	Stomach
+19-21526-IE-CA	Stomach
+19-23757-IE-CA	Stomach
+19-25116-IE-CA	Stomach
+19-26468-IE-CA	Stomach
+19-26507-IE-CA	Stomach
+19-27218-IE-CA	Stomach
+19-28186-A5-IE-CA	Stomach
+19-29747-IE-CA	Stomach
+19-30336-A2-IE-CA	Stomach
+19-32095-IE-CA	Stomach
+19-32879-IE-CA	Stomach
+19-34065-IE-CA	Stomach
+19-34284-IE-CA	Stomach
+19-35820-IE-CA	Stomach
+19-37231-IE-CA	Stomach
+19-37979-IE-CA	Stomach
+19-37980-IE-CA	Stomach
+19-38967-IE-CA	Stomach
+19-38989-IE-CA	Stomach
+19-39050-IE-CA	Stomach
+19-39114-IE-CA	Stomach
+19-40438A-IE-CA	Stomach
+19-41505-A2-IE-CA	Stomach
+19-41895-IE-CA	Stomach
+19-43690-A3-IE-CA	Stomach
+19-46101-IE-CA	Stomach
+19-46862-IE-CA	Stomach
+19-47396-A2-IE-CA	Stomach
+19-47713-IE-CA	Stomach
+19-48465-IE-CA	Stomach
+19-50266-IE-CA	Stomach
+19-52005-IE-CA	Stomach
+19-53596-IE-CA	Stomach
+19-54193-A3-IE-CA	Stomach
+19-55994-A1-IE-CA	Stomach
+19-56136-IE-CA	Stomach
+20-3814-IE-CA	Stomach
+20-4975-IE-CA	Stomach
+20-8218-IE-CA	Stomach
+20-8785-A3-IE-CA	Stomach
+20-8965-IE-CA	Stomach
+20-10612-A1-IE-CA	Stomach
+021T_IE	Large Intestine
+023T_IE	Large Intestine
+027T_IE	Large Intestine
+028T_IE	Large Intestine
+031T_IE	Large Intestine
+035T_IE	Large Intestine
+044T_IE	Large Intestine
+045T_IE	Large Intestine
+049T_IE	Large Intestine
+058T_IE	Large Intestine
+059T_IE	Large Intestine
+061T_IE	Large Intestine
+062T_IE	Large Intestine
+063T_IE	Large Intestine
+066T_IE	Large Intestine
+069T_IE	Large Intestine
+070T_IE	Large Intestine
+079T_IE	Large Intestine
+081T_IE	Large Intestine
+083T_IE	Large Intestine
+084T_IE	Large Intestine
+086T_IE	Large Intestine
+087T_IE	Large Intestine
+088T_IE	Large Intestine
+88-21-A-IE-CA	Liver and intrahepatic bile ducts
+101T_IE	Large Intestine
+104T_IE	Large Intestine
+105T_IE	Large Intestine
+243-21-C-IE-CA	Large Intestine
+351-20-A-IE-CA	Large Intestine
+358-21-B-IE-CA	Liver and intrahepatic bile ducts
+684-21-F-IE-CA	Large Intestine
+896-21-E-IE-CA	Kidney
+998-21-R10-IE-CA	Large Intestine
+1061-20-B-IE-CA	Stomach
+1108-21-A-IE-CA	Liver and intrahepatic bile ducts
+1178-21-G-IE-CA	Stomach
+1239-21-I-IE-CA	Large Intestine
+1487-21-H-IE-CA	Large Intestine
+1638-21-R1-IE-CA	Stomach
+1673-IE-CA	Others
+2109-20-C-IE-CA	Large Intestine
+2411-20-F-IE-CA	Large Intestine
+2509-IE-CA	Others
+2552-20-A-IE-CA	Pancreas
+3836-20-I-IE-CA	Kidney
+4346-20-R3-IE-CA	Large Intestine
+4457-20-G-IE-CA	Large Intestine
+4522-IE-CA	Others
+4551-20-H-IE-CA	Large Intestine
+4824-20-E-IE-CA	Large Intestine
+4994-20-A-IE-CA	Kidney
+5097-IE-CA	Others
+5123-IE-CA	Others
+5519-IE-CA	Others
+5563-20-F-IE-CA	Liver and intrahepatic bile ducts
+5591-20-I-IE-CA	Pancreas
+5671-20-E-IE-CA	Kidney
+7664-IE-CA	Others
+8613-IE-CA	Others
+9337-IE-CA	Others
+12001P011-CA	N/A
+12001P018-CA	N/A
+12001P019-CA	N/A
+12001P022-CA	N/A
+12001P023-CA	N/A
+12001P026-CA	Sarcoma
+12001P032_G	Ovary
+12001P036-A-CA	N/A
+12001P037-CA	N/A
+12001P044-A-CA	N/A
+12001P046-CA	N/A
+12001R001-cutadapt	Oral
+12001R002-cutadapt	Large Intestine
+12001R003-cutadapt	Stomach
+12001R004-cutadapt	Large Intestine
+12001R005-cutadapt	Oral
+12001R006-cutadapt	Large Intestine
+12001R007-cutadapt	Breast
+12001R008-cutadapt	Large Intestine
+12001R009-cutadapt	Oral
+12001R010-cutadapt	Large Intestine
+12001R013-cutadapt	Breast
+12001R015-CA	Oral
+12001R016-cutadapt	Large Intestine
+12001R017-cutadapt	Oral
+12001R019-cutadapt	Rectum
+12001R020-cutadapt	Breast
+12001R022-cutadapt	Breast
+12001R023-cutadapt	Rectum
+12001R025-cutadapt	Oral
+12001R026-cutadapt	Lung
+12001R027-cutadapt	Thyroid
+12001R028-cutadapt	Large Intestine
+12001R029-cutadapt	Thyroid
+12001R030-cutadapt	Breast
+12001R031-cutadapt	Breast
+12001R033-cutadapt	Ovary
+12001R034-cutadapt	Breast
+12001R035-cutadapt	Breast
+12001R036-cutadapt	Oral
+12001R037-cutadapt	Breast
+12001R038-cutadapt	Head and Neck
+12001R039-cutadapt	Large Intestine
+12001R040-cutadapt	Rectum
+12001R041-cutadapt	Breast
+12001R042-cutadapt	Breast
+12001R043-cutadapt	Large Intestine
+12001R044-cutadapt	Breast
+12001R046-cutadapt	Large Intestine
+12001R047-cutadapt	Rectum
+12001R048-cutadapt	Breast
+12001R050-cutadapt	Breast
+12003P002-1-CA	N/A
+12004P014_G	N/A
+12004P017_G	N/A
+12004P018_G	N/A
+12143-IE-CA	Others
+12313-IE-CA	Others
+12779-IE-CA	Others
+13227-IE-CA	Others
+13439-IE-CA	Others
+13553-IE-CA	Others
+14476-IE-CA	Others
+15524-IE-CA	Others
+15893-IE-CA	Others
+18342-IE-CA	Others
+20903-IE-CA	Others
+34003P002-CA	N/A
+34003P016-CA	N/A
+34004P001-CA	N/A
+34007P001-A-CA	Lung
+34007P002-CA	N/A
+34007P003-CA	N/A
+34007P006-CA	Ovary
+34007P007-CA	N/A
+34007P008-CA	N/A
+34007P009-CA	N/A
+34007P015-CA	N/A
+34007P016-CA	N/A
+34007P019-CA	N/A
+AD-1956B-cutadapt	Others
+AD-1957A-cutadapt	Others
+AD2638-cutadapt	Others
+AD2639-B-cutadapt	Others
+AD2642-2-cutadapt	Others
+AD2647B-cutadapt	Others
+AT-2-cutadapt	Thyroid
+AT-3-cutadapt	Thyroid
+AT-4-cutadapt	Thyroid
+AT-6-cutadapt	Thyroid
+AT-8-cutadapt	Thyroid
+AT-9-cutadapt	Thyroid
+AT-12-cutadapt	Thyroid
+AT-15-cutadapt	Thyroid
+AT-21-cutadapt	Thyroid
+AT-25-cutadapt	Thyroid
+AT-27-cutadapt	Thyroid
+AT-29-cutadapt	Thyroid
+AT-31-cutadapt	Thyroid
+AT-32-cutadapt	Thyroid
+AT-34-cutadapt	Thyroid
+AT-36-cutadapt	Thyroid
+AT-38-cutadapt	Thyroid
+AT-39-cutadapt	Thyroid
+AT-41-cutadapt	Thyroid
+AT-42-cutadapt	Thyroid
+AT-44-cutadapt	Thyroid
+AT-45-R-cutadapt	Thyroid
+AT-46-cutadapt	Thyroid
+AT-47-cutadapt	Thyroid
+AT48A-cutadapt	Thyroid
+AT-54-cutadapt	Thyroid
+AT-56-cutadapt	Thyroid
+AT-59-cutadapt	Thyroid
+AT-61-cutadapt	Thyroid
+AT-62-cutadapt	Thyroid
+AT-63-cutadapt	Thyroid
+AT-64-cutadapt	Thyroid
+AT-66-cutadapt	Thyroid
+ATF1_IE	Thyroid
+ATF2_IE	Thyroid
+FTF1_IE	Thyroid
+FTF2_IE	Thyroid
+FTF3_IE	Thyroid
+ML00009A-cutadapt	Lung
+ML00028-CA	N/A
+ML00030-CA	Lung
+ML00032-CA	Lung
+ML00033-CA	Lung
+ML00034-CA	Lung
+ML00035-CA	Lung
+ML00036-CA	Lung
+ML00094-CA	Lung
+ML00124-CA	Lung
+ML00129-CA	Lung
+ML00139-CA	Lung
+ML00162-CA	Lung
+ML00164-CA	Lung
+ML00175-CA	Lung
+ML00192-CA	Lung
+ML00204-CA	Lung
+ML00208-CA	Lung
+ML00214-CA	Lung
+ML00220-CA	Lung
+ML00243-CA	Lung
+ML00247-CA	Lung
+ML00436-CA	Lung
+ML00545-CA	Lung
+ML00911B-cutadapt	Lung
+ML00919B-cutadapt	Lung
+ML00925-cutadapt	Lung
+ML00926-cutadapt	Lung
+ML00927-cutadapt	Lung
+ML00929-cutadapt	Lung
+ML00931-cutadapt	Lung
+ML00932B-cutadapt	Lung
+ML00934-2-cutadapt	Lung
+ML00935-2-CA	Lung
+ML00949A-CA	Lung
+ML00950B-CA	Lung
+ML00962_IE	Head and Neck
+ML00965A-IE-CA	Thyroid
+ML00966A-IE-CA	Head and Neck
+ML00968_IE	Head and Neck
+ML00969_IE	Head and Neck
+ML00972_IE	Head and Neck
+ML00988_IE	Thyroid
+ML00989_IE	Thyroid
+ML00991_IE	Thyroid
+ML00993_IE	Thyroid
+ML00994R_IE	Head and Neck
+ML00995R_IE	Head and Neck
+ML00996_IE	Head and Neck
+ML00997_IE	Thyroid
+ML00998_IE	Thyroid
+ML00999_IE	Thyroid
+ML01001_IE	Thyroid
+ML01003_IE	Thyroid
+ML01005_IE	Thyroid
+ML01006_IE	Thyroid
+ML01007_IE	Thyroid
+ML01008_IE	Thyroid
+ML01009_IE	Thyroid
+ML01010_IE	Thyroid
+ML01011_IE	Thyroid
+ML01013_IE	Thyroid
+ML01014_IE	Thyroid
+ML01015_IE	Thyroid
+ML01016_IE	Thyroid
+ML01017_IE	Thyroid
+ML01018_IE	Thyroid
+ML01019_IE	Thyroid
+ML01020_IE	Thyroid
+ML01021_IE	Thyroid
+ML01047_IE	Head and Neck
+ML01049_IE	Thyroid
+ML01050_IE	Thyroid
+ML01051_IE	Thyroid
+ML01052_IE	Thyroid
+ML01054_IE	Thyroid
+ML01055_IE	Thyroid
+ML01058_IE	Head and Neck
+ML01059_IE	Head and Neck
+ML01061_IE	Head and Neck
+ML01064_IE	Head and Neck
+ML01065_IE	Head and Neck
+ML01066_IE	Head and Neck
+ML01067_IE	Head and Neck
+ML01069-IE-CA	Head and Neck
+ML01070_IE	Head and Neck
+ML01071_IE	Head and Neck
+ML01073_IE	Head and Neck
+ML01074_IE	Head and Neck
+ML01078-IE-CA	Head and Neck
+ML01080_IE	Head and Neck
+ML01081_IE	Head and Neck
+ML01082_IE	Head and Neck
+ML01085_IE	Head and Neck
+ML01086_IE	Head and Neck
+ML01092_IE	Head and Neck
+ML01185_IE	Head and Neck
+ML01187_IE	Head and Neck
+ML01188_IE	Head and Neck
+ML01189_IE	Head and Neck
+ML01192_IE	Head and Neck
+ML01193_IE	Head and Neck
+ML01197_IE	Head and Neck
+ML01199_IE	Head and Neck
+ML01201_IE	Head and Neck
+ML01202_IE	Head and Neck
+ML01203_IE	Head and Neck
+ML01205_IE	Head and Neck
+ML01207_IE	Head and Neck
+ML01209_IE	Head and Neck
+ML01211_IE	Head and Neck
+ML01213_IE	Head and Neck
+ML01214_IE	Head and Neck
+ML01215_IE	Head and Neck
+ML01216_IE	Head and Neck
+ML01217_IE	Head and Neck
+ML01218_IE	Head and Neck
+ML01219_IE	Head and Neck
+ML01220_IE	Head and Neck
+ML01240_IE	Head and Neck
+ML01242_IE	Head and Neck
+ML01243_IE	Head and Neck
+ML01249_IE	Head and Neck
+ML01252-IE-CA	Unknown primary
+ML01253_IE	Head and Neck
+ML01255_IE	Head and Neck
+ML01263_IE	Head and Neck
+ML01266_IE	Head and Neck
+ML01268_IE	Head and Neck
+ML01402-CA	Lung
+ML01415-CA	Lung
+ML01418-CA	Lung
+ML01430-CA	Lung
+ML01431-CA	Lung
+ML01463-CA	Lung
+ML01478-CA	Lung
+ML01565-CA	Lung
+ML01585-CA	Lung
+ML01614-CA	Lung
+ML01682-CA	Lung
+ML01702-CA	Lung
+ML01707-CA	Lung
+ML01730-CA	Lung
+ML01817-CA	Lung
+ML01864-CA	Lung
+ML01868-CA	Lung
+ML01871-CA	Lung
+ML01872-CA	Lung
+ML01878-CA	Lung
+ML01903-CA	Lung
+ML01916-CA	Lung
+ML01922-CA	Lung
+ML01933-CA	Lung
+ML01988-CA	Lung
+ML02013-CA	Lung
+ML02049-CA	Lung
+ML02050-CA	Lung
+ML02059-IE-CA	Thyroid
+ML02097-IE-CA	Breast
+Ml02119-IE-CA	Breast
+ML02127-IE-CA	Breast
+ML02128-IE-CA	Breast
+ML02130-IE-CA	Breast
+ML02134-IE-CA	Breast
+ML02140-IE-CA	Breast
+ML02144-IE-CA	Breast
+ML02150-IE-CA	Breast
+ML02151-IE-CA	Breast
+ML02154-IE-CA	Breast
+ML02158-IE-CA	Breast
+ML02159-IE-CA	Breast
+ML02168-IE-CA	Breast
+ML02182-IE-CA	Sarcoma
+ML02235-IE-CA	Sarcoma
+ML02238-IE-CA	Sarcoma
+ML02239-IE-CA	Sarcoma
+ML02343-IE-CA	Lung
+ML02347-IE-CA	Lung
+ML02349-IE-CA	Lung
+ML02352-IE-CA	Lung
+ML02354-IE-CA	Lung
+ML02355-IE-CA	Lung
+ML02357-IE-CA	Lung
+ML02359-IE-CA	Lung
+ML02360-IE-CA	Lung
+ML02363-IE-CA	Lung
+ML02367-IE-CA	Lung
+ML02377-IE-CA	Lung
+ML02384-SSE-CA	Prostate
+ML02385-SSE-CA	Prostate
+ML02397-SSE-CA	Prostate
+ML02404-SSE-CA	Prostate
+ML02419-SSE-CA	Prostate
+ML02423-SSE-CA	Prostate
+ML02425-SSE-CA	Prostate
+ML02426-SSE-CA	Prostate
+ML02427-SSE-CA	Prostate
+ML02428-SSE-CA	Prostate
+ML02724-SSE-CA	Oral
+ML02727-SSE-CA	Lung
+ML02751-SSE-CA	Gallbladder
+ML02762-SSE-CA	Unknown primary
+ML02777-SSE-CA	Stomach
+ML02792-SSE-CA	Stomach
+ML02796-SSE-CA	Stomach
+ML02801-SSE-CA	Stomach
+ML02879-SSE-CA	Gallbladder
+ML02909-SSE-CA	Lung
+ML02934-SSE-CA	Others
+ML02939-SSE-CA	Others
+ML02943-SSE-CA	Others
+ML02952-SSE-CA	Others
+ML02956-SSE-CA	Others
+ML02960-SSE-CA	Others
+MT-1a-CA	Lung
+MT-2-CA	Lung
+MT-6-CA	Lung
+MT-7-R-CA	Lung
+MT-8-CA	Lung
+MT-15-R-CA	Lung
+MT-17-CA	Lung
+MT-19-CA	Lung
+MT-21-R-CA	Lung
+MT74B-CA	Lung
+MT-76-R-CA	Lung
+MT-77-CA	Lung
+MT-79-CA	Lung
+MT-80-CA	Lung
+MT-82-CA	Lung
+MT-83-CA	Lung
+MT-84-CA	Lung
+MT-85-CA	Lung
+MT-86-CA	Lung
+MT-87-CA	Lung
+MT-88-CA	Lung
+MTF1_IE	Thyroid
+MTF2_IE	Thyroid
+MTF3_IE	Thyroid
+MTF4_IE	Thyroid
+MTF5_IE	Thyroid
+MTF6_IE	Thyroid
+MTF7_IE	Thyroid
+MTF8_IE	Thyroid
+MTF9_IE	Thyroid
+MTF10_IE	Thyroid
+MTF11_IE	Thyroid
+MTF12_IE	Thyroid
+MTF13_IE	Thyroid
+MTF14_IE	Thyroid
+MTF15_IE	Thyroid
+MTF16_IE	Thyroid
+MTF17_IE	Thyroid
+MTF19_IE	Thyroid
+MTF20_IE	Thyroid
+MTF-21-IE-CA	Unknown primary
+NG-78-SSE-CA	N/A
+NG320-SSE-CA	Unknown primary
+O102-IE-CA	Ovary
+O103-IE-CA	Ovary
+O104-IE-CA	Ovary
+O106-IE-CA	Ovary
+O110-IE-CA	Ovary
+O111-IE-CA	Ovary
+O112-IE-CA	Ovary
+O113-IE-CA	Ovary
+O114-IE-CA	Ovary
+O115-IE-CA	Ovary
+O118-IE-CA	Ovary
+O119-IE-CA	Ovary
+O120-IE-CA	Ovary
+O122-IE-CA	Ovary
+O123-IE-CA	Ovary
+O124-IE-CA	Ovary
+O125-IE-CA	Ovary
+O127-IE-CA	Ovary
+O129-IE-CA	Ovary
+O130-IE-CA	Ovary
+O131-IE-CA	Ovary
+O133-IE-CA	Ovary
+O134-IE-CA	Ovary
+O135-IE-CA	Ovary
+O137-IE-CA	Ovary
+O139-IE-CA	Ovary
+PT3	Thyroid
+PT4	Thyroid
+PT5	Thyroid
+PT6	Thyroid
+PT8	Thyroid
+PT9	Thyroid
+PT11	Thyroid
+PT13	Thyroid
+PT14	Thyroid
+PT16	Thyroid
+PT20_1	Thyroid
+PT21	Thyroid
+PT23	Thyroid
+PT28	Thyroid
+PT29	Thyroid
+PT30	Thyroid
+PT31	Thyroid
+PT33	Thyroid
+PT34	Thyroid
+PT35	Thyroid
+PT38	Thyroid
+PT39	Thyroid
+PT42	Thyroid
+PT43	Thyroid
+PT44	Thyroid
+PT-308-2-CA	Lung
+R052-IE-CA	Oral
+R053-IE-CA	Sarcoma
+R054-IE-CA	Rectum
+R055-IE-CA	Kidney
+R056-IE-CA	Kidney
+R057-IE-CA	Oral
+R058-IE-CA	Oral
+R059-IE-CA	Large Intestine
+R060-IE-CA	Uterus
+R061-IE-CA	Rectum

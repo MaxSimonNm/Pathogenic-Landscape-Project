@@ -1,0 +1,401 @@
+Main_AA,Sub_AA,Rlab_PTSCwScore
+Alanine,Alanine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Alanine,Arginine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Alanine,Asparagine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m1
+Alanine,Aspartic acid,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_N:0
+Alanine,Cysteine,APT_N:0|ICP_N:0|ECP_DF:m4|MEP_N:0
+Alanine,Glutamine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Alanine,Glutamic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Alanine,Glycine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Alanine,Histidine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Alanine,Isoleucine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Alanine,Leucine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Alanine,Lysine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Alanine,Methionine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Alanine,Phenylalanine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Alanine,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Alanine,Serine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:2
+Alanine,Threonine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Alanine,Tryptophan,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Alanine,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Alanine,Valine,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Arginine,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Arginine,Arginine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:10
+Arginine,Asparagine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Arginine,Aspartic acid,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_F:1
+Arginine,Cysteine,APT_DF:m3|ICP_DF:m1|ECP_DF:m5|MEP_DF:m1
+Arginine,Glutamine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:6
+Arginine,Glutamic acid,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Arginine,Glycine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_N:0
+Arginine,Histidine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:5
+Arginine,Isoleucine,APT_DF:m3|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Arginine,Leucine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Arginine,Lysine,APT_F:2|ICP_F:1|ECP_F:1|MEP_F:9
+Arginine,Methionine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Arginine,Phenylalanine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Arginine,Proline,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m3
+Arginine,Serine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Arginine,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Arginine,Tryptophan,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_F:5
+Arginine,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m1
+Arginine,Valine,APT_DF:m3|ICP_DF:m1|ECP_N:0|MEP_DF:m2
+Asparagine,Alanine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m1
+Asparagine,Arginine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Asparagine,Asparagine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:7
+Asparagine,Aspartic acid,APT_F:1|ICP_F:1|ECP_F:1|MEP_F:6
+Asparagine,Cysteine,APT_DF:m3|ICP_DF:m1|ECP_DF:m6|MEP_DF:m1
+Asparagine,Glutamine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:3
+Asparagine,Glutamic acid,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Asparagine,Glycine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m2
+Asparagine,Histidine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:3
+Asparagine,Isoleucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Asparagine,Leucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Asparagine,Lysine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:5
+Asparagine,Methionine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Asparagine,Phenylalanine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Asparagine,Proline,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m2
+Asparagine,Serine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:2
+Asparagine,Threonine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Asparagine,Tryptophan,APT_DF:m4|ICP_DF:m2|ECP_DF:m3|MEP_DF:m3
+Asparagine,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m1
+Asparagine,Valine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Aspartic acid,Alanine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_N:0
+Aspartic acid,Arginine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_F:1
+Aspartic acid,Asparagine,APT_F:1|ICP_F:1|ECP_F:1|MEP_F:6
+Aspartic acid,Aspartic acid,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4|
+Aspartic acid,Cysteine,APT_DF:m3|ICP_DF:m2|ECP_DF:m7|MEP_DF:m3
+Aspartic acid,Glutamine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Aspartic acid,Glutamic acid,APT_F:2|ICP_F:1|ECP_N:0|MEP_F:8
+Aspartic acid,Glycine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:2
+Aspartic acid,Histidine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:3
+Aspartic acid,Isoleucine,APT_DF:m3|ICP_DF:m3|ECP_DF:m2|MEP_DF:m3
+Aspartic acid,Leucine,APT_DF:m4|ICP_DF:m3|ECP_DF:m2|MEP_DF:m5
+Aspartic acid,Lysine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:3
+Aspartic acid,Methionine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m3
+Aspartic acid,Phenylalanine,APT_DF:m3|ICP_DF:m3|ECP_DF:m2|MEP_DF:m6
+Aspartic acid,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Aspartic acid,Serine,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Aspartic acid,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Aspartic acid,Tryptophan,APT_DF:m4|ICP_DF:m2|ECP_DF:m3|MEP_DF:m4
+Aspartic acid,Tyrosine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m2
+Aspartic acid,Valine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Cysteine,Alanine,APT_N:0|ICP_N:0|ECP_DF:m4|MEP_N:0
+Cysteine,Arginine,APT_DF:m3|ICP_DF:m1|ECP_DF:m5|MEP_DF:m1
+Cysteine,Asparagine,APT_DF:m3|ICP_DF:m1|ECP_DF:m6|MEP_DF:m1
+Cysteine,Aspartic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m7|MEP_DF:m3
+Cysteine,Cysteine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Cysteine,Glutamine,APT_DF:m3|ICP_DF:m2|ECP_DF:m5|MEP_DF:m3
+Cysteine,Glutamic acid,APT_DF:m4|ICP_DF:m2|ECP_DF:m6|MEP_DF:m3
+Cysteine,Glycine,APT_DF:m3|ICP_DF:m1|ECP_DF:m6|MEP_DF:m1
+Cysteine,Histidine,APT_DF:m3|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Cysteine,Isoleucine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Cysteine,Leucine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Cysteine,Lysine,APT_DF:m3|ICP_DF:m1|ECP_DF:m6|MEP_DF:m3
+Cysteine,Methionine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Cysteine,Phenylalanine,APT_DF:m2|ICP_N:0|ECP_DF:m5|MEP_F:1
+Cysteine,Proline,APT_DF:m3|ICP_DF:m2|ECP_DF:m6|MEP_DF:m3
+Cysteine,Serine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_F:2
+Cysteine,Threonine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_N:0
+Cysteine,Tryptophan,APT_DF:m2|ICP_DF:m1|ECP_DF:m5|MEP_F:1
+Cysteine,Tyrosine,APT_DF:m2|ICP_N:0|ECP_DF:m4|MEP_F:3
+Cysteine,Valine,APT_DF:m1|ICP_N:0|ECP_DF:m4|MEP_N:0
+Glutamine,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Glutamine,Arginine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:5
+Glutamine,Asparagine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:3
+Glutamine,Aspartic acid,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Glutamine,Cysteine,APT_DF:m3|ICP_DF:m2|ECP_DF:m5|MEP_DF:m3
+Glutamine,Glutamine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:10
+Glutamine,Glutamic acid,APT_F:2|ICP_F:1|ECP_N:0|MEP_F:7
+Glutamine,Glycine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m2
+Glutamine,Histidine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:7
+Glutamine,Isoleucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Glutamine,Leucine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Glutamine,Lysine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:6
+Glutamine,Methionine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m2
+Glutamine,Phenylalanine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Glutamine,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Glutamine,Serine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m1
+Glutamine,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Glutamine,Tryptophan,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_N:0
+Glutamine,Tyrosine,APT_DF:m1|ICP_DF:m1|ECP_DF:m1|MEP_N:0
+Glutamine,Valine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Glutamic acid,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Glutamic acid,Arginine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Glutamic acid,Asparagine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Glutamic acid,Aspartic acid,APT_F:2|ICP_F:1|ECP_N:0|MEP_F:8
+Glutamic acid,Cysteine,APT_DF:m4|ICP_DF:m2|ECP_DF:m6|MEP_DF:m3
+Glutamic acid,Glutamine,APT_F:2|ICP_F:1|ECP_N:0|MEP_F:7
+Glutamic acid,Glutamic acid,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:10
+Glutamic acid,Glycine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_F:3
+Glutamic acid,Histidine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Glutamic acid,Isoleucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Glutamic acid,Leucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m5
+Glutamic acid,Lysine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:1
+Glutamic acid,Methionine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Glutamic acid,Phenylalanine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m6
+Glutamic acid,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m3
+Glutamic acid,Serine,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Glutamic acid,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Glutamic acid,Tryptophan,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Glutamic acid,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m5
+Glutamic acid,Valine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m2
+Glycine,Alanine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Glycine,Arginine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_N:0
+Glycine,Asparagine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m2
+Glycine,Aspartic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:3
+Glycine,Cysteine,APT_DF:m3|ICP_DF:m1|ECP_DF:m6|MEP_DF:m1
+Glycine,Glutamine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m1
+Glycine,Glutamic acid,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_F:3
+Glycine,Glycine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Glycine,Histidine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Glycine,Isoleucine,APT_DF:m4|ICP_DF:m3|ECP_DF:m2|MEP_DF:m2
+Glycine,Leucine,APT_DF:m4|ICP_DF:m3|ECP_DF:m2|MEP_DF:m4
+Glycine,Lysine,APT_DF:m2|ICP_N:0|ECP_DF:m1|MEP_DF:m1
+Glycine,Methionine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m3
+Glycine,Phenylalanine,APT_DF:m3|ICP_DF:m3|ECP_DF:m3|MEP_DF:m5
+Glycine,Proline,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m1
+Glycine,Serine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Glycine,Threonine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_N:0
+Glycine,Tryptophan,APT_DF:m2|ICP_DF:m2|ECP_DF:m2|MEP_DF:m2
+Glycine,Tyrosine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m5
+Glycine,Valine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m1
+Histidine,Alanine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Histidine,Arginine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:5
+Histidine,Asparagine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:3
+Histidine,Aspartic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:3
+Histidine,Cysteine,APT_DF:m3|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Histidine,Glutamine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:7
+Histidine,Glutamic acid,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:2
+Histidine,Glycine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Histidine,Histidine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:10
+Histidine,Isoleucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Histidine,Leucine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m4
+Histidine,Lysine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:4
+Histidine,Methionine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Histidine,Phenylalanine,APT_DF:m1|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Histidine,Proline,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Histidine,Serine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Histidine,Threonine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m2
+Histidine,Tryptophan,APT_DF:m2|ICP_N:0|ECP_DF:m1|MEP_DF:m1
+Histidine,Tyrosine,APT_F:2|ICP_F:1|ECP_N:0|MEP_F:6
+Histidine,Valine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m4
+Isoleucine,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Isoleucine,Arginine,APT_DF:m3|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Isoleucine,Asparagine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Isoleucine,Aspartic acid,APT_DF:m3|ICP_DF:m3|ECP_DF:m2|MEP_DF:m3
+Isoleucine,Cysteine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Isoleucine,Glutamine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Isoleucine,Glutamic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Isoleucine,Glycine,APT_DF:m4|ICP_DF:m3|ECP_DF:m2|MEP_DF:m2
+Isoleucine,Histidine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Isoleucine,Isoleucine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Isoleucine,Leucine,APT_F:2|ICP_F:2|ECP_F:1|MEP_F:1
+Isoleucine,Lysine,APT_DF:m3|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Isoleucine,Methionine,APT_F:1|ICP_F:1|ECP_N:0|MEP_F:1
+Isoleucine,Phenylalanine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m1
+Isoleucine,Proline,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Isoleucine,Serine,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_DF:m1
+Isoleucine,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Isoleucine,Tryptophan,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Isoleucine,Tyrosine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m4
+Isoleucine,Valine,APT_F:3|ICP_F:2|ECP_F:2|MEP_F:2
+Leucine,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Leucine,Arginine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Leucine,Asparagine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Leucine,Aspartic acid,APT_DF:m4|ICP_DF:m3|ECP_DF:m2|MEP_DF:m5
+Leucine,Cysteine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Leucine,Glutamine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Leucine,Glutamic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m5
+Leucine,Glycine,APT_DF:m4|ICP_DF:m3|ECP_DF:m2|MEP_DF:m4
+Leucine,Histidine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m4
+Leucine,Isoleucine,APT_F:2|ICP_F:2|ECP_F:1|MEP_F:1
+Leucine,Leucine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Leucine,Lysine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m4
+Leucine,Methionine,APT_F:2|ICP_F:2|ECP_F:1|MEP_F:1
+Leucine,Phenylalanine,APT_N:0|ICP_F:1|ECP_N:0|MEP_F:1
+Leucine,Proline,APT_DF:m3|ICP_DF:m2|ECP_N:0|MEP_DF:m1
+Leucine,Serine,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_DF:m2
+Leucine,Threonine,APT_DF:m1|ICP_DF:m1|ECP_N:0|MEP_DF:m1
+Leucine,Tryptophan,APT_DF:m2|ICP_N:0|ECP_DF:m2|MEP_DF:m2
+Leucine,Tyrosine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m3
+Leucine,Valine,APT_F:1|ICP_F:1|ECP_F:1|MEP_N:0
+Lysine,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Lysine,Arginine,APT_F:2|ICP_F:1|ECP_F:1|MEP_F:9
+Lysine,Asparagine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:5
+Lysine,Aspartic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:3
+Lysine,Cysteine,APT_DF:m3|ICP_DF:m1|ECP_DF:m6|MEP_DF:m3
+Lysine,Glutamine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:6
+Lysine,Glutamic acid,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:1
+Lysine,Glycine,APT_DF:m2|ICP_N:0|ECP_DF:m1|MEP_DF:m1
+Lysine,Histidine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_F:4
+Lysine,Isoleucine,APT_DF:m3|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Lysine,Leucine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m4
+Lysine,Lysine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:10
+Lysine,Methionine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m1
+Lysine,Phenylalanine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m5
+Lysine,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m4
+Lysine,Serine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m1
+Lysine,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Lysine,Tryptophan,APT_DF:m3|ICP_DF:m1|ECP_DF:m2|MEP_F:3
+Lysine,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_F:1
+Lysine,Valine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Methionine,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Methionine,Arginine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Methionine,Asparagine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Methionine,Aspartic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m3
+Methionine,Cysteine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_DF:m1
+Methionine,Glutamine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m2
+Methionine,Glutamic acid,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Methionine,Glycine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m3
+Methionine,Histidine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Methionine,Isoleucine,APT_F:1|ICP_F:1|ECP_N:0|MEP_F:1
+Methionine,Leucine,APT_F:2|ICP_F:2|ECP_F:1|MEP_F:1
+Methionine,Lysine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m1
+Methionine,Methionine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Methionine,Phenylalanine,APT_N:0|ICP_F:1|ECP_N:0|MEP_N:0
+Methionine,Proline,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Methionine,Serine,APT_DF:m1|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Methionine,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Methionine,Tryptophan,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m2
+Methionine,Tyrosine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m3
+Methionine,Valine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:1
+Phenylalanine,Alanine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Phenylalanine,Arginine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Phenylalanine,Asparagine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Phenylalanine,Aspartic acid,APT_DF:m3|ICP_DF:m3|ECP_DF:m2|MEP_DF:m6
+Phenylalanine,Cysteine,APT_DF:m2|ICP_N:0|ECP_DF:m5|MEP_F:1
+Phenylalanine,Glutamine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Phenylalanine,Glutamic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m6
+Phenylalanine,Glycine,APT_DF:m3|ICP_DF:m3|ECP_DF:m3|MEP_DF:m5
+Phenylalanine,Histidine,APT_DF:m1|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Phenylalanine,Isoleucine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m1
+Phenylalanine,Leucine,APT_N:0|ICP_F:1|ECP_N:0|MEP_F:1
+Phenylalanine,Lysine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m5
+Phenylalanine,Methionine,APT_N:0|ICP_F:1|ECP_N:0|MEP_N:0
+Phenylalanine,Phenylalanine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Phenylalanine,Proline,APT_DF:m4|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Phenylalanine,Serine,APT_DF:m2|ICP_DF:m2|ECP_DF:m2|MEP_DF:m1
+Phenylalanine,Threonine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Phenylalanine,Tryptophan,APT_F:1|ICP_F:1|ECP_F:1|MEP_DF:m3
+Phenylalanine,Tyrosine,APT_F:3|ICP_F:2|ECP_F:2|MEP_F:2
+Phenylalanine,Valine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Proline,Alanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Proline,Arginine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m3
+Proline,Asparagine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m2
+Proline,Aspartic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Proline,Cysteine,APT_DF:m3|ICP_DF:m2|ECP_DF:m6|MEP_DF:m4
+Proline,Glutamine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Proline,Glutamic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m3
+Proline,Glycine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m1
+Proline,Histidine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Proline,Isoleucine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Proline,Leucine,APT_DF:m3|ICP_DF:m2|ECP_N:0|MEP_DF:m1
+Proline,Lysine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m4
+Proline,Methionine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Proline,Phenylalanine,APT_DF:m4|ICP_DF:m2|ECP_DF:m2|MEP_DF:m4
+Proline,Proline,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Proline,Serine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Proline,Threonine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Proline,Tryptophan,APT_DF:m4|ICP_DF:m2|ECP_DF:m3|MEP_DF:m6
+Proline,Tyrosine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m5
+Proline,Valine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Serine,Alanine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:2
+Serine,Arginine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Serine,Asparagine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:2
+Serine,Aspartic acid,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Serine,Cysteine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_F:1
+Serine,Glutamine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m1
+Serine,Glutamic acid,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Serine,Glycine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Serine,Histidine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Serine,Isoleucine,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_DF:m1
+Serine,Leucine,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_DF:m2
+Serine,Lysine,APT_N:0|ICP_N:0|ECP_N:0|MEP_DF:m1
+Serine,Methionine,APT_DF:m1|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Serine,Phenylalanine,APT_DF:m2|ICP_DF:m2|ECP_DF:m2|MEP_DF:m1
+Serine,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Serine,Serine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Serine,Threonine,APT_F:1|ICP_N:0|ECP_F:1|MEP_F:2
+Serine,Tryptophan,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Serine,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_N:0
+Serine,Valine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m1
+Threonine,Alanine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Threonine,Arginine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Threonine,Asparagine,APT_N:0|ICP_N:0|ECP_N:0|MEP_F:1
+Threonine,Aspartic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Threonine,Cysteine,APT_DF:m1|ICP_N:0|ECP_DF:m5|MEP_N:0
+Threonine,Glutamine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Threonine,Glutamic acid,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Threonine,Glycine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_N:0
+Threonine,Histidine,APT_DF:m2|ICP_N:0|ECP_N:0|MEP_DF:m2
+Threonine,Isoleucine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Threonine,Leucine,APT_DF:m1|ICP_DF:m1|ECP_N:0|MEP_DF:m1
+Threonine,Lysine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m2
+Threonine,Methionine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_N:0
+Threonine,Phenylalanine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Threonine,Proline,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Threonine,Serine,APT_F:1|ICP_N:0|ECP_F:1|MEP_F:2
+Threonine,Threonine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
+Threonine,Tryptophan,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Threonine,Tyrosine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Threonine,Valine,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Tryptophan,Alanine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m3
+Tryptophan,Arginine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_F:5
+Tryptophan,Asparagine,APT_DF:m4|ICP_DF:m2|ECP_DF:m3|MEP_DF:m3
+Tryptophan,Aspartic acid,APT_DF:m4|ICP_DF:m2|ECP_DF:m3|MEP_DF:m4
+Tryptophan,Cysteine,APT_DF:m2|ICP_DF:m1|ECP_DF:m5|MEP_F:1
+Tryptophan,Glutamine,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_N:0
+Tryptophan,Glutamic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Tryptophan,Glycine,APT_DF:m2|ICP_DF:m2|ECP_DF:m2|MEP_DF:m2
+Tryptophan,Histidine,APT_DF:m2|ICP_N:0|ECP_DF:m1|MEP_DF:m1
+Tryptophan,Isoleucine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Tryptophan,Leucine,APT_DF:m2|ICP_N:0|ECP_DF:m2|MEP_DF:m2
+Tryptophan,Lysine,APT_DF:m3|ICP_DF:m1|ECP_DF:m2|MEP_F:3
+Tryptophan,Methionine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m2
+Tryptophan,Phenylalanine,APT_F:1|ICP_F:1|ECP_F:1|MEP_DF:m3
+Tryptophan,Proline,APT_DF:m4|ICP_DF:m2|ECP_DF:m3|MEP_DF:m6
+Tryptophan,Serine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Tryptophan,Threonine,APT_DF:m2|ICP_DF:m2|ECP_DF:m1|MEP_DF:m4
+Tryptophan,Tryptophan,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:7
+Tryptophan,Tyrosine,APT_F:2|ICP_F:2|ECP_F:1|MEP_DF:m3
+Tryptophan,Valine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Tyrosine,Alanine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Tyrosine,Arginine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m1
+Tyrosine,Asparagine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m1
+Tyrosine,Aspartic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m2
+Tyrosine,Cysteine,APT_DF:m2|ICP_N:0|ECP_DF:m4|MEP_F:3
+Tyrosine,Glutamine,APT_DF:m1|ICP_DF:m1|ECP_DF:m1|MEP_N:0
+Tyrosine,Glutamic acid,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m5
+Tyrosine,Glycine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m5
+Tyrosine,Histidine,APT_F:2|ICP_F:1|ECP_N:0|MEP_F:6
+Tyrosine,Isoleucine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m4
+Tyrosine,Leucine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m2
+Tyrosine,Lysine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_F:1
+Tyrosine,Methionine,APT_DF:m1|ICP_N:0|ECP_DF:m1|MEP_DF:m3
+Tyrosine,Phenylalanine,APT_F:3|ICP_F:2|ECP_F:2|MEP_F:2
+Tyrosine,Proline,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m5
+Tyrosine,Serine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_N:0
+Tyrosine,Threonine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m3
+Tyrosine,Tryptophan,APT_F:2|ICP_F:2|ECP_F:1|MEP_DF:m3
+Tyrosine,Tyrosine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:7
+Tyrosine,Valine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m4
+Valine,Alanine,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Valine,Arginine,APT_DF:m3|ICP_DF:m1|ECP_N:0|MEP_DF:m2
+Valine,Asparagine,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Valine,Aspartic acid,APT_DF:m3|ICP_DF:m2|ECP_DF:m1|MEP_DF:m3
+Valine,Cysteine,APT_DF:m1|ICP_N:0|ECP_DF:m4|MEP_N:0
+Valine,Glutamine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Valine,Glutamic acid,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m2
+Valine,Glycine,APT_DF:m3|ICP_DF:m2|ECP_DF:m2|MEP_DF:m1
+Valine,Histidine,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m4
+Valine,Isoleucine,APT_F:3|ICP_F:2|ECP_F:2|MEP_F:2
+Valine,Leucine,APT_F:1|ICP_F:1|ECP_F:1|MEP_N:0
+Valine,Lysine,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m4
+Valine,Methionine,APT_F:1|ICP_N:0|ECP_N:0|MEP_F:1
+Valine,Phenylalanine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m1
+Valine,Proline,APT_DF:m2|ICP_DF:m1|ECP_N:0|MEP_DF:m3
+Valine,Serine,APT_DF:m2|ICP_DF:m1|ECP_DF:m1|MEP_DF:m1
+Valine,Threonine,APT_N:0|ICP_N:0|ECP_N:0|MEP_N:0
+Valine,Tryptophan,APT_DF:m3|ICP_DF:m1|ECP_DF:m1|MEP_DF:m2
+Valine,Tyrosine,APT_DF:m1|ICP_N:0|ECP_N:0|MEP_DF:m4
+Valine,Valine,APT_F:4|ICP_F:4|ECP_F:4|MEP_F:4
